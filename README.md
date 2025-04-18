@@ -21,7 +21,7 @@ Profesor: León Baca, Marco Antonio
 
 **Integrantes:**
 - Amaro Villanueva, Camila Elena
-- 
+- Barrial Marin, Sharon Antuanet Ivet   U202114900
 - 
 - 
 -
