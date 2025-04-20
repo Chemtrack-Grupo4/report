@@ -199,3 +199,189 @@ del ABET – EAC - Student Outcome 5.
 | - | - | - |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta. |  | TB1:  |
 | Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. |  | TB1:  |
+
+## 2.3. Needfinding
+En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
+
+### 2.3.1. User Personas
+
+Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, estos user persona son creados en base a la investigación de capitulos previos para identificar a los diferentes tipos de clientes que podrían usar el producto solución. Se utilizó la herramienta UXPressia.
+
+**Transportistas de combustibles peligrosos**
+
+![361573775-97d571cf-7016-4d0d-9b38-ed6343c98e6f](https://github.com/user-attachments/assets/d045a6b1-433a-47e3-ab11-df173cd3438d)
+
+
+**Empresas de transporte de productos peligrosos**
+
+![Carlo Galavis](https://github.com/user-attachments/assets/fb10e06a-0889-4d9b-a8d0-d005574d1eb8)
+
+### 2.3.2. User Task Matrix
+
+A continuación, se muestra el User Task Matrix para los siguientes segmentos objetivo:
+
+
+<table>
+  <tr>
+    <th></th>
+    <td colspan="2">TRANSPORTISTAS</td>
+    <td colspan="2">EMPRESAS</td>
+  </tr>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+  </tr>
+  <tr>
+    <td>Registrar los envíos de productos combustibles</td>
+    <td>Low </td>
+    <td>Low</td>
+    <td>High</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Coordinar con los demás transportistas detalles acerca del cargamento</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rare</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Trazar la ruta que se tiene que recorrer y sus peligros </td>
+    <td>Always</td>
+    <td>Medium</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Evaluar calidad de los vehiculos de transporte</td>
+    <td>Always</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Evaluar demanda y tendencias</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Revisar el estado del cargamento</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Inspeccionar la condición del cargamento previo al transporte</td>
+    <td>Often</td>
+    <td>Low</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Monitorear la velocidad del transportista</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+</table>
+
+**Tareas con Mayor Frecuencia e Importancia:**
+- Frecuencia:
+
+> Respecto al segmento objetivo de transportistas, las tareas que se realizan con mayor 
+> frecuencia incluyen trazar la ruta que se tiene que recorrer y sus peligros, coordinar con los demás transportistas detalles acerca del cargamento, 
+> y evaluar la calidad de los vehículos de transporte. Por otro lado, para el segmento de empresas de transporte de productos peligrosos, las tareas más
+> frecuentes son evaluar la calidad de los vehículos de transporte, revisar el estado del cargamento, y trazar la ruta y sus peligros.
+
+- Importancia:
+
+> Para el segmento de empresas de transporte, las tareas más importantes incluyen registrar los 
+> envíos de productos combustibles, evaluar la calidad de los vehículos de transporte, y monitorear la velocidad del transportista. 
+> En el caso de los transportistas, las tareas de mayor relevancia son coordinar detalles acerca del cargamento, evaluar la 
+> calidad de los vehículos de transporte, y trazar la ruta que se tiene que recorrer.
+
+Principales Diferencias y Coincidencias:
+
+Una de las principales diferencias entre los dos segmentos objetivo es que las empresas de transporte tienen una mayor responsabilidad en la supervisión y monitoreo del cargamento, como lo demuestra la alta importancia y frecuencia asignada a tareas como revisar el estado del cargamento y monitorear la velocidad del transportista. Por otro lado, los transportistas se centran más en la planificación de rutas y la coordinación con otros transportistas, lo que refleja su rol más operativo y menos gerencial.
+
+Tanto los transportistas como las empresas coinciden en la alta importancia de la evaluación de la calidad de los vehículos de transporte y la necesidad de trazar rutas seguras y eficientes. Ambas audiencias reconocen la importancia crítica de estas tareas para garantizar la seguridad y la eficiencia en el transporte de productos peligrosos.
+
+### 2.3.3. Empathy Mapping
+
+![Empathy map](https://github.com/user-attachments/assets/ed0e74aa-de6d-4e8f-9ca6-e235f146f6c7)
+![Empathy map (1)](https://github.com/user-attachments/assets/ef04d9c0-99cf-47e2-8c70-5f579319d6f7)
+
+### 2.3.4. As-is Scenario Mapping
+
+![image](https://github.com/user-attachments/assets/753224a7-ec79-412f-9fe9-7a5cf13b7c0b)
+![image](https://github.com/user-attachments/assets/233c4c8e-0a59-472f-863e-d9023194cdc5)
+
+## 2.4. Ubiquitous Language
+
+Términos y Definiciones
+
+**Dashboard (Panel de Control)**
+Un panel de control es un componente de la interfaz de usuario que proporciona una visión general del estado del transporte, incluyendo datos en tiempo real de sensores de gas y temperatura. Permite a los operadores monitorear alertas de seguridad y la ubicación de la carga.
+
+**Incident List (Listado de Incidentes)**
+Una pantalla que presenta una lista de todos los incidentes reportados durante los servicios de transporte. Incluye detalles como niveles de gas peligrosos detectados, cambios de temperatura anormales y acciones correctivas tomadas.
+
+**Incident Notification (Notificación de Incidentes)**
+El proceso por el cual los transportistas y empresarios son informados de forma automática y en tiempo real sobre fugas de gas, temperaturas fuera del rango seguro u otros problemas detectados por los sensores IoT instalados en los vehículos de transporte.
+
+**Monitoring Package (Monitoreo de Carga)**
+Seguimiento en tiempo real del estado de la carga, utilizando sensores IoT para registrar niveles de gas, temperatura y otros parámetros críticos para evitar accidentes durante el transporte de productos peligrosos.
+
+**Transport Service (Servicio de Transporte)**
+El conjunto de operaciones logísticas, incluyendo el monitoreo en tiempo real y la detección temprana de riesgos, destinados a transportar bienes peligrosos como gasolina o gas desde un punto de origen hasta su destino final.
+
+**Transporters (Transportistas)**
+Personas o empresas responsables de supervisar los vehículos equipados con sensores IoT para garantizar un transporte seguro de productos peligrosos.
+
+**Business Owner (Empresario)**
+Persona o entidad encargada de gestionar la logística y la coordinación del transporte de bienes peligrosos, supervisando las métricas de seguridad proporcionadas por la solución IoT.
+
+**Incident Report (Reporte de Incidente)**
+Documento generado automáticamente que detalla un incidente detectado por los sensores IoT, como fugas de gas o incrementos bruscos de temperatura. Incluye la causa, impacto y medidas correctivas tomadas.
+
+**Sensor Alerts (Alertas de Sensores)**
+Notificaciones automáticas enviadas a través de la plataforma cuando los sensores IoT detectan condiciones peligrosas como niveles altos de gas o temperaturas fuera del rango seguro.
+
+**Transporter Rating (Calificación de Transportistas)**
+Evaluación de la calidad del servicio ofrecido por los transportistas basada en su capacidad de respuesta a alertas de seguridad y su cumplimiento con los estándares de manejo de bienes peligrosos.
+
+**Transporter Registration (Registro de Transportistas)**
+Proceso mediante el cual un transportista se registra en la plataforma para vincular su flota de vehículos con sensores IoT y ofrecer servicios de transporte seguro.
+
+**Login (Iniciar Sesión)**
+El proceso mediante el cual un usuario accede a su cuenta en la plataforma para monitorear, gestionar o responder a alertas relacionadas con el transporte de bienes peligrosos.
+
+**Authentication Policy (Política de Autenticación)**
+Conjunto de reglas que garantizan que solo usuarios autorizados, como transportistas y empresarios, puedan acceder a la plataforma y monitorear los datos IoT.
+
+**Transport Route (Ruta de Transporte)**
+El trayecto definido que debe seguir el transportista, monitoreado en tiempo real para garantizar el cumplimiento de condiciones seguras a lo largo del recorrido.
+
+
+## 2.5 Sustento de la Tecnología Emergente (IoT)
+
+¿Cómo el IoT Resuelve la Problemática de la Fuga de Gas en el Transporte de Productos Peligrosos?
+
+El uso de sensores IoT para monitorear en tiempo real el estado de la carga en vehículos de transporte de bienes peligrosos como gasolina o gas aborda directamente las principales problemáticas de seguridad y gestión logística:
+
+1. **Detección Temprana de Fugas:** Los sensores IoT instalados en las unidades de transporte son capaces de detectar fugas de gas de manera instantánea. Esto permite enviar alertas automáticas a transportistas y empresarios, reduciendo el tiempo de respuesta y evitando posibles desastres.
+
+2. **Monitoreo Continuo de Condiciones Ambientales:** Los sensores de temperatura monitorean continuamente el ambiente interno del vehículo. Un aumento anormal en la temperatura puede ser un indicador de peligro inminente, lo que activa protocolos de seguridad automáticos.
+
+3. **Registro y Reporte de Incidentes:** La tecnología IoT facilita la generación automática de reportes detallados de incidentes, proporcionando evidencia clara de lo ocurrido y ayudando a implementar mejoras en las operaciones futuras.
+
+4. **Cumplimiento de Normativas:** La solución IoT ayuda a los transportistas y empresarios a cumplir con las normativas internacionales de seguridad para el transporte de bienes peligrosos, minimizando riesgos legales y ambientales.
+
+En conclusión, la implementación de IoT en el transporte de productos peligrosos no solo mejora la seguridad, sino que también optimiza la eficiencia logística y reduce los costos asociados a accidentes, protegiendo tanto a las personas como al medio ambiente.
