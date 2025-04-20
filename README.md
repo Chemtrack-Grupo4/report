@@ -224,21 +224,24 @@ Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño 
 
 ---
 
-Mi nombre es 
+Mi nombre es Sharon Antuanet Ivet Barrial Marin, soy estudiante de Ingeniería de Software con experiencia en desarrollo full-stack, diseño UI/UX y gestión de bases de datos. En mi tiempo libre disfruto leer, ver películas y escuchar música. 
 
-
-
----
-
-Mi nombre es 
-
-
+![WhatsApp Image 2025-04-19 at 21 16 36_e91c623f](https://github.com/user-attachments/assets/f009ea27-6761-4f18-9c34-f5d7a6501bab)
 
 
 ---
 
-Mi nombre es 
+Mi nombre es Niurka Huarcaya y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
 
+
+![image](https://github.com/user-attachments/assets/e8277566-b4e5-45d2-8cfe-a8fe04a56471)
+
+
+---
+
+Mi nombre es Josue Omar Hidalgo Bustamante, soy un estudiante de Ingeniería de Software con experiencia en C++, SQL, MongoDB, JS, Reactjs, NodeJs, Paciencia y Responsabilidad. 
+
+![image](https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843)
 
 
 
