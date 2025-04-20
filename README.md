@@ -213,37 +213,31 @@ Como misión se plantea “Incrementar la calidad del servicio de transporte de 
 
 Mi nombre es Camila Elena Amaro Villanueva, cuento con conocimientos de desarrollo frontend y backend, además de lenguajes programación como C++, python y javascript. Además, entre mis habilidades puedo resaltar la responsabilidad y creatividad que poseo para aportar en los trabajos en equipo.
 
-![image](https://github.com/user-attachments/assets/d03388b2-c106-406c-961f-3785e3fae476)
+<img src="https://github.com/user-attachments/assets/d03388b2-c106-406c-961f-3785e3fae476" width="300" />
 
 ---
 
 Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
 
-![1689649934031](https://github.com/user-attachments/assets/5ceaee27-7da3-4863-9518-4910ba33e5f5)
-
+<img src="https://github.com/user-attachments/assets/5ceaee27-7da3-4863-9518-4910ba33e5f5" width="300" />
 
 ---
 
 Mi nombre es Sharon Antuanet Ivet Barrial Marin, soy estudiante de Ingeniería de Software con experiencia en desarrollo full-stack, diseño UI/UX y gestión de bases de datos. En mi tiempo libre disfruto leer, ver películas y escuchar música. 
 
-![WhatsApp Image 2025-04-19 at 21 16 36_e91c623f](https://github.com/user-attachments/assets/f009ea27-6761-4f18-9c34-f5d7a6501bab)
-
+<img src="https://github.com/user-attachments/assets/f009ea27-6761-4f18-9c34-f5d7a6501bab" width="300" />
 
 ---
 
 Mi nombre es Niurka Huarcaya y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
 
-
-![image](https://github.com/user-attachments/assets/e8277566-b4e5-45d2-8cfe-a8fe04a56471)
-
+<img src="https://github.com/user-attachments/assets/e8277566-b4e5-45d2-8cfe-a8fe04a56471" width="300" />
 
 ---
 
 Mi nombre es Josue Omar Hidalgo Bustamante, soy un estudiante de Ingeniería de Software con experiencia en C++, SQL, MongoDB, JS, Reactjs, NodeJs, Paciencia y Responsabilidad. 
 
-![image](https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843)
-
-
+<img src="https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843" width="300" />
 
 ## 1.2. Solution Profile
 
