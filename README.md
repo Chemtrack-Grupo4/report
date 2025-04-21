@@ -22,7 +22,7 @@ Profesor: León Baca, Marco Antonio
 **Integrantes:**
 - Amaro Villanueva, Camila Elena        U202114248
 - Barrial Marin, Sharon Antuanet Ivet   U202114900
-- 
+- Laguerre Challco, Fabrizzio Hernan    U20211A950
 - 
 -
 - 
@@ -199,3 +199,114 @@ del ABET – EAC - Student Outcome 5.
 | - | - | - |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta. |  | TB1:  |
 | Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. |  | TB1:  |
+
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
+
+El startup que se introduce en el presente informe recibe como nombre “CuriDev”. Actualmente conformado por un conjunto de estudiantes de la Universidad Peruana de Ciencias Aplicadas, con la ambición de querer ayudar a la sociedad con nuestra grán pasión a la tecnología e informática, creamos esta startup tomando como objetivo asegurar la integridad y mejorar los procesos de trabajo de las empresas de transporte de productos peligrosos.
+
+Como misión se plantea “Incrementar la calidad del servicio de transporte de combustibles con eficiencia, seguridad y transparencia entre conductores y empresas”. Asimismo, la visión de la startup plantea desarrollar la solución IoT más reconocida en el Perú para asegurar la integridad de los transportes de productos peligrosos.
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+Mi nombre es Camila Elena Amaro Villanueva, cuento con conocimientos de desarrollo frontend y backend, además de lenguajes programación como C++, python y javascript. Además, entre mis habilidades puedo resaltar la responsabilidad y creatividad que poseo para aportar en los trabajos en equipo.
+
+<img src="https://github.com/user-attachments/assets/d03388b2-c106-406c-961f-3785e3fae476" width="300" />
+
+---
+
+Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
+
+<img src="https://github.com/user-attachments/assets/5ceaee27-7da3-4863-9518-4910ba33e5f5" width="300" />
+
+---
+
+Mi nombre es Sharon Antuanet Ivet Barrial Marin, soy estudiante de Ingeniería de Software con experiencia en desarrollo full-stack, diseño UI/UX y gestión de bases de datos. En mi tiempo libre disfruto leer, ver películas y escuchar música. 
+
+<img src="https://github.com/user-attachments/assets/f009ea27-6761-4f18-9c34-f5d7a6501bab" width="300" />
+
+---
+
+Mi nombre es Niurka Huarcaya y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
+
+<img src="https://github.com/user-attachments/assets/e8277566-b4e5-45d2-8cfe-a8fe04a56471" width="300" />
+
+---
+
+Mi nombre es Josue Omar Hidalgo Bustamante, soy un estudiante de Ingeniería de Software con experiencia en C++, SQL, MongoDB, JS, Reactjs, NodeJs, Paciencia y Responsabilidad. 
+
+<img src="https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843" width="300" />
+
+## 1.2. Solution Profile
+
+**Product name**
+
+
+El nombre elegido para nuestra solucion es ChemTrack. Este nombre transmite la idea de un camino seguro en el cuál se llevaran los productos quimicos, lo cual es el objetivo principal del sistema de detección y alerta.
+
+
+**Product Description**
+
+La solución IoT es innovadora dado que se brinda un servicio de transporte de productos peligrosos implementando la supervisión de condiciones de seguridad tanto para el mismo conductor y para el monitoreo de la empresa. Por medio de sensores incluidos en el vehículo y en el conductor, se supervisará el material de carga y se notificará en caso exista alguna fuga. También se mantendra control del estado de salud del conductor. Estos sensores varían desde fuga de gas, temperatura, presión, movimiento, etc. 
+
+
+**Monetización**
+
+El sistema tendrá una suscripción donde cubra el precio de los dispostivos IOT y el servicio de la plataforma.
+
+### 1.2.1. Antecedentes y problemática
+
+En los últimos años, la industria del transporte de productos peligrosos, como gases inflamables, productos químicos y materiales industriales, la seguridad es una prioridad absoluta. A lo largo de los años, ha habido numerosos incidentes que han resultado en daños graves, tanto para los trabajadores involucrados como para el medio ambiente y las comunidades cercanas. Estos incidentes se han debido principalmente a fugas, explosiones y derrames de materiales peligrosos durante el transporte.
+
+Uno de los principales problemas radica en la detección tardía de fugas y otras condiciones peligrosas durante el transporte. La falta de un monitoreo continuo y en tiempo real dificulta la identificación oportuna de irregularidades, como cambios en la presión, temperatura o movimiento inusual del vehículo. Esta situación aumenta la probabilidad de que un problema menor se convierta en una emergencia antes de ser detectado y abordado.
+
+Otro desafío es la fragmentación de las soluciones actuales de monitoreo. Muchas empresas dependen de sistemas manuales o tecnologías desactualizadas que no proporcionan una supervisión integral. Esta carencia de un sistema centralizado y automatizado crea brechas en la seguridad, dejando a las empresas vulnerables a incidentes que podrían haberse prevenido con un mejor monitoreo.
+
+Además, las exigencias regulatorias en el transporte de materiales peligrosos son cada vez más estrictas. El incumplimiento de estas normativas no solo implica sanciones legales, sino también la pérdida de confianza de los clientes y daños significativos a la reputación de la empresa. Sin herramientas adecuadas para garantizar el cumplimiento, las empresas corren el riesgo de enfrentar graves consecuencias financieras y operativas.
+
+**Herramienta 5W y 2H**
+
+**¿Qué? (What)**
+
+Según Lopez-Atamorors et al. (2010), nos dice que los principales riesgos dentro del servicio de transportes peligros son: Choque, Explosión y Fuga. Debido a ello, el transporte de productos peligrosos, como gases inflamables y productos químicos, significa un alto riesgo que se tiene que afrontar. La falta de monitoreo continuo y en tiempo real impide la identificación oportuna de condiciones peligrosas, como cambios en la presión, temperatura o movimiento del vehículo, también suponen unod estos problemas.
+
+**¿Cuándo? (When)**
+
+Este problema se presenta de manera constante durante el transporte de productos peligrosos, particularmente en situaciones de emergencia o cuando las condiciones de seguridad cambian rápidamente y no se detectan a tiempo.
+
+**¿Dónde? (Where)**
+
+Los problemas surgen en cualquier etapa del transporte de materiales peligrosos, ya sea en carreteras, vías ferroviarias o puertos. Estos incidentes afectan principalmente a las rutas de transporte utilizadas por empresas que manejan productos químicos, gases inflamables y otros materiales industriales peligrosos.
+
+**¿Quién? (Who)**
+
+Los principales afectados son las empresas de transporte de productos peligrosos, los trabajadores que manipulan estos materiales y las comunidades cercanas a las rutas de transporte. También se ven afectadas las autoridades reguladoras que deben supervisar el cumplimiento de las normas de seguridad.
+
+**¿Por qué? (Why)**
+
+Según Chacoón y Domingo (2021): los efectos de fugas de gases pueden aumentar el efecto invernadero, contaminación de atmosfera y otros efectos nocivos, debido a ello es importante. Además, la falta de un sistema de monitoreo eficiente y continuo. Muchos sistemas actuales son manuales o desactualizados, lo que crea brechas de seguridad. Esto se agrava con el incumplimiento de regulaciones, lo cual puede resultar en sanciones legales y pérdidas de reputación.
+
+**¿Cómo? (How)**
+
+La problemática se manifiesta a través de incidentes como fugas, explosiones y derrames que no son detectados a tiempo debido a la falta de monitoreo adecuado. Las empresas a menudo dependen de sistemas fragmentados que no ofrecen una supervisión integral, exponiendo a los trabajadores y al medio ambiente a riesgos significativos.
+
+**¿Cuánto? (How Much)**
+
+Según Soto et al. (2023), en la mayoría de países de latinoamerica, se arroja que en un año promedio se atienden más de 11,00 resportes relacionados con gas L.P y gas natural. Las pérdidas asociadas incluyen daños a la infraestructura, sanciones legales, costos de limpieza y posibles daños a la salud de los trabajadores y el público. Además, el incumplimiento de las regulaciones puede llevar a multas que varían dependiendo de la gravedad del incidente y el impacto ambiental.
+
+**Conclusiones de las 5W + 2H**
+
+Luego de analizar las 5W y 2H, se evidencia que la industria del transporte de productos peligrosos enfrenta desafíos críticos en la detección temprana de fugas y otros incidentes relacionados con la seguridad. La fragmentación y la falta de actualización de las tecnologías de monitoreo son factores clave que impiden una respuesta rápida y efectiva ante emergencias. Para mitigar estos riesgos, se requiere una solución integral que incluya la implementación de tecnologías de monitoreo continuo y en tiempo real, centralizando la supervisión y mejorando la capacidad de respuesta ante condiciones peligrosas. Esto no solo ayudaría a cumplir con las normativas cada vez más estrictas, sino que también protegería a los trabajadores, el medio ambiente y las comunidades circundantes.
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+Los productos/servicios existentes no abordan adecuadamente el problema crítico de la detección temprana de fugas de gases combustibles (GNV) durante su transporte, lo que pone en riesgo tanto la seguridad de los conductores como la reputación de las empresas.
+
+Nuestra solución abordará esta brecha proporcionando un sistema de monitoreo en tiempo real que, a través de sensores, detectará rápidamente cualquier anomalía durante el transporte antes de que afecte al conductor o al producto transportado y se convierta en una amenaza.
+
+Nos enfocaremos inicialmente en empresas de transporte de gases combustibles que necesiten mejorar sus medidas de seguridad y reducir riesgos operativos.
+
+Sabremos que hemos tenido éxito cuando observemos una reducción significativa en los incidentes relacionados con fugas de gas, junto con una mejora en la percepción de seguridad por parte de los conductores y las empresas involucradas.
