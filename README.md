@@ -707,25 +707,25 @@ Para realizar esta dinámica se hizo uso de la plataforma *MIRO* como soporte vi
 
 En esta fase, se lograron definir los eventos más relevantes que reflejan las acciones clave dentro de la solución tecnológica logrando así los primeros borarradores de los *bounded context*.
 
-![setp1](assets/eventstorming/step1.png)
+![image](https://github.com/user-attachments/assets/20a8a668-6e4e-4d80-90fe-b87d6e609bff)
 
 **Step 2: Timelines**
 
 En esta etapa, los eventos detectados se organizaron en conjuntos más pequeños, considerando tanto las rutas ideales o exitosas *(happy paths)* como aquellas que representan fallos o situaciones no deseadas *(unhappy paths)*. Esta clasificación permitió estructurar mejor la información y entender las distintas secuencias dentro del sistema de forma más clara.
 
-![step2](assets/eventstorming/step2.png)
+![image](https://github.com/user-attachments/assets/3873cf40-8ccf-4aa3-a3a8-dd4e10f9014a)
 
 **Step 3: Paint Points**
 
 En este proceso se detectaron *paint points*, es decir, áreas problemáticas donde los usuarios podrían enfrentar dificultades al interactuar con nuestro sistema. Identificarlos es clave para mejorar la experiencia de uso y optimizar el diseño de la aplicación.
 
-![step3](assets/eventstorming/step3.png)
+![image](https://github.com/user-attachments/assets/888ca973-34d1-4151-9dc5-ff5e7bb2547a)
 
 **Step 4: Pivotal Points**
 
 Durante esta fase se identificaron *pivotal points*, es decir, eventos clave que representan momentos cruciales en el flujo de la plataforma, con un fuerte impacto en el comportamiento del sistema o la experiencia de usuario.
 
-![step4](assets/eventstorming/step4.png)
+![image](https://github.com/user-attachments/assets/7d6160ab-2489-4c5e-9206-7b69ddd0b90b)
 
 **Step 5: Commands**
 
