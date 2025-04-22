@@ -205,7 +205,7 @@ del ABET – EAC - Student Outcome 5.
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
-El startup que se introduce en el presente informe recibe como nombre “CuriDev”. Actualmente conformado por un conjunto de estudiantes de la Universidad Peruana de Ciencias Aplicadas, con la ambición de querer ayudar a la sociedad con nuestra grán pasión a la tecnología e informática, creamos esta startup tomando como objetivo asegurar la integridad y mejorar los procesos de trabajo de las empresas de transporte de productos peligrosos.
+El startup que se introduce en el presente informe recibe como nombre “TrackTox”. Actualmente conformado por un conjunto de estudiantes de la Universidad Peruana de Ciencias Aplicadas, con la ambición de querer ayudar a la sociedad con nuestra grán pasión a la tecnología e informática, creamos esta startup tomando como objetivo asegurar la integridad y mejorar los procesos de trabajo de las empresas de transporte de productos peligrosos.
 
 Como misión se plantea “Incrementar la calidad del servicio de transporte de combustibles con eficiencia, seguridad y transparencia entre conductores y empresas”. Asimismo, la visión de la startup plantea desarrollar la solución IoT más reconocida en el Perú para asegurar la integridad de los transportes de productos peligrosos.
 
@@ -567,7 +567,12 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ### 2.3.3. Empathy Mapping
 
+**Transportistas de combustibles peligrosos**
+
 ![Empathy map](https://github.com/user-attachments/assets/ed0e74aa-de6d-4e8f-9ca6-e235f146f6c7)
+
+**Empresas de transporte de productos peligrosos**
+
 ![Empathy map (1)](https://github.com/user-attachments/assets/ef04d9c0-99cf-47e2-8c70-5f579319d6f7)
 
 ### 2.3.4. As-is Scenario Mapping
@@ -669,9 +674,14 @@ El trayecto definido que debe seguir el transportista, monitoreado en tiempo rea
 
 ## 3.3. Impact Mapping
 
-![image](https://github.com/user-attachments/assets/579455f2-88ac-4f21-a78d-ba428afc5caa)
+**Empresas de transporte de productos peligrosos**
 
 ![image](https://github.com/user-attachments/assets/0e275f07-8f13-4e0d-9d7c-184bdbfd0aca)
+
+**Empresas de transporte de productos peligrosos**
+
+![image](https://github.com/user-attachments/assets/579455f2-88ac-4f21-a78d-ba428afc5caa)
+
 
 
 ## 3.4. Product Backlog
