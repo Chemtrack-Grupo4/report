@@ -452,6 +452,367 @@ A continuación, se plantean las hipótesis que proponen una solución a la prob
 | **Psicográfico** | Clase Social: Media <br> Estilo de Vida: Conductores con experiencia en el transporte de materiales peligrosos, que valoran la seguridad y buscan minimizar riesgos en su trabajo diario. | Clase social: No es relevante dado que puede incluir pequeñas empresas de transporte o grandes corporaciones. <br> Estilo de vida: Empresas comprometidas con la seguridad y la eficiencia en el transporte de materiales peligrosos, interesadas en innovar y mejorar sus protocolos de seguridad. |  
 | **Demográfico** | Edad: 25-55 <br> Nivel de Ingreso: No es relevante, dirigido a conductores profesionales con experiencia en la conducción de vehículos de transporte pesado | Edad: 30-60 <br> Nivel de ingreso: No es relevante, dirigido a empresas que manejan flotas de transporte de materiales peligrosos | 
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+### 2.1.1. Análisis competitivo
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 18%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">¿Por qué llevar a cabo este análisis?</th>
+<th colspan="5">Se hace este analisis para conocer las debilidades y fortalezas y compararlas con el producto solución propuesto</th>
+</tr>
+<tr class="odd">
+<th colspan="5">Llevar a cabo este análisis permite identificar las
+ventajas competitivas y oportunidades de mejora de "SafeFlow" frente a
+competidores clave, informando estrategias efectivas para destacar en el
+mercado agrícola y atraer a agricultores y comerciantes.</th>
+</tr>
+<tr class="header">
+<th></th>
+<th></th>
+<th>SafeFlow</th>
+<th>Grupo Caresny</th>
+<th>Dachser</th>
+<th>Cargo & Transport</th>
+</tr>
+<tr class="odd">
+<th rowspan="2">Perfil</th>
+<th>Overview</th>
+<th>Es una solución tecnológica integral  que ofrece un sistema 
+de detección y alerta para el transporte seguro de productos peligrosos
+mediante tecnología IoT..</th>
+<th>Es una empresa tradicional en el sector del transporte
+de mercancías con un enfoque en soluciones logísticas personalizadas.</th>
+<th>Es una multinacional con un enfoque en la logística integral
+que abarca transporte terrestre, aéreo y marítimo.</th>
+<th>Es una empresa especializada en el transporte de
+carga pesada y bienes industriales, con una fuerte presencia en 
+mercados emergentes.</th>
+</tr>
+<tr class="header">
+<th>Ventaja competitiva</th>
+<th>Su enfoque en la seguridad y supervisión en tiempo real
+mediante sensores avanzados que monitorean condiciones como
+fugas de gas, temperatura, presión y movimiento.</th>
+<th>Amplia red de transporte y servicios logísticos integrados
+que permiten una distribución eficiente a nivel global.</th>
+<th>Fuerte infraestructura global y capacidades avanzadas en 
+gestión de la cadena de suministro.</th>
+<th>Experiencia en mercados difíciles y capacidad para manejar
+cargas de gran tamaño o peligrosas.</th>
+</tr>
+<tr class="odd">
+<th rowspan="2">Perfil de Marketing</th>
+<th>Mercado Objetivo</th>
+<th>Empresas que transportan productos peligrosos, 
+especialmente en la industria química y petrolera.</th>
+<th>Empresas que buscan soluciones logísticas personalizadas, 
+especialmente en sectores minoristas y de bienes de consumo.</th>
+<th>Empresas multinacionales con necesidades complejas de logística
+y transporte global.</th>
+<th>Industrias pesadas y proyectos de infraestructura en mercados emergentes.</th>
+</tr>
+<tr class="header">
+<th>Estrategias de marketing</th>
+<th>Enfoque en la seguridad y cumplimiento normativo, destacando
+la innovación tecnológica como diferenciador.</th>
+<th>Contratos a largo plazo y servicio al cliente personalizado.</th>
+<th>Infraestructura global y tecnología avanzada para la gestión
+de la cadena de suministro.</th>
+<th>Reputación en fiabilidad y capacidad para manejar cargas complejas.</th>
+</tr>
+<tr class="odd">
+<th rowspan="3">Perfil de Producto</th>
+<th>Productos &amp; Servicios</th>
+<th>Sistemas IoT para la supervisión del transporte de productos peligrosos.</th>
+<th>Soluciones logísticas, transporte terrestre, almacenamiento y distribución.</th>
+<th>Servicios de transporte terrestre, aéreo y marítimo, logística contractual
+y gestión de la cadena de suministro.</th>
+<th>Transporte de carga pesada, logística para proyectos y soluciones 
+especializadas para industrias.</th>
+</tr>
+<tr class="header">
+<th>Precios y Costos</th>
+<th>Modelo basado en suscripción con costos variables según el número de sensores
+y características adicionales.</th>
+<th>Costos competitivos, con opciones personalizadas según el servicio requerido.</th>
+<th>Varían según la complejidad del servicio y el alcance global.</th>
+<th>Costos basados en la complejidad del transporte y el tipo de carga.</th>
+</tr>
+<tr class="odd">
+<th><p>Canales de distribución</p>
+<p>(Web y/o Móvil)</p></th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+</tr>
+<tr class="header">
+<th rowspan="5">Análisis SWOT</th>
+<th colspan="5">Realice esto para su startup y sus competidores. Sus
+fortalezas deberían apoyar sus oportunidades y contribuir a lo que
+ustedes definen como su posible ventaja competitiva.</th>
+</tr>
+<tr class="odd">
+<th>Fortalezas</th>
+<th>Innovación tecnológica, enfoque en seguridad, capacidad de 
+monitoreo en tiempo real. Plataforma integral.</th>
+<th>Red logística establecida, fuerte relación con clientes.</th>
+<th>Infraestructura global, experiencia en logística compleja.</th>
+<th>Experiencia en manejo de cargas pesadas y peligrosas, 
+fuerte presencia en mercados emergentes.</th>
+</tr>
+<tr class="header">
+<th>Debilidades</th>
+<th>Dependencia de la tecnología IoT, costos iniciales altos para los clientes.</th>
+<th>Falta de innovación tecnológica en comparación con competidores.</th>
+<th>Costos operativos altos, dependencia de mercados maduros.</th>
+<th>Menor presencia global comparada con competidores más grandes.</th>
+</tr>
+<tr class="odd">
+<th>Oportunidades</th>
+<th>Creciente demanda de seguridad en el transporte de productos 
+peligrosos, expansión a otros mercados.</th>
+<th>Expansión a nuevos mercados y adopción de nuevas tecnologías.</th>
+<th>Expansión en mercados emergentes, adopción de tecnologías sostenibles.</th>
+<th>Expansión a nuevos sectores industriales, colaboración con nuevas tecnologías.</th>
+</tr>
+<tr class="header">
+<th>Amenazas</th>
+<th>Competencia de empresas más grandes con mayores recursos, regulación cambiante.</th>
+<th>Competencia de empresas más innovadoras, presión en márgenes de precios.</th>
+<th>Competencia en mercados emergentes, fluctuaciones económicas globales.</th>
+<th>Competencia en precios, regulaciones ambientales más estrictas.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+| Estrategia/ Táctica                          | Medidas a tomar                                         |
+|----------------------------------------------|---------------------------------------------------------|
+| Diferenciación en implementación IoT | \- Destacar la ventaja de la implementación de sensores junto con una aplicación    |
+|                                              | \- Resaltar el uso de sensores durante todo el transporte           |
+|                                              | \- Alianzas con empresas de transporte |
+| Enfoque en la seguridad                    | \- Priorizar la seguridad de los conductores         |
+|                                              | \- Ofrecer a las empresas los detalles obtenidos por los sensores en tiempo real         |
+| Publicidad mediante redes sociales         | \- Resaltar funcionalidades IoT            |
+|                                              | \- Publicitar la solución IoT mediante Facebook, Instagram y Google Ads.           |
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas.
+
+A continuación, se realizaó el diseño de entrevistas para ambos segmentos objetivos contemplados para el proyecto. Las preguntas serán planificadas para que los entrevistados contesten abiertamente y brindando información extra que nos aporte para entenden mejor sus necesidades. Cabe resaltar que no se contemplan las preguntas de introducción, sin embargo, se realizarán al inicio de la entrevista.
+
+
+**Segmento objetivo: Transportistas**
+
+- ¿Qué medidas de seguridad tienes a tu disposición actualmente para prevenir incidentes durante el transporte de gases combustibles?
+
+- ¿Alguna vez has experimentado o estado cerca de un incidente relacionado con fugas de gas, o algún otro tipo? Si es así, ¿cómo reaccionaste?
+  
+- ¿Cuáles son las principales frustraciones que ha enfrentado en su trabajo como transportista?
+
+- ¿Utilizas algún tipo de tecnología o dispositivo para monitorear la seguridad de tu carga mientras conduces? ¿Qué ventajas y desventajas encuentras en ella?
+
+- ¿Estarías dispuesto a utilizar una solución técnológica que monitoree las condiciones del cargamento que llevas en tiempo real? ¿Por qué?
+
+- ¿Qué tipo de sensores serían adecuados para realizar el monitoreo de combustibles sobre vehiculos?
+
+- ¿Qué tipo de alertas o notificaciones crees que serían más útiles para prevenir posibles fugas de gases combustibles durante el transporte?
+  
+- ¿Cómo preferirías recibir estas notificaciones (por ejemplo, a través de una aplicación móvil, mensajes de texto, etc.)?
+
+- ¿Qué barreras crees que podrían existir para adoptar una nueva tecnología de monitoreo de seguridad en tu rutina diaria?
+  
+- ¿Qué características considerarías indispensables en una solución con tecnologías emergentes para que decidas implementarla en tu trabajo?
+
+- ¿Qué piensas de las soluciones tecnológicas disponibles actualmente en el mercado para la seguridad en el transporte de materiales peligrosos?
+  
+- ¿Qué aspectos crees que deberían mejorar en estas soluciones para que sean más efectivas?
+
+- ¿Su vehiculo de transporte cuenta con una pantalla de interacción con un sistema operativo?
+
+- ¿Qué dispositivos usa con más frecuencia durante su jornada de trabajo?
+
+
+
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+
+- ¿Qué protocolos de seguridad implementa tu empresa para garantizar la integridad de los transportistas y de la carga durante el transporte de productos peligrosos?
+  
+- ¿Cómo se maneja la capacitación de los transportistas en cuanto a la prevención de incidentes y la respuesta a emergencias?
+  
+- ¿Qué tipos de tecnologías o dispositivos utiliza actualmente tu empresa para monitorear la seguridad de las cargas peligrosas?
+
+- ¿Qué tipo de sensores serían adecuados para realizar el monitoreo de combustibles sobre vehiculos?
+  
+- ¿Estarías interesado en implementar una solución IoT que permita un monitoreo en tiempo real de las condiciones de seguridad? ¿Por qué?
+  
+- ¿Qué beneficios esperas obtener al implementar una solución IoT para el monitoreo de seguridad?
+  
+- ¿Qué preocupaciones podrías tener sobre la adopción de esta tecnología en tu empresa?
+  
+- ¿Cómo prefieres que tu empresa reciba notificaciones o alertas sobre posibles riesgos durante el transporte de productos peligrosos?
+  
+- ¿De qué manera estas alertas influirían en la toma de decisiones operativas dentro de tu empresa?
+  
+- ¿Crees que la implementación de una solución IoT de monitoreo de seguridad podría proporcionar una ventaja competitiva a tu empresa? ¿Cómo?
+  
+- ¿Qué características consideras esenciales para que esta solución se destaque frente a otras opciones tecnológicas disponibles en el mercado?
+
+### 2.2.2. Registro de entrevistas
+
+**Segmento objetivo: Transportistas**
+
+***Primera Entrevista:***
+
+Nombres y apellidos: Jean Pierre Morin
+
+Edad: 20
+
+Inicio: 14:39
+
+Fin: 25:55
+
+Duración: 11:16
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![entrevista1t](https://github.com/user-attachments/assets/5e605c66-95f7-4179-8a19-0af2427b68c6)
+
+Resumen:
+- Hemos entrevistado a Jean Pierre de 20 años de edad, lleva trabajando 2 años dentro de su empresa y radica en Lima, que tuvo experienca de primera mano con una fuga de gas, sus principales inconvenientes son los factores externos tales como tráfico, problemas de conectividad y problemas con la carretera. Principalmente utiliza un GPS y un walkie-talkie durante su desempeño laboral. Busca recibir notificaciones a través de una aplicación movil.
+
+***Segunda Entrevista:***
+
+Nombres y apellidos: Ian Perez
+
+Edad: 25
+
+Inicio: 25:55
+
+Fin: 31:34
+
+Duración: 05:39
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![entrevista2t](https://github.com/user-attachments/assets/fadb0fcb-c20a-44fd-b714-401c9a28501f)
+
+- Hemos entrevistado a Ian Perez de 25 años de edad y vive en Ate Vitarte. Aunque no ha enfrentado incidentes graves, tuvo una experiencia cercana con una fuga de gas menor, en la que reaccionó de acuerdo con los protocolos de seguridad. Entre sus principales frustraciones están la incertidumbre sobre el estado de la carga y la falta de comunicación eficiente en algunas rutas. Actualmente, usa un sistema básico de rastreo GPS que le ofrece algunas ventajas, pero señala que no proporciona suficiente información sobre la seguridad de la carga. Está dispuesto a utilizar una solución tecnológica de monitoreo en tiempo real para mejorar la seguridad, siempre que sea fácil de usar y no represente una distracción. Considera esenciales los sensores de nivel de líquidos, presión y gases para monitorear combustibles, y prefiere recibir notificaciones a través de una pantalla en el vehículo o mediante una aplicación móvil. Utiliza principalmente el GPS y su teléfono móvil durante su jornada de trabajo.
+
+
+
+***Tercera Entrevista:***
+
+Nombres y apellidos: Luis Cornejo
+
+Edad: 25
+
+Inicio: 31:34
+
+Fin: 39:17
+
+Duración: 07:43
+
+![Captura de pantalla 2024-09-06 171745](https://github.com/user-attachments/assets/6570a2ce-794a-41f8-870c-1fa46d93ea19)
+
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- Hemos entrevistado a Luis Cornejo de 25 años de edad y vive en San Borja. Nos cuenta que tienemedidas de seguridad como extintores, un sistema de detección de fugas y equipo de comunicación para reportar problemas. Aunque no ha enfrentado incidentes graves, tuvo una fuga menor que gestionó siguiendo los protocolos de seguridad. Entre sus principales frustraciones están la incertidumbre sobre el estado de la carga y la falta de comunicación eficiente en rutas complicadas. Actualmente, solo usa un sistema básico de rastreo que no le brinda información detallada sobre la seguridad de la carga. Está interesado en adoptar una solución tecnológica de monitoreo en tiempo real, especialmente con sensores de nivel de líquidos, presión y gases, para mejorar la prevención de fugas y peligros.
+
+
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+***Primera Entrevista:***
+
+Nombre: Paolo Checa
+
+Inicio: 0:00
+
+Fin: 4:30
+
+Duración: 4:30
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![entrevista2e](https://github.com/user-attachments/assets/a8db29a9-6d0b-473a-992b-9c071af4750c)
+
+- Hemos entrevistado a Paolo Checa, quien explicó que actualmente cuentan solo con un sistema de GPS para monitorear los vehículos, y un seguro de vida para los transportistas, sin medidas específicas adicionales para su protección. La capacitación se limita a recomendaciones básicas como evitar exponer la carga a fuego o movimientos bruscos, y prefieren contratar transportistas experimentados. Aparte del GPS y los teléfonos proporcionados por la empresa, no disponen de otras tecnologías para la seguridad de las cargas.
+
+
+***Segunda Entrevista:***
+
+Nombre: Lissane Mareni
+
+Inicio: 4:30
+
+Fin: 8:48
+
+Duración: 4:18
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![entrevista3e](https://github.com/user-attachments/assets/8c7c6c22-70f1-4775-9212-80a7b8fb3c28)
+
+- Hemos entrevistado a Lisanne, quien mencionó que actualmente solo cuentan con un sistema de GPS para rastrear los vehículos y proporcionan un seguro de vida a los transportistas, pero no implementan medidas adicionales específicas para protegerlos. La capacitación que se ofrece es básica, enfocándose en evitar que la carga esté expuesta a fuentes de calor o movimientos bruscos, y se prefiere contratar conductores con experiencia. Además del GPS y los teléfonos entregados por la empresa, no utilizan tecnologías adicionales para garantizar la seguridad de las cargas.
+  
+
+
+***Tercera Entrevista:***
+
+Nombre: Jose Luis Castillo
+
+Inicio: 8:48
+
+Fin: 14:38
+
+Duración: 5:50
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![entrevista1e](https://github.com/user-attachments/assets/ade12b09-87c0-4c4e-8ddb-7cf14e5a830c)
+
+- Hemos entrevistado Jose Luis Castillo de 22 años de edad que vive en Santiago de Surco, quien mencionó que implementan protocolos rigurosos para garantizar la seguridad de los transportistas y la carga, como la señalización adecuada, límites de velocidad, rutas seguras y revisiones periódicas de los vehículos. La capacitación de los transportistas incluye entrenamiento regular en el manejo de materiales peligrosos, procedimientos de emergencia y el uso de equipos de protección personal.
+  
+### 2.2.3. Análisis de entrevistas
+
+- En las entrevistas realizadas a conductores y representantes de empresas de transporte de productos peligrosos, se pueden identificar varios temas recurrentes que destacan la importancia de la seguridad, el monitoreo en tiempo real y la adopción de nuevas tecnologías como soluciones IoT. A continuación, se presentan los principales puntos de análisis:
+
+- Las empresas dependen demasiado de la experiencia de los conductores y las medidas reactivas, como el uso de extintores o comunicación básica. Hay una oportunidad de mejorar los protocolos de seguridad mediante capacitaciones más detalladas y el uso de tecnología avanzada para la prevención de incidentes.
+  
+- El uso de tecnologías avanzadas como sensores de gas, temperatura y presión es limitado, lo que representa una debilidad. Las empresas y conductores podrían beneficiarse enormemente de soluciones IoT que ofrezcan un monitoreo en tiempo real, brindando mayor visibilidad sobre la seguridad de la carga durante el transporte.
+  
+- El interés en las soluciones IoT es fuerte debido a los beneficios que pueden ofrecer, como la mejora de la seguridad, la optimización de las operaciones y el cumplimiento de las normativas de seguridad. Este interés sugiere que existe una clara oportunidad para implementar tecnologías que puedan proporcionar estas capacidades de monitoreo avanzado.
+  
+- Aunque el interés en las soluciones IoT es alto, existen barreras para su adopción, principalmente relacionadas con la inversión económica y la posibilidad de fallos en zonas con poca conectividad. Las empresas tecnológicas que ofrezcan estas soluciones deben enfocarse en asegurar la confiabilidad y la facilidad de uso para mitigar estas preocupaciones.
+  
+- La demanda por notificaciones en tiempo real es clara, y cualquier solución IoT que se implemente debe incluir un sistema de alertas que no interfiera con las tareas diarias de los conductores, pero que brinde información oportuna y precisa en el momento correcto.
+  
+- La adopción de tecnologías emergentes puede posicionar a las empresas de transporte como líderes en seguridad dentro del sector. Aquellas que adopten estas soluciones de manera temprana no solo mejorarán sus operaciones, sino que también podrían atraer a más clientes al garantizar un servicio más seguro y confiable.
+
+- En conclusión, Las entrevistas revelan una clara necesidad de mejorar los protocolos de seguridad y adoptar tecnologías avanzadas, como soluciones IoT para el monitoreo en tiempo real. Existe un fuerte interés en estas soluciones debido a los beneficios que ofrecen en términos de seguridad y eficiencia operativa, pero las preocupaciones sobre la confiabilidad y los costos de implementación deben abordarse. Las empresas que logren implementar con éxito estas tecnologías tendrán una ventaja competitiva en el mercado y podrán mejorar significativamente la seguridad de sus operaciones.
+
 ## 2.3. Needfinding
 En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
 
@@ -707,6 +1068,8 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 |15|US05|Reporte de Estado del Vehículo|Como transportista, quiero generar y enviar un reporte sobre el estado del vehículo, para mantener un registro actualizado.|3|
 |16|US02|Chequeo Automático de Neumáticos|Como transportista, quiero recibir alertas automáticas sobre el estado de los neumáticos, para evitar accidentes en la ruta.|3|
 
+# Capítulo IV: Strategic-Level Software Design
+
 ## 4.1 Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
 Durante la fase de *Event Storming*, el equipo de desarrollo llevó a cabo una sesión colaborativa en la que se compartieron ideas sobre funcionalidades y características que se deseaban incorporar en el proyecto. 
@@ -788,3 +1151,14 @@ Por último, gracias a la identificación y definición de cada uno de los eleme
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 <a href="https://ibb.co/276bRmCs"><img src="https://i.ibb.co/zh5kCjB7/deployment.png" alt="deployment" border="0"></a>
+
+## 4.2. Tactical-Level Domain-Driven Design
+### 4.2.X. Bounded Context: <Bounded Context Name>
+#### 4.2.X.1. Domain Layer.
+#### 4.2.X.2. Interface Layer.
+#### 4.2.X.3. Application Layer.
+#### 4.2.X.4. Infrastructure Layer.
+#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams.
+#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams.
+#### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams.
+#### 4.2.X.6.2. Bounded Context Database Design Diagram.
