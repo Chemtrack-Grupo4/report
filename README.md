@@ -766,21 +766,21 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EV
   
 ### 2.2.3. Análisis de entrevistas
 
-- En las entrevistas realizadas a conductores y representantes de empresas de transporte de productos peligrosos, se pueden identificar varios temas recurrentes que destacan la importancia de la seguridad, el monitoreo en tiempo real y la adopción de nuevas tecnologías como soluciones IoT. A continuación, se presentan los principales puntos de análisis:
+Las entrevistas realizadas tanto a conductores como a representantes de empresas que transportan productos peligrosos han permitido identificar patrones comunes que subrayan la necesidad de fortalecer la seguridad, incorporar monitoreo en tiempo real y adoptar nuevas tecnologías, especialmente aquellas basadas en IoT. A continuación, se detallan los principales hallazgos:
 
-- Las empresas dependen demasiado de la experiencia de los conductores y las medidas reactivas, como el uso de extintores o comunicación básica. Hay una oportunidad de mejorar los protocolos de seguridad mediante capacitaciones más detalladas y el uso de tecnología avanzada para la prevención de incidentes.
-  
-- El uso de tecnologías avanzadas como sensores de gas, temperatura y presión es limitado, lo que representa una debilidad. Las empresas y conductores podrían beneficiarse enormemente de soluciones IoT que ofrezcan un monitoreo en tiempo real, brindando mayor visibilidad sobre la seguridad de la carga durante el transporte.
-  
-- El interés en las soluciones IoT es fuerte debido a los beneficios que pueden ofrecer, como la mejora de la seguridad, la optimización de las operaciones y el cumplimiento de las normativas de seguridad. Este interés sugiere que existe una clara oportunidad para implementar tecnologías que puedan proporcionar estas capacidades de monitoreo avanzado.
-  
-- Aunque el interés en las soluciones IoT es alto, existen barreras para su adopción, principalmente relacionadas con la inversión económica y la posibilidad de fallos en zonas con poca conectividad. Las empresas tecnológicas que ofrezcan estas soluciones deben enfocarse en asegurar la confiabilidad y la facilidad de uso para mitigar estas preocupaciones.
-  
-- La demanda por notificaciones en tiempo real es clara, y cualquier solución IoT que se implemente debe incluir un sistema de alertas que no interfiera con las tareas diarias de los conductores, pero que brinde información oportuna y precisa en el momento correcto.
-  
-- La adopción de tecnologías emergentes puede posicionar a las empresas de transporte como líderes en seguridad dentro del sector. Aquellas que adopten estas soluciones de manera temprana no solo mejorarán sus operaciones, sino que también podrían atraer a más clientes al garantizar un servicio más seguro y confiable.
+- Actualmente, muchas empresas dependen principalmente de la experiencia del conductor y de acciones reactivas como el uso de extintores o la comunicación básica para manejar emergencias. Esto evidencia una oportunidad para reforzar los protocolos de seguridad a través de capacitaciones más completas y el uso de herramientas tecnológicas que permitan anticiparse a posibles incidentes.
 
-- En conclusión, Las entrevistas revelan una clara necesidad de mejorar los protocolos de seguridad y adoptar tecnologías avanzadas, como soluciones IoT para el monitoreo en tiempo real. Existe un fuerte interés en estas soluciones debido a los beneficios que ofrecen en términos de seguridad y eficiencia operativa, pero las preocupaciones sobre la confiabilidad y los costos de implementación deben abordarse. Las empresas que logren implementar con éxito estas tecnologías tendrán una ventaja competitiva en el mercado y podrán mejorar significativamente la seguridad de sus operaciones.
+- El uso de dispositivos tecnológicos como sensores de gas, temperatura y presión aún es escaso, lo cual representa una limitación significativa. Tanto las empresas como los transportistas podrían beneficiarse ampliamente de implementar soluciones IoT que proporcionen monitoreo constante y en tiempo real del estado de la carga, aumentando así los niveles de seguridad.
+
+- Existe un marcado interés en adoptar tecnologías IoT, ya que se perciben como medios eficaces para mejorar la seguridad, hacer más eficientes los procesos logísticos y cumplir con normativas vigentes. Esta disposición abre la puerta a la introducción de soluciones que cubran estas necesidades específicas.
+
+- No obstante, pese al interés, existen ciertos obstáculos que dificultan su adopción. Entre ellos destacan los costos asociados a la inversión inicial y los posibles problemas de conectividad en zonas remotas. Por ello, es esencial que las empresas proveedoras de estas tecnologías garanticen soluciones confiables, accesibles y fáciles de operar.
+
+- La necesidad de recibir alertas en tiempo real es una demanda clave. Cualquier sistema basado en IoT debe incluir notificaciones precisas y oportunas, que no interfieran con las actividades del conductor, pero que faciliten la toma de decisiones inmediatas en caso de riesgo.
+
+- La integración de tecnologías emergentes representa una oportunidad para que las empresas de transporte se posicionen como referentes en seguridad dentro del sector. Aquellas que adopten estas innovaciones de forma anticipada no solo optimizarán sus procesos, sino que también podrán atraer más clientes al ofrecer servicios más seguros y confiables.
+
+En resumen, los testimonios obtenidos reflejan una necesidad concreta de actualizar los sistemas de seguridad actuales y apostar por soluciones tecnológicas como el IoT. Aunque el interés es alto, es fundamental abordar las preocupaciones sobre costos y conectividad. Las empresas que logren implementar estas tecnologías de forma efectiva obtendrán una ventaja competitiva y podrán mejorar considerablemente la seguridad en sus operaciones.
 
 ## 2.3. Needfinding
 En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
