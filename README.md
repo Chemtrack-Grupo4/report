@@ -13,7 +13,7 @@ NRC 2939
 
 Profesor: León Baca, Marco Antonio
 
-***INFORME DE TRABAJO FINAL - TF***
+***INFORME DE TRABAJO - TB1***
 
 **Startup: TrackTox**
 
@@ -23,7 +23,7 @@ Profesor: León Baca, Marco Antonio
 - Amaro Villanueva, Camila Elena        U202114248
 - Barrial Marin, Sharon Antuanet Ivet   U202114900
 - Laguerre Challco, Fabrizzio Hernan    U20211A950
-- 
+- Garcia Moscoso, Andrea Joselyn        U201291060
 -
 - 
 
@@ -239,6 +239,12 @@ Mi nombre es Josue Omar Hidalgo Bustamante, soy un estudiante de Ingeniería de 
 
 <img src="https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843" width="300" />
 
+---
+
+Actualmente estoy cursando el séptimo ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, Python, JavaScript y C. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.
+
+![foto](https://cdn.discordapp.com/attachments/1356297168784330862/1364076116901367919/Imagen_de_WhatsApp_2025-04-21_a_las_22.07.35_c5dfd9f7.jpg?ex=68085a61&is=680708e1&hm=76dee1a9b0a9b8aa2fa9ceff8e6853efff4664a89a47b53d272d2d5f162bbe60&)
+
 ## 1.2. Solution Profile
 
 **Product name**
@@ -448,14 +454,16 @@ A continuación, se plantean las hipótesis que proponen una solución a la prob
 
 | Tipo de Usuario | Conductores que transportan gases combustibles | Empresas de transporte que operan con materiales peligrosos | 
 | - | - | - |
-| **Geográfico** | País: Perú <br> Zona de operación: Áreas urbanas y rurales, especialmente rutas de transporte de gases combustibles | País: Perú <br> Zona de operación: Áreas que incluyen rutas de transporte de materiales peligrosos |  
-| **Psicográfico** | Clase Social: Media <br> Estilo de Vida: Conductores con experiencia en el transporte de materiales peligrosos, que valoran la seguridad y buscan minimizar riesgos en su trabajo diario. | Clase social: No es relevante dado que puede incluir pequeñas empresas de transporte o grandes corporaciones. <br> Estilo de vida: Empresas comprometidas con la seguridad y la eficiencia en el transporte de materiales peligrosos, interesadas en innovar y mejorar sus protocolos de seguridad. |  
-| **Demográfico** | Edad: 25-55 <br> Nivel de Ingreso: No es relevante, dirigido a conductores profesionales con experiencia en la conducción de vehículos de transporte pesado | Edad: 30-60 <br> Nivel de ingreso: No es relevante, dirigido a empresas que manejan flotas de transporte de materiales peligrosos | 
+| **Geográfico** | País: Perú <br> Zona de operación: Zonas urbanas y rurales, especialmente aquellas asociadas a rutas de transporte de gases inflamables. | País: Perú <br> Zona de operación: Regiones que abarcan trayectos donde se movilizan materiales peligrosos.|  
+| **Psicográfico** | Clase Social: Media <br> Estilo de Vida: Conductores experimentados en el manejo de materiales peligrosos, enfocados en la seguridad y la reducción de riesgos durante sus actividades laborales. | Clase social: No es relevante dado que puede incluir pequeñas empresas de transporte o grandes corporaciones. <br> Estilo de vida: Empresas orientadas a garantizar la seguridad y la eficiencia en el transporte de materiales peligrosos, con interés en la innovación y mejora continua de sus protocolos. |  
+| **Demográfico** | Edad: 25 a 55 años <br> Nivel de Ingreso: No determinante; enfocado en conductores profesionales con trayectoria en el manejo de vehículos pesados. | Edad: 30 a 60 años <br> Nivel de ingreso: No es un factor clave; dirigido a empresas que administran flotas dedicadas al transporte de materiales peligrosos. |
 
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
 ### 2.1.1. Análisis competitivo
+
 <table>
 <colgroup>
 <col style="width: 10%" />
@@ -471,10 +479,7 @@ A continuación, se plantean las hipótesis que proponen una solución a la prob
 <th colspan="5">Se hace este analisis para conocer las debilidades y fortalezas y compararlas con el producto solución propuesto</th>
 </tr>
 <tr class="odd">
-<th colspan="5">Llevar a cabo este análisis permite identificar las
-ventajas competitivas y oportunidades de mejora de "SafeFlow" frente a
-competidores clave, informando estrategias efectivas para destacar en el
-mercado agrícola y atraer a agricultores y comerciantes.</th>
+<th colspan="5">Permite reconocer las ventajas competitivas y áreas de mejora de "SafeFlow" frente a competidores clave, facilitando el diseño de estrategias eficaces para destacarse en el sector agrícola y atraer a agricultores y comerciantes.</th>
 </tr>
 <tr class="header">
 <th></th>
@@ -487,78 +492,55 @@ mercado agrícola y atraer a agricultores y comerciantes.</th>
 <tr class="odd">
 <th rowspan="2">Perfil</th>
 <th>Overview</th>
-<th>Es una solución tecnológica integral  que ofrece un sistema 
-de detección y alerta para el transporte seguro de productos peligrosos
-mediante tecnología IoT..</th>
-<th>Es una empresa tradicional en el sector del transporte
-de mercancías con un enfoque en soluciones logísticas personalizadas.</th>
-<th>Es una multinacional con un enfoque en la logística integral
-que abarca transporte terrestre, aéreo y marítimo.</th>
-<th>Es una empresa especializada en el transporte de
-carga pesada y bienes industriales, con una fuerte presencia en 
-mercados emergentes.</th>
+<th>Plataforma tecnológica integral con sensores IoT para alertar y monitorear condiciones críticas durante el transporte de materiales peligrosos.</th>
+<th>Empresa tradicional del rubro logístico, enfocada en soluciones personalizadas.</th>
+<th>Multinacional con cobertura global y servicios de transporte terrestre, marítimo y aéreo.</th>
+<th>Especialista en carga pesada y bienes industriales, con enfoque en mercados en crecimiento.</th>
 </tr>
 <tr class="header">
 <th>Ventaja competitiva</th>
-<th>Su enfoque en la seguridad y supervisión en tiempo real
-mediante sensores avanzados que monitorean condiciones como
-fugas de gas, temperatura, presión y movimiento.</th>
-<th>Amplia red de transporte y servicios logísticos integrados
-que permiten una distribución eficiente a nivel global.</th>
-<th>Fuerte infraestructura global y capacidades avanzadas en 
-gestión de la cadena de suministro.</th>
-<th>Experiencia en mercados difíciles y capacidad para manejar
-cargas de gran tamaño o peligrosas.</th>
+<th>Seguridad en tiempo real con sensores que detectan fugas, temperatura, presión y movimiento</th>
+<th>Amplia red de transporte y servicios integrados.</th>
+<th>Gran infraestructura global y experiencia en logística compleja.</th>
+<th>Capacidad para operar en entornos difíciles y con cargas especiales.</th>
 </tr>
 <tr class="odd">
 <th rowspan="2">Perfil de Marketing</th>
 <th>Mercado Objetivo</th>
-<th>Empresas que transportan productos peligrosos, 
-especialmente en la industria química y petrolera.</th>
-<th>Empresas que buscan soluciones logísticas personalizadas, 
-especialmente en sectores minoristas y de bienes de consumo.</th>
-<th>Empresas multinacionales con necesidades complejas de logística
-y transporte global.</th>
+<th>Empresas del sector químico, petrolero y otras que gestionan transporte de materiales peligrosos.</th>
+<th>Negocios que buscan servicios logísticos a medida, principalmente retail y consumo masivo.</th>
+<th>Empresas internacionales con operaciones logísticas complejas.</th>
 <th>Industrias pesadas y proyectos de infraestructura en mercados emergentes.</th>
 </tr>
 <tr class="header">
 <th>Estrategias de marketing</th>
-<th>Enfoque en la seguridad y cumplimiento normativo, destacando
-la innovación tecnológica como diferenciador.</th>
-<th>Contratos a largo plazo y servicio al cliente personalizado.</th>
-<th>Infraestructura global y tecnología avanzada para la gestión
-de la cadena de suministro.</th>
-<th>Reputación en fiabilidad y capacidad para manejar cargas complejas.</th>
+<th>Promoción de seguridad y cumplimiento normativo como elementos diferenciadores.</th>
+<th>Contratos duraderos y atención personalizada.	</th>
+<th>Uso de infraestructura avanzada y tecnología para la cadena de suministro.</th>
+<th>Reputación de fiabilidad y capacidad para manejar operaciones complejas.</th>
 </tr>
 <tr class="odd">
 <th rowspan="3">Perfil de Producto</th>
 <th>Productos &amp; Servicios</th>
-<th>Sistemas IoT para la supervisión del transporte de productos peligrosos.</th>
-<th>Soluciones logísticas, transporte terrestre, almacenamiento y distribución.</th>
-<th>Servicios de transporte terrestre, aéreo y marítimo, logística contractual
-y gestión de la cadena de suministro.</th>
-<th>Transporte de carga pesada, logística para proyectos y soluciones 
-especializadas para industrias.</th>
+<th>Monitoreo IoT especializado en transporte seguro de productos peligrosos.	</th>
+<th>Servicios de transporte terrestre, almacenamiento y logística.</th>
+<th>Transporte multimodal y soluciones integradas de cadena de suministro.</th>
+<th>Transporte de gran escala, logística para proyectos industriales.</th>
 </tr>
 <tr class="header">
 <th>Precios y Costos</th>
-<th>Modelo basado en suscripción con costos variables según el número de sensores
-y características adicionales.</th>
-<th>Costos competitivos, con opciones personalizadas según el servicio requerido.</th>
-<th>Varían según la complejidad del servicio y el alcance global.</th>
-<th>Costos basados en la complejidad del transporte y el tipo de carga.</th>
+<th>Modelo por suscripción ajustable según cantidad de sensores y funcionalidades.</th>
+<th>Tarifas competitivas y adaptables al tipo de servicio.	</th>
+<th>Costos variables según la complejidad y cobertura requerida.</th>
+<th>Costos determinados por tipo de carga y nivel de dificultad.</th>
 </tr>
 <tr class="odd">
 <th><p>Canales de distribución</p>
 <p>(Web y/o Móvil)</p></th>
-<th>Plataforma en línea accesible a través de dispositivos móviles y
-computadoras.</th>
-<th>Plataforma en línea accesible a través de dispositivos móviles y
-computadoras.</th>
-<th>Plataforma en línea accesible a través de dispositivos móviles y
-computadoras.</th>
-<th>Plataforma en línea accesible a través de dispositivos móviles y
-computadoras.</th>
+<th>Plataforma web y móvil accesible desde distintos dispositivos.</th>
+<th>Plataforma web y móvil accesible desde distintos dispositivos.</th>
+<th>Plataforma web y móvil accesible desde distintos dispositivos.</th>
+<th>Plataforma web y móvil accesible desde distintos dispositivos.</th>
 </tr>
 <tr class="header">
 <th rowspan="5">Análisis SWOT</th>
@@ -568,34 +550,31 @@ ustedes definen como su posible ventaja competitiva.</th>
 </tr>
 <tr class="odd">
 <th>Fortalezas</th>
-<th>Innovación tecnológica, enfoque en seguridad, capacidad de 
-monitoreo en tiempo real. Plataforma integral.</th>
-<th>Red logística establecida, fuerte relación con clientes.</th>
-<th>Infraestructura global, experiencia en logística compleja.</th>
-<th>Experiencia en manejo de cargas pesadas y peligrosas, 
-fuerte presencia en mercados emergentes.</th>
+<th>Alta innovación tecnológica, monitoreo en tiempo real, y plataforma digital robusta.</th>
+<th>Red logística consolidada, relaciones sólidas con clientes.</th>
+<th>Cobertura internacional, experiencia en logística avanzada.</th>
+<th>Capacidad para manejar cargas especiales, presencia fuerte en mercados emergentes.</th>
 </tr>
 <tr class="header">
 <th>Debilidades</th>
-<th>Dependencia de la tecnología IoT, costos iniciales altos para los clientes.</th>
-<th>Falta de innovación tecnológica en comparación con competidores.</th>
-<th>Costos operativos altos, dependencia de mercados maduros.</th>
-<th>Menor presencia global comparada con competidores más grandes.</th>
+<th>Alta dependencia tecnológica, posibles costos iniciales elevados.</th>
+<th>Falta de innovación frente a competidores modernos.</th>
+<th>Costos altos, fuerte presencia en mercados maduros más que emergentes.</th>
+<th>Cobertura global limitada frente a otras multinacionales.</th>
 </tr>
 <tr class="odd">
 <th>Oportunidades</th>
-<th>Creciente demanda de seguridad en el transporte de productos 
-peligrosos, expansión a otros mercados.</th>
-<th>Expansión a nuevos mercados y adopción de nuevas tecnologías.</th>
-<th>Expansión en mercados emergentes, adopción de tecnologías sostenibles.</th>
-<th>Expansión a nuevos sectores industriales, colaboración con nuevas tecnologías.</th>
+<th>Mayor demanda por soluciones seguras, posibilidad de expansión internacional.	</th>
+<th>Potencial para adoptar nuevas tecnologías y expandirse.	</th>
+<th>Crecimiento en mercados emergentes, enfoque sostenible.	</th>
+<th>Posibilidad de ingresar a nuevos sectores y alianzas tecnológicas.</th>
 </tr>
 <tr class="header">
 <th>Amenazas</th>
-<th>Competencia de empresas más grandes con mayores recursos, regulación cambiante.</th>
-<th>Competencia de empresas más innovadoras, presión en márgenes de precios.</th>
-<th>Competencia en mercados emergentes, fluctuaciones económicas globales.</th>
-<th>Competencia en precios, regulaciones ambientales más estrictas.</th>
+<th>Competencia con grandes corporaciones con más recursos, cambios en la regulación.	</th>
+<th>Presión de empresas más tecnológicas y competitivas.	</th>
+<th>Volatilidad económica global, competencia en mercados emergentes.	</th>
+<th>Restricciones ambientales más estrictas, competencia en precios.</th>
 </tr>
 </thead>
 <tbody>
@@ -617,66 +596,61 @@ peligrosos, expansión a otros mercados.</th>
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas.
 
-A continuación, se realizaó el diseño de entrevistas para ambos segmentos objetivos contemplados para el proyecto. Las preguntas serán planificadas para que los entrevistados contesten abiertamente y brindando información extra que nos aporte para entenden mejor sus necesidades. Cabe resaltar que no se contemplan las preguntas de introducción, sin embargo, se realizarán al inicio de la entrevista.
-
+A continuación, se diseñaron entrevistas dirigidas a los dos segmentos objetivos definidos para el proyecto. Las preguntas fueron elaboradas con el fin de generar respuestas abiertas y detalladas por parte de los entrevistados, permitiendo así obtener información valiosa que nos ayude a comprender mejor sus necesidades. Cabe mencionar que las preguntas de introducción no están incluidas en esta lista; sin embargo, se realizarán al inicio de cada entrevista.
 
 **Segmento objetivo: Transportistas**
 
-- ¿Qué medidas de seguridad tienes a tu disposición actualmente para prevenir incidentes durante el transporte de gases combustibles?
+- ¿Qué sistemas de seguridad utilizas actualmente para evitar incidentes durante el transporte de gases inflamables?
 
-- ¿Alguna vez has experimentado o estado cerca de un incidente relacionado con fugas de gas, o algún otro tipo? Si es así, ¿cómo reaccionaste?
-  
-- ¿Cuáles son las principales frustraciones que ha enfrentado en su trabajo como transportista?
+- ¿Has vivido alguna situación relacionada con fugas de gas u otro tipo de incidente? En caso afirmativo, ¿cómo respondiste ante ello?
 
-- ¿Utilizas algún tipo de tecnología o dispositivo para monitorear la seguridad de tu carga mientras conduces? ¿Qué ventajas y desventajas encuentras en ella?
+- ¿Qué dificultades o problemas encuentras con mayor frecuencia en tu labor como transportista?
 
-- ¿Estarías dispuesto a utilizar una solución técnológica que monitoree las condiciones del cargamento que llevas en tiempo real? ¿Por qué?
+- ¿Cuentas con alguna tecnología o dispositivo que te permita monitorear la seguridad de tu carga mientras estás en ruta? ¿Qué ventajas y desventajas has percibido?
 
-- ¿Qué tipo de sensores serían adecuados para realizar el monitoreo de combustibles sobre vehiculos?
+- ¿Estarías dispuesto a incorporar una solución tecnológica que permita supervisar en tiempo real las condiciones del cargamento? ¿Cuál sería tu motivación?
 
-- ¿Qué tipo de alertas o notificaciones crees que serían más útiles para prevenir posibles fugas de gases combustibles durante el transporte?
-  
-- ¿Cómo preferirías recibir estas notificaciones (por ejemplo, a través de una aplicación móvil, mensajes de texto, etc.)?
+- ¿Qué tipos de sensores consideras adecuados para el monitoreo de combustibles durante el transporte en vehículos?
 
-- ¿Qué barreras crees que podrían existir para adoptar una nueva tecnología de monitoreo de seguridad en tu rutina diaria?
-  
-- ¿Qué características considerarías indispensables en una solución con tecnologías emergentes para que decidas implementarla en tu trabajo?
+- ¿Qué clase de notificaciones o alertas crees que serían más efectivas para prevenir posibles fugas de gases durante el traslado?
 
-- ¿Qué piensas de las soluciones tecnológicas disponibles actualmente en el mercado para la seguridad en el transporte de materiales peligrosos?
-  
-- ¿Qué aspectos crees que deberían mejorar en estas soluciones para que sean más efectivas?
+- ¿Cuál sería tu canal preferido para recibir este tipo de alertas (por ejemplo, app móvil, SMS, entre otros)?
 
-- ¿Su vehiculo de transporte cuenta con una pantalla de interacción con un sistema operativo?
+- ¿Qué obstáculos crees que podrían dificultar la incorporación de nuevas tecnologías de monitoreo en tu trabajo diario?
 
-- ¿Qué dispositivos usa con más frecuencia durante su jornada de trabajo?
+- ¿Qué funcionalidades considerarías imprescindibles en una solución tecnológica emergente para adoptarla como parte de tu rutina?
 
+- ¿Cuál es tu opinión sobre las tecnologías actuales que existen en el mercado enfocadas en la seguridad del transporte de materiales peligrosos?
 
+- ¿Qué mejoras consideras necesarias en estas soluciones para que resulten más eficientes y útiles?
 
+- ¿Tu vehículo cuenta con una pantalla que permita la interacción con algún sistema operativo?
+
+- ¿Qué dispositivos usas con mayor frecuencia durante tus jornadas laborales?
 
 **Segmento objetivo: Empresas de transporte de productos peligrosos**
 
+- ¿Qué medidas de seguridad aplica tu empresa para proteger tanto al personal como a la carga durante el traslado de productos peligrosos?
 
-- ¿Qué protocolos de seguridad implementa tu empresa para garantizar la integridad de los transportistas y de la carga durante el transporte de productos peligrosos?
-  
-- ¿Cómo se maneja la capacitación de los transportistas en cuanto a la prevención de incidentes y la respuesta a emergencias?
-  
-- ¿Qué tipos de tecnologías o dispositivos utiliza actualmente tu empresa para monitorear la seguridad de las cargas peligrosas?
+- ¿Cómo se lleva a cabo la formación del personal en temas de prevención de incidentes y actuación ante emergencias?
 
-- ¿Qué tipo de sensores serían adecuados para realizar el monitoreo de combustibles sobre vehiculos?
-  
-- ¿Estarías interesado en implementar una solución IoT que permita un monitoreo en tiempo real de las condiciones de seguridad? ¿Por qué?
-  
-- ¿Qué beneficios esperas obtener al implementar una solución IoT para el monitoreo de seguridad?
-  
-- ¿Qué preocupaciones podrías tener sobre la adopción de esta tecnología en tu empresa?
-  
-- ¿Cómo prefieres que tu empresa reciba notificaciones o alertas sobre posibles riesgos durante el transporte de productos peligrosos?
-  
-- ¿De qué manera estas alertas influirían en la toma de decisiones operativas dentro de tu empresa?
-  
-- ¿Crees que la implementación de una solución IoT de monitoreo de seguridad podría proporcionar una ventaja competitiva a tu empresa? ¿Cómo?
-  
-- ¿Qué características consideras esenciales para que esta solución se destaque frente a otras opciones tecnológicas disponibles en el mercado?
+- ¿Qué tecnologías o herramientas están actualmente en uso en tu empresa para supervisar la seguridad de las cargas peligrosas?
+
+- ¿Qué tipos de sensores consideras más apropiados para el monitoreo de combustibles en vehículos?
+
+- ¿Tu empresa estaría interesada en adoptar una solución IoT para supervisar en tiempo real la seguridad de los cargamentos? ¿Por qué razón?
+
+- ¿Qué beneficios esperas lograr mediante la implementación de una tecnología IoT enfocada en la seguridad?
+
+- ¿Qué inquietudes podrían surgir respecto a la adopción de esta solución en tu organización?
+
+- ¿De qué forma prefieres que tu empresa reciba alertas sobre posibles riesgos durante el transporte?
+
+- ¿Cómo impactarían estas notificaciones en las decisiones operativas de tu empresa?
+
+- ¿Consideras que una solución de monitoreo basada en IoT podría convertirse en una ventaja competitiva? ¿De qué manera?
+
+- ¿Qué características clave debería tener esta solución para destacar frente a otras propuestas tecnológicas del mercado?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -684,22 +658,19 @@ A continuación, se realizaó el diseño de entrevistas para ambos segmentos obj
 
 ***Primera Entrevista:***
 
-Nombres y apellidos: Jean Pierre Morin
+Nombres y apellidos: 
 
-Edad: 20
+Edad: 
 
-Inicio: 14:39
+Inicio: 
 
-Fin: 25:55
+Fin: 
 
-Duración: 11:16
+Duración: 
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-![entrevista1t](https://github.com/user-attachments/assets/5e605c66-95f7-4179-8a19-0af2427b68c6)
+Link: 
 
 Resumen:
-- Hemos entrevistado a Jean Pierre de 20 años de edad, lleva trabajando 2 años dentro de su empresa y radica en Lima, que tuvo experienca de primera mano con una fuga de gas, sus principales inconvenientes son los factores externos tales como tráfico, problemas de conectividad y problemas con la carretera. Principalmente utiliza un GPS y un walkie-talkie durante su desempeño laboral. Busca recibir notificaciones a través de una aplicación movil.
 
 ***Segunda Entrevista:***
 
@@ -718,8 +689,6 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EV
 ![entrevista2t](https://github.com/user-attachments/assets/fadb0fcb-c20a-44fd-b714-401c9a28501f)
 
 - Hemos entrevistado a Ian Perez de 25 años de edad y vive en Ate Vitarte. Aunque no ha enfrentado incidentes graves, tuvo una experiencia cercana con una fuga de gas menor, en la que reaccionó de acuerdo con los protocolos de seguridad. Entre sus principales frustraciones están la incertidumbre sobre el estado de la carga y la falta de comunicación eficiente en algunas rutas. Actualmente, usa un sistema básico de rastreo GPS que le ofrece algunas ventajas, pero señala que no proporciona suficiente información sobre la seguridad de la carga. Está dispuesto a utilizar una solución tecnológica de monitoreo en tiempo real para mejorar la seguridad, siempre que sea fácil de usar y no represente una distracción. Considera esenciales los sensores de nivel de líquidos, presión y gases para monitorear combustibles, y prefiere recibir notificaciones a través de una pantalla en el vehículo o mediante una aplicación móvil. Utiliza principalmente el GPS y su teléfono móvil durante su jornada de trabajo.
-
-
 
 ***Tercera Entrevista:***
 
@@ -1153,12 +1122,825 @@ Por último, gracias a la identificación y definición de cada uno de los eleme
 <a href="https://ibb.co/276bRmCs"><img src="https://i.ibb.co/zh5kCjB7/deployment.png" alt="deployment" border="0"></a>
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer.
-#### 4.2.X.2. Interface Layer.
-#### 4.2.X.3. Application Layer.
-#### 4.2.X.4. Infrastructure Layer.
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams.
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams.
-#### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams.
-#### 4.2.X.6.2. Bounded Context Database Design Diagram.
+
+### 4.2.1. Bounded Context: IAM
+
+**Descripción:** Este contexto se encarga de controlar la autenticación, autorización y gestión de los roles asignados a los usuarios del sistema. Permite una administración centralizada de usuarios, abarcando su creación, actualización y eliminación, además de definir y aplicar las políticas de acceso a los distintos servicios y datos que ofrece la plataforma.
+
+#### 4.2.1.1. Domain Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Aggregate</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>User</td>
+        <td>Entity/Aggregate</td>
+        <td colspan="2">Representación de los usuarios del segmento objetivo</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>Long</td>
+        <td>Private</td>
+        <td>Identificador único</td>
+    </tr>
+    <tr>
+        <td>userName</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Nombre de usuario</td>
+    </tr>
+     <tr>
+        <td>email</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Correo electrónico</td>
+    </tr>
+     <tr>
+        <td>password</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Contraseña del usuario</td>
+    </tr>
+     <tr>
+        <td>role</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Rol del usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>getUsername</td>
+        <td>username</td>
+        <td>Public</td>
+        <td>Obtención de nombre de usuario</td>
+    </tr>
+    <tr>
+        <td>getEmail</td>
+        <td>email</td>
+        <td>Public</td>
+        <td>Obtención de correo electrónico</td>
+    </tr>
+    <tr>
+        <td>getPassword</td>
+        <td>password</td>
+        <td>Public</td>
+        <td>Obtención de contraseña</td>
+    </tr>
+     <tr>
+        <td>getRoles</td>
+        <td>srtRoles</td>
+        <td>Public</td>
+        <td>Obtención del rol del usuario</td>
+    </tr>
+</table>
+
+#### 4.2.1.2. Interface Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>AuthController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlador para autenticación</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>authService</td>
+        <td>AuthService</td>
+        <td>Private</td>
+        <td>Servicio de autenticación</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>authenticateUser</td>
+        <td>authenticatedResource</td>
+        <td>Public</td>
+        <td>Método para autenticar usuario</td>
+    </tr>
+    <tr>
+        <td>registerUser</td>
+        <td>signInResource</td>
+        <td>Public</td>
+        <td>Método de registro de usuario</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>UsersController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlador para usuarios</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>userQueryService</td>
+        <td>UserQueryService</td>
+        <td>Private</td>
+        <td>Servicio de consultas de usuario</td>
+    </tr>
+    <tr>
+        <td>userCommandService</td>
+        <td>UserCommandService</td>
+        <td>Private</td>
+        <td>Servicio de registro de usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>getAllUsers</td>
+        <td>usersResource</td>
+        <td>Public</td>
+        <td>Método para obtener todos los usuarios/td>
+    </tr>
+    <tr>
+        <td>getUserById</td>
+        <td>userResource</td>
+        <td>Public</td>
+        <td>Método para obtener un usuario por id</td>
+    </tr>
+</table>
+
+#### 4.2.1.3. Application Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Service</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>UserCommandService</td>
+        <td>Service</td>
+        <td colspan="2">Servicio con reglas de negocio para usuario</td>
+    </tr>
+    <tr>
+        <td>UserQueryService</td>
+        <td>Service</td>
+        <td colspan="2">Servicio con reglas de negocio para usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>UserRepository</td>
+        <td>Long</td>
+        <td>private</td>
+        <td>Repositorio de usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>existByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Método para validar usuario por nombre de usuario</td>
+    </tr>
+    <tr>
+        <td>findByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Método para obtener usuario por nombre de usuario</td>
+    </tr>
+</table>
+
+#### 4.2.1.4. Infrastructure Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Repository</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>UserRepository</td>
+        <td>Repository</td>
+        <td colspan="2">Repositorio que guarda la información de los usuarios</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>existsByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Método para validar usuario por nombre de usuario</td>
+    </tr>
+    <tr>
+        <td>findByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Método para buscar usuario por nombre de usuario</td>
+    </tr>
+</table>
+
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+![image](https://github.com/user-attachments/assets/1706f69f-e7cd-48f5-9803-a96f1a0d59b8)
+
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+#### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+![image](https://github.com/user-attachments/assets/756ee8f2-a2c0-4d8b-95d1-69b36efe7740)
+
+#### 4.2.1.6.2. Bounded Context Database Design Diagram
+
+![image](https://github.com/user-attachments/assets/666e0d91-610b-4b67-bdf8-bb1e61c41a33)
+
+### 4.2.2. Bounded Context: Management
+
+**Descripción:** Este módulo se ocupa de organizar y manejar todo lo relacionado con la generación, envío y monitoreo de notificaciones sobre incidentes o eventos importantes. Su objetivo es mantener informados en tiempo real a transportistas, operadores y supervisores, facilitando la transmisión oportuna de alertas y actualizaciones sobre el estado de dichos sucesos.
+
+#### 4.2.2.1. Domain Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Aggregate</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoría</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>Transporte</td>
+        <td>Entity/Aggregate</td>
+        <td colspan="2">Gestionar los servicios de transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>Long</td>
+        <td>Private</td>
+        <td>Identificador unico</td>
+    </tr>
+     <tr>
+        <td>formTransport</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Información del formulario</td>
+    </tr>
+     <tr>
+        <td>serviceStatus</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Estado del servicio</td>
+    </tr>
+     <tr>
+        <td>routes</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>	Ruta asignada para el transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>acceptService</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Método para aceptar el servicio</td>
+    </tr>
+    <tr>
+        <td>getRoute</td>
+        <td>String</td>
+        <td>Public</td>
+        <td>Obtener la ruta segura asignada</td>
+    </tr>
+</table>
+
+#### 4.2.2.2. Interface Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoría</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>TransportController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlar la gestión del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>transportService</td>
+        <td>TransportService</td>
+        <td>Private</td>
+        <td>Servicio para gestión del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>createTransport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Crear nuevo servicio de transporte</td>
+    </tr>
+    <tr>
+        <td>getTransportById</td>
+        <td>Transport</td>
+        <td>Public</td>
+        <td>Obtener servicio de transporte por id</td>
+    </tr>
+</table>
+
+#### 4.2.2.3. Application Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Service</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoría</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>TransportService</td>
+        <td>Service</td>
+        <td colspan="2">	Servicio para gestionar reglas de negocio del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>transportRepository</td>
+        <td>TransportRepository</td>
+        <td>private</td>
+        <td>Repositorio de transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>addTransport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Registrar un nuevo servicio</td>
+    </tr>
+    <tr>
+        <td>findTransport</td>
+        <td>bool</td>
+        <td>Public</td>
+        <td>Validar datos del transporte</td>
+    </tr>
+</table>
+
+#### 4.2.2.4. Infrastructure Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Repository</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoría</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>TransportRepository</td>
+        <td>Repository</td>
+        <td colspan="2">Almacenar datos de transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>findById</td>
+        <td>Transport</td>
+        <td>Public</td>
+        <td>Buscar transporte por ID</td>
+    </tr>
+</table>
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![image](https://github.com/user-attachments/assets/8ca7eb70-a86e-404d-ab35-728b2d409ff0)
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+#### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+![image](https://github.com/user-attachments/assets/c761b97d-bb67-41b9-850b-3bb3b343b9b2)
+
+#### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+![image](https://github.com/user-attachments/assets/c49df029-5113-471d-9c1a-d3205afe9ef0)
+
+### 4.2.3. Bounded Context: Records
+
+**Descripción:** Este contexto tiene como propósito coordinar y controlar los servicios vinculados al transporte y la carga. Incluye funciones como el monitoreo de recursos, la planificación de rutas y la actualización de información relacionada con los servicios activos. Asimismo, respalda la toma de decisiones operativas con base en el estado actual de las operaciones logísticas.
+
+#### 4.2.3.1. Domain Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Aggregate</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoría</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentNotification</td>
+        <td>Entity/Aggregate</td>
+        <td colspan="2">Gestiona los incidentes</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>Long</td>
+        <td>Private</td>
+        <td>Identificador único</td>
+    </tr>
+     <tr>
+        <td>incidentRegistrado</td>
+        <td>Bool</td>
+        <td>Private</td>
+        <td>Si el incidente ha sido registrado</td>
+    </tr>
+     <tr>
+        <td>serviceStatus</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Estado del servicio</td>
+    </tr>
+     <tr>
+        <td>transportNotificaton</td>
+        <td>Bool</td>
+        <td>Private</td>
+        <td>	Si el transportista ha sido notificado</td>
+    </tr>
+     <tr>
+        <td>indicentDetails</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>	Si el transportista ha sido notificado</td>
+    </tr>
+     <tr>
+        <td>reportUpdate</td>
+        <td>Bool</td>
+        <td>Private</td>
+        <td>Indica si el reporte fue actualizado</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>addIncident</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Envía una notificación al transportista</td>
+    </tr>
+    <tr>
+        <td>notificationTransport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Envía una notificación al transportista</td>
+    </tr>
+    <tr>
+        <td>updateReport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Actualiza el reporte del incidente</td>
+    </tr>
+    <tr>
+        <td>isUpdate</td>
+        <td>Bool</td>
+        <td>Public</td>
+        <td>Verifica si el reporte fue actualizado</td>
+    </tr>
+</table>
+
+#### 4.2.3.2. Interface Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentsController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlar la gestión del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>notificationService</td>
+        <td>NotificationService</td>
+        <td>Private</td>
+        <td>Servicio para gestionar las notificaciones</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>sendNotification</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Envía notificación de incidente a transportista</td>
+    </tr>
+    <tr>
+        <td>getNotificationById</td>
+        <td>notification</td>
+        <td>Public</td>
+        <td>Obtener notificación de incidente por ID</td>
+    </tr>
+    <tr>
+        <td>addIncident</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Registra un nuevo incidente</td>
+    </tr>
+</table>
+
+#### 4.2.3.3. Application Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Service</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoría</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentService</td>
+        <td>Service</td>
+        <td colspan="2">	Servicio para gestionar reglas de negocio de los incidentes</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>notificationRepository</td>
+        <td>NotificationRepository</td>
+        <td>private</td>
+        <td>Repositorio de notificaciones</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>addNotification</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Registrar una nueva notificación</td>
+    </tr>
+    <tr>
+        <td>findNotification</td>
+        <td>bool</td>
+        <td>Public</td>
+        <td>Validar los datos de la notificación</td>
+    </tr>
+</table>
+
+#### 4.2.3.4. Infrastructure Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Repository</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentRepository</td>
+        <td>Repository</td>
+        <td colspan="2">Almacenar datos de incidentes</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>findById</td>
+        <td>Transport</td>
+        <td>Public</td>
+        <td>Buscar transporte por ID</td>
+    </tr>
+    <tr>
+        <td>save</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Guardar una nueva notificación</td>
+    </tr>
+    <tr>
+        <td>update</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Actualizar los datos de una notificación</td>
+    </tr>
+</table>
+
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+![image](https://github.com/user-attachments/assets/5deba9be-fbe4-431d-90a9-8ab879ff6221)
+
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
+
+#### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+
+![image](https://github.com/user-attachments/assets/5ad524c5-8b65-41de-af10-ad17fbf42884)
+
+#### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+![image](https://github.com/user-attachments/assets/d318cce8-35bc-42c3-9a38-35745f961429)
