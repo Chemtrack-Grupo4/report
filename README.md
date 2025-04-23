@@ -1053,7 +1053,7 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 ### 4.1.1. EventStorming
 Durante la fase de *Event Storming*, el equipo de desarrollo llevó a cabo una sesión colaborativa en la que se compartieron ideas sobre funcionalidades y características que se deseaban incorporar en el proyecto. 
 
-Para realizar esta dinámica se hizo uso de la plataforma *MIRO* como soporte visual y de organización. *VER ANEXO A*
+Para realizar esta dinámica se hizo uso de la plataforma *MIRO* como soporte visual y de organización. *Ver ANEXO A*
 
 **Step 1: Unstructured exploration**
 
@@ -1987,3 +1987,24 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 #### 4.2.3.6.2. Bounded Context Database Design Diagram
 
 ![image](https://github.com/user-attachments/assets/d318cce8-35bc-42c3-9a38-35745f961429)
+
+# Conclusiones
+## Conclusiones y Recomendaciones
+
+
+
+# Bibliografía
+
+
+
+# Anexos
+
+**Anexo A.** Event Storming desarrollado en la plataforma MIRO.
+
+*[Enlace del MIRO para mayor visualización del Event Storming](https://miro.com/welcomeonboard/ZDUyWkh5OTlpSVF4RGdTNG9tdkI0N0FnS1F5VUtRczM0dXJkS2dSZHRDeW1yWm54RW02c3EybHBKYzdIaGkxRjZUb2lwNHB2a0RKelJzRmJNUDd3NEoyNVE3Wk1Uc2U5MUFySzEyZFNBZ0pSa011QkVnQy93aVprVXUyVGFsQ2pNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=980476835383)*
+
+![eventStorming](https://github.com/user-attachments/assets/fe7db010-856e-4eee-8ef3-90a84ecb3327)
+
+
+
+
