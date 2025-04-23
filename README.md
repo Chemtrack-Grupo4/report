@@ -197,8 +197,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. |  | TB1:  |
-| Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. |  | TB1:  |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1**<br>**Andrea Garcia**<br>Participé en la elaboración de los segmentos objetivo, el análisis de competidores y la definición de estrategias frente a ellos, lo cual requirió coordinación constante con el equipo. Asimismo, realicé el diseño de entrevistas y el análisis de resultados, fomentando el intercambio de ideas y perspectivas para fortalecer la solución final.| TB1:  |
+| Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. | **TB1**<br>**Andrea Garcia**<br>Contribuí activamente a la creación de un entorno colaborativo, establecimos metas claras desde las fases iniciales del proyecto y organicé tareas relacionadas con el diseño táctico del software, abarcando los distintos Bounded Contexts. Coordiné la elaboración de las distintas capas arquitectónicas y diagramas técnicos, asegurando una planificación eficiente y cumplimiento de los plazos. | TB1:  |
 
 # Capítulo I: Introducción
 
@@ -479,12 +479,12 @@ A continuación, se plantean las hipótesis que proponen una solución a la prob
 <th colspan="5">Se hace este analisis para conocer las debilidades y fortalezas y compararlas con el producto solución propuesto</th>
 </tr>
 <tr class="odd">
-<th colspan="5">Permite reconocer las ventajas competitivas y áreas de mejora de "SafeFlow" frente a competidores clave, facilitando el diseño de estrategias eficaces para destacarse en el sector agrícola y atraer a agricultores y comerciantes.</th>
+<th colspan="5">Permite reconocer las ventajas competitivas y áreas de mejora de "Chemtrack" frente a competidores clave, facilitando el diseño de estrategias eficaces para destacarse en el sector agrícola y atraer a agricultores y comerciantes.</th>
 </tr>
 <tr class="header">
 <th></th>
 <th></th>
-<th>SafeFlow</th>
+<th>Chemtrack</th>
 <th>Grupo Caresny</th>
 <th>Dachser</th>
 <th>Cargo & Transport</th>
@@ -784,6 +784,8 @@ Las entrevistas realizadas tanto a conductores como a representantes de empresas
 - La necesidad de recibir alertas en tiempo real es una demanda clave. Cualquier sistema basado en IoT debe incluir notificaciones precisas y oportunas, que no interfieran con las actividades del conductor, pero que faciliten la toma de decisiones inmediatas en caso de riesgo.
 
 - La integración de tecnologías emergentes representa una oportunidad para que las empresas de transporte se posicionen como referentes en seguridad dentro del sector. Aquellas que adopten estas innovaciones de forma anticipada no solo optimizarán sus procesos, sino que también podrán atraer más clientes al ofrecer servicios más seguros y confiables.
+
+![imagen-analisis](https://cdn.discordapp.com/attachments/1149744103567937691/1364437933247041546/image.png?ex=6809ab59&is=680859d9&hm=a6cddcf9a0884cbf4d1454ce451166e5db910b79177705fc3c64f6a5a03e8ce9&)
 
 En resumen, los testimonios obtenidos reflejan una necesidad concreta de actualizar los sistemas de seguridad actuales y apostar por soluciones tecnológicas como el IoT. Aunque el interés es alto, es fundamental abordar las preocupaciones sobre costos y conectividad. Las empresas que logren implementar estas tecnologías de forma efectiva obtendrán una ventaja competitiva y podrán mejorar considerablemente la seguridad en sus operaciones.
 
