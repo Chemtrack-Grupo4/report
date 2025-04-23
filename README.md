@@ -658,19 +658,24 @@ A continuación, se diseñaron entrevistas dirigidas a los dos segmentos objetiv
 
 ***Primera Entrevista:***
 
-Nombres y apellidos: 
+Nombres y apellidos: Carolina Torres Torres
 
-Edad: 
+Edad: 27
 
-Inicio: 
+Inicio: 0:00
 
-Fin: 
+Fin: 5:07
 
-Duración: 
+Duración: 5:07
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ESJ2p17qJopCnR5y_ExwldIBFC13m5znCcQtlcKynGLgHw?e=0XxBFT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![entrevista1t](https://i.imgur.com/0MFB9Rr.png)
 
 Resumen:
+
+- Carolina es una transportista de productos reactivos y actualmente cuenta con un sistema de GPS y un monitoreo de temperatura básico instalado en su vehículo. Ella nos comentó que su principal motivación para incorporar una solución tecnológica adicional es mejorar su seguridad, ya que esto le permitiría prevenir un mayor número de accidentes que podrían poner en riesgo tanto su integridad como la de las personas a su alrededor. Además, menciona que esta solución también le brindaría mayor tranquilidad durante sus recorridos. Carolina prefiere que las notificaciones se emitan mediante alertas sonoras, ya que considera que así podrá estar más atenta a ellas mientras conduce. En cuanto a las funcionalidades que considera imprescindibles, destaca el monitoreo en tiempo real, las alertas automáticas y el acceso inmediato desde la central.
+
 
 ***Segunda Entrevista:***
 
