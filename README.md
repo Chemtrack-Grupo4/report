@@ -1083,19 +1083,19 @@ Durante esta fase se identificaron *pivotal points*, es decir, eventos clave que
 
 En este proceso, a cada evento se le asignó un comando específico que lo activa y un actor responsable de ejecutarlo, lo que le permitió comprender mejor la interacción de los usuarios con el sistema.
 
-![step5](https://discord.com/channels/1356297168327016509/1364445917452697683/1364445939586043915)
+![step5](https://github.com/user-attachments/assets/511ac749-892d-4f8e-9ab5-c175d36c27bc)
 
 **Step 6: Policies**
 
 En esta etapa se definieron las políticas relevantes para cada contexto del sistema, incluyendo reglas de negocio, validaciones y restricciones específicas. 
 
-![step6](https://discord.com/channels/1356297168327016509/1364445917452697683/1364445998637776948)
+![step6](https://github.com/user-attachments/assets/cd03c448-e0cf-42f4-b22b-d49c73f8ec9a)
 
 **Step 7: Read Models**
 
 En esta fase se diseñaron y desarrollaron los modelos de lectura correspondientes a cada contexto del sistema, grantizando que ofrecieran la información necesaria de forma clara, eficiente y alineada con las necesidades de usuario.
 
-![step7](https://discord.com/channels/1356297168327016509/1364445917452697683/1364446063800614952)
+![step7](https://github.com/user-attachments/assets/c3698437-46d0-42c1-98f2-0a2feefa6a73)
 
 **Step 8: External Systems**
 
