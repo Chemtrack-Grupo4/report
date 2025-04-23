@@ -1101,11 +1101,13 @@ En esta fase se diseñaron y desarrollaron los modelos de lectura correspondient
 
 Durante el transcurso de este proceso se identificaron los sistemas externos con los que la plataforma debe interactura y dse dfinieron las interfaces necesarias para lograr una integracion efectiva.
 
-![step8]()
+![step8](https://github.com/user-attachments/assets/3967dc7f-54d2-402e-9c62-f34b4a288d08)
 
 **Step 9: Aggregates**
 
 En el transcurso de esta etapa se definieron los *aggregates* para cada contexto del sistema, con el objetivo de representar adecuadamente las transacciones y operaciones que deben mantenerse coherentes.
+
+![step9](https://github.com/user-attachments/assets/4129de72-61c2-4287-8e04-6e7a03dd6f7c)
 
 **Step 10: Bounded Contexts**
 
