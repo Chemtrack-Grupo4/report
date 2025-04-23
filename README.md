@@ -1083,19 +1083,25 @@ Durante esta fase se identificaron *pivotal points*, es decir, eventos clave que
 
 En este proceso, a cada evento se le asignó un comando específico que lo activa y un actor responsable de ejecutarlo, lo que le permitió comprender mejor la interacción de los usuarios con el sistema.
 
-![step5](assets/eventstorming/step5.png)
+![step5](https://discord.com/channels/1356297168327016509/1364445917452697683/1364445939586043915)
 
 **Step 6: Policies**
 
 En esta etapa se definieron las políticas relevantes para cada contexto del sistema, incluyendo reglas de negocio, validaciones y restricciones específicas. 
 
+![step6](https://discord.com/channels/1356297168327016509/1364445917452697683/1364445998637776948)
+
 **Step 7: Read Models**
 
 En esta fase se diseñaron y desarrollaron los modelos de lectura correspondientes a cada contexto del sistema, grantizando que ofrecieran la información necesaria de forma clara, eficiente y alineada con las necesidades de usuario.
 
+![step7](https://discord.com/channels/1356297168327016509/1364445917452697683/1364446063800614952)
+
 **Step 8: External Systems**
 
 Durante el transcurso de este proceso se identificaron los sistemas externos con los que la plataforma debe interactura y dse dfinieron las interfaces necesarias para lograr una integracion efectiva.
+
+![step8]()
 
 **Step 9: Aggregates**
 
