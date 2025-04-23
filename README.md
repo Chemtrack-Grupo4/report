@@ -1117,10 +1117,10 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
-<a href="https://ibb.co/MD4v1BgZ"><img src="https://i.ibb.co/0jS79snm/landscapecontext.png" alt="landscapecontext" border="0"></a>
+<a href="https://ibb.co/4Rz65xL1"><img src="https://i.ibb.co/DfhxSnFr/landscapecontext.png" alt="landscapecontext" border="0"></a>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
-<a href="https://ibb.co/b5n6L33L"><img src="https://i.ibb.co/3mHTWssW/systemcontext.png" alt="systemcontext" border="0"></a>
+<a href="https://ibb.co/6RX7jTts"><img src="https://i.ibb.co/tMLTVv2C/systemcontext.png" alt="systemcontext" border="0"></a>
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
 <a href="https://ibb.co/STfmxWd"><img src="https://i.ibb.co/7ckpz8R/container.png" alt="container" border="0"></a>
