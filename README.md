@@ -1123,7 +1123,7 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 <a href="https://ibb.co/6RX7jTts"><img src="https://i.ibb.co/tMLTVv2C/systemcontext.png" alt="systemcontext" border="0"></a>
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
-<a href="https://ibb.co/STfmxWd"><img src="https://i.ibb.co/7ckpz8R/container.png" alt="container" border="0"></a>
+<img src="https://cdn.discordapp.com/attachments/1169083572892729455/1364434719260938332/container.png?ex=6809a85b&is=680856db&hm=c566b61aa3732733ed4f00cf3f3fd4b6cfa685fda6d8be9cb720084ea0a8d354&" alt="container" border="0">
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 <a href="https://ibb.co/G4zcw7sy"><img src="https://i.ibb.co/8L163Mzq/deployment.png" alt="deployment" border="0"></a>
