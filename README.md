@@ -2001,9 +2001,19 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 
 **Anexo A.** Event Storming desarrollado en la plataforma MIRO.
 
+![eventStorming](https://github.com/user-attachments/assets/fe7db010-856e-4eee-8ef3-90a84ecb3327)
+
 *[Enlace del MIRO para mayor visualización del Event Storming](https://miro.com/welcomeonboard/ZDUyWkh5OTlpSVF4RGdTNG9tdkI0N0FnS1F5VUtRczM0dXJkS2dSZHRDeW1yWm54RW02c3EybHBKYzdIaGkxRjZUb2lwNHB2a0RKelJzRmJNUDd3NEoyNVE3Wk1Uc2U5MUFySzEyZFNBZ0pSa011QkVnQy93aVprVXUyVGFsQ2pNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=980476835383)*
 
-![eventStorming](https://github.com/user-attachments/assets/fe7db010-856e-4eee-8ef3-90a84ecb3327)
+**Videos de exposición**
+
+[Video de exposición TB1]()
+
+[Video de exposición TP]()
+
+[Video de exposición TB2]()
+
+[Video de exposición TF]()
 
 
 
