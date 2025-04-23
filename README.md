@@ -1110,21 +1110,23 @@ Por último, gracias a la identificación y definición de cada uno de los eleme
 
 ### 4.1.2. Context Mapping
 
+Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido usar los siguientes patrones:
+
 <a href="https://ibb.co/wZts5VFt"><img src="https://i.ibb.co/sp7H8nd7/contextmapping.png" alt="contextmapping" border="0"></a>
 
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
-<a href="https://ibb.co/j9fp030F"><img src="https://i.ibb.co/Y4QrnfnG/landscape.jpg" alt="landscape" border="0"></a>
+<a href="https://ibb.co/MD4v1BgZ"><img src="https://i.ibb.co/0jS79snm/landscapecontext.png" alt="landscapecontext" border="0"></a>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
-<a href="https://ibb.co/8CP3km7"><img src="https://i.ibb.co/KPVZn5r/systemcontext.png" alt="systemcontext" border="0"></a>
+<a href="https://ibb.co/b5n6L33L"><img src="https://i.ibb.co/3mHTWssW/systemcontext.png" alt="systemcontext" border="0"></a>
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
-<a href="https://ibb.co/fd5p6bhv"><img src="https://i.ibb.co/5hy8pdNF/container.png" alt="container" border="0"></a>
+<a href="https://ibb.co/STfmxWd"><img src="https://i.ibb.co/7ckpz8R/container.png" alt="container" border="0"></a>
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
-<a href="https://ibb.co/276bRmCs"><img src="https://i.ibb.co/zh5kCjB7/deployment.png" alt="deployment" border="0"></a>
+<a href="https://ibb.co/G4zcw7sy"><img src="https://i.ibb.co/8L163Mzq/deployment.png" alt="deployment" border="0"></a>
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
