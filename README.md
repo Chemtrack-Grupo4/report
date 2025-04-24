@@ -24,7 +24,7 @@ Profesor: León Baca, Marco Antonio
 - Barrial Marin, Sharon Antuanet Ivet   U202114900
 - Garcia Moscoso, Andrea Joselyn        U201291060
 - Laguerre Challco, Fabrizzio Hernan    U20211A950
--
+- Hidalgo Bustamante, Josue Omar      U202119880
 - 
 
 Abril del 2025
