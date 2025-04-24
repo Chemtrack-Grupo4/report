@@ -902,7 +902,12 @@ Una de las principales diferencias entre los dos segmentos objetivo es que las e
 
 Tanto los transportistas como las empresas coinciden en la alta importancia de la evaluación de la calidad de los vehículos de transporte y la necesidad de trazar rutas seguras y eficientes. Ambas audiencias reconocen la importancia crítica de estas tareas para garantizar la seguridad y la eficiencia en el transporte de productos peligrosos.
 
-### 2.3.3. Empathy Mapping
+### 2.3.3. Journey Mapping
+
+<img src="https://i.imgur.com/b1FuQz1.png" style="width:80%">
+<img src="https://i.imgur.com/SEZ5r2H.png" style="width:80%">
+
+### 2.3.4. Empathy Mapping
 
 **Transportistas de combustibles peligrosos**
 
@@ -912,7 +917,7 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ![Empathy map (1)](https://github.com/user-attachments/assets/ef04d9c0-99cf-47e2-8c70-5f579319d6f7)
 
-### 2.3.4. As-is Scenario Mapping
+### 2.3.5. As-is Scenario Mapping
 
 ![image](https://github.com/user-attachments/assets/753224a7-ec79-412f-9fe9-7a5cf13b7c0b)
 ![image](https://github.com/user-attachments/assets/233c4c8e-0a59-472f-863e-d9023194cdc5)
