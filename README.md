@@ -25,7 +25,7 @@ Profesor: León Baca, Marco Antonio
 - Garcia Moscoso, Andrea Joselyn        U201291060
 - Laguerre Challco, Fabrizzio Hernan    U20211A950
 - Hidalgo Bustamante, Josue Omar      U202119880
-- Huarcaya Uispe, Niurka Lucero         U20221B226
+- Huarcaya Quispe, Niurka Lucero         U20221B226
 
 Abril del 2025
 
