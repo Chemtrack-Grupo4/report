@@ -20,12 +20,15 @@ Profesor: León Baca, Marco Antonio
 **Producto: Chemtrack**
 
 **Integrantes:**
-- Amaro Villanueva, Camila Elena        U202114248
-- Barrial Marin, Sharon Antuanet Ivet   U202114900
-- Garcia Moscoso, Andrea Joselyn        U201291060
-- Laguerre Challco, Fabrizzio Hernan    U20211A950
-- Hidalgo Bustamante, Josue Omar      U202119880
-- Huarcaya Quispe, Niurka Lucero         U20221B226
+| Nombre completo                               | Código        |
+|----------------------------------------------|---------------|
+| Amaro Villanueva, Camila Elena               | U202114248    |
+| Barrial Marín, Sharon Antuanet Ivet          | U202114900    |
+| García Moscoso, Andrea Joselyn               | U201291060    |
+| Laguerre Challco, Fabrizzio Hernan           | U20211A950    |
+| Hidalgo Bustamante, Josue Omar               | U202119880    |
+| Huarcaya Quispe, Niurka Lucero               | U20221B226    |
+
 
 Abril del 2025
 
@@ -2005,13 +2008,31 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 
 # Conclusiones
 ## Conclusiones y Recomendaciones
+
 En esta primera entrega, se llevaron a cabo actividades orientadas a la captura de requisitos y la definición de la solución tecnológica. Se estableció el dominio del negocio, identificando la problemática a resolver, los segmentos objetivo y los requisitos clave, así como la elaboración de user stories. Además, se diseñó la versión inicial de la arquitectura del sistema, utilizando metodologías de Domain Driven Design como EventStorming y Bounded Context Canvas. Estos avances sentaron las bases sólidas para el desarrollo de la arquitectura de la solución propuesta.
 
+Como equipo llegamos a las siguientes conclusiones:
+
+- La primera fase del proyecto permitió comprender a profundidad el dominio del negocio y delimitar claramente la problemática relacionada con la seguridad en el transporte de materiales peligrosos.
+- El realizar todas las secciones previstas en este sistema se brindó una visión compartida del problema y sus posibles soluciones, además de  un avance clave que facilitará futuras iteraciones de diseño, implementación y validación de ChemTrack.
+
+Por otro lado recomendaríamos que: 
+
+- Lo ideal para planificar y desarrollar un proyecto tan grande como este, se hicieran reuniones consecutivas para tener en cuenta que alineación del objetivo del proyecto sean de la misma forma para todos los involucrados.
+- Por último, documentar de forma continua cada iteración del proceso sería preciso para facilitar la trazabilidad del diseño y las decisiones tomadas en fases futuras.
 
 # Bibliografía
+
+Aguilar-Velázquez, J. A., & Salazar-González, M. (2018). Evaluación del riesgo en el transporte terrestre de sustancias peligrosas mediante sistemas de información geográfica. Revista Internacional de Contaminación Ambiental, 34(1), 131-141.
+
+García, C. H., & Martínez, J. D. (2022). Aplicación de sensores IoT para detección temprana de fugas en unidades móviles de transporte de gas. Revista Electrónica de Ciencia y Tecnología, 19(1), 47-55.
+
 López-Atamoros, L. G., Fernández-Villagómez, G., Cruz-Gómez, M. J., & Durán-de-Bazúa, C. (2010). Integración de una Base Nacional de Datos de Accidentes durante el Transporte de Gas LP (BNDAT@ GLP) 1998-2009: Sustento para un estudio de evaluación de riesgo. Tecnología, Ciencia, Educación, 25(2), 99-112.
 
+Rivas-Tovar, L. A., & Vázquez-González, R. (2017). Desarrollo de un sistema de monitoreo para transporte de materiales peligrosos utilizando sensores y redes inalámbricas. Revista Iberoamericana de Automática e Informática Industrial RIAI, 14(3), 315-324.
+
 Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, J. M. E. (2023). DISEÑO DE DISPOSITIVO PARA PREVENIR ACCIDENTES CAUSADOS POR FUGAS DE GAS. Revista IPSUMTEC, 6(4), 11-14.
+
 
 # Anexos
 
