@@ -34,7 +34,7 @@ Abril del 2025
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-| 1.00 |  |  | |
+| 1.00 | 24/04/2025 | Todos los integrantes del equipo  | Se desarrolló la descripción del startup, nuestros integrantes que ayudarán al desarrollo del sistema Chemtrack, el análisis de la competencia dentro del mercado, su valor agregado dentro del nicho establecido, la descripción de la problemática que queremos resolver como equipo,   |
 ---
 # Project Report Collaboration Insights
 
