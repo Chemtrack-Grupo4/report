@@ -1074,7 +1074,8 @@ En esta etapa, los eventos detectados se organizaron en conjuntos más pequeños
 
 En este proceso se detectaron *paint points*, es decir, áreas problemáticas donde los usuarios podrían enfrentar dificultades al interactuar con nuestro sistema. Identificarlos es clave para mejorar la experiencia de uso y optimizar el diseño de la aplicación.
 
-![image](https://github.com/user-attachments/assets/888ca973-34d1-4151-9dc5-ff5e7bb2547a)
+![step3](https://github.com/user-attachments/assets/f84f6a50-bde3-46fe-8577-3a862380ec8c)
+
 
 **Step 4: Pivotal Points**
 
