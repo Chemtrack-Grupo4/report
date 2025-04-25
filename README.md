@@ -238,7 +238,7 @@ Como misión se plantea “Incrementar la calidad del servicio de transporte de 
 
 ---
 
-| <img src="https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843" width="900" alt="Foto" style="border-radius: 10px;"> | Soy estudiante de Ingeniería de Software y actualmente me desempeño como Cloud Backend Developer en Python. Me especializo en el desarrollo de soluciones escalables en la nube, con énfasis en eficiencia, automatización y buenas prácticas. Disfruto diseñar backends aplicando distintos tipos de arquitectura, y tengo un sólido conocimiento en la integración con interfaces frontend. Me considero proactivo, orientado a la mejora continua y con un fuerte interés en seguir aprendiendo tecnologías que impulsen la calidad del software. |
+| <img src="https://github.com/user-attachments/assets/cb84ecb3-20f0-4a5c-ba50-43888c811843" width="1000" alt="Foto" style="border-radius: 10px;"> | Soy estudiante de Ingeniería de Software y actualmente me desempeño como Cloud Backend Developer en Python. Me especializo en el desarrollo de soluciones escalables en la nube, con énfasis en eficiencia, automatización y buenas prácticas. Disfruto diseñar backends aplicando distintos tipos de arquitectura, y tengo un sólido conocimiento en la integración con interfaces frontend. Me considero proactivo, orientado a la mejora continua y con un fuerte interés en seguir aprendiendo tecnologías que impulsen la calidad del software. |
 |----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 
