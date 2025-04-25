@@ -2047,7 +2047,7 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 
 **Videos de exposición**
 
-[Video de exposición TB1]()
+[Video de exposición TB1](https://youtu.be/n4_SKmnvCeU)
 
 [Video de exposición TP]()
 
