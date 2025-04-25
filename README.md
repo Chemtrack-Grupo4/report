@@ -1105,7 +1105,8 @@ En esta fase se diseñaron y desarrollaron los modelos de lectura correspondient
 
 Durante el transcurso de este proceso se identificaron los sistemas externos con los que la plataforma debe interactura y dse dfinieron las interfaces necesarias para lograr una integracion efectiva.
 
-![step8](https://github.com/user-attachments/assets/3967dc7f-54d2-402e-9c62-f34b4a288d08)
+![step8](https://github.com/user-attachments/assets/43c6e6a4-103b-4425-94e1-60daccd9f8b6)
+
 
 **Step 9: Aggregates**
 
