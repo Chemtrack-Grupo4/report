@@ -37,7 +37,7 @@ Abril del 2025
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-| 1.00 | 24/04/2025 | Todos los integrantes del equipo  | Se desarrolló la descripción del startup, nuestros integrantes que ayudarán al desarrollo del sistema Chemtrack, el análisis de la competencia dentro del mercado, su valor agregado dentro del nicho establecido, la descripción de la problemática que queremos resolver como equipo,   |
+| 1.00 | 24/04/2025 | Todos los integrantes del equipo  | Se desarrolló la descripción del startup Chemtrack, presentando a los integrantes del equipo, la problemática a resolver y el análisis del mercado, incluyendo a la competencia y el valor agregado que ofrece nuestra solución dentro del nicho. Además, se definieron la visión y objetivos del proyecto, el segmento objetivo y se propuso una solución tecnológica basada en IoT para el monitoreo seguro del transporte de materiales peligrosos, sentando así las bases para el desarrollo futuro del sistema. Luego se implementó los demás artefactos necesarios para realizar una base sólida para la arquitectura, implementación, validación y desarrollo de ChemTrack.   |
 ---
 # Project Report Collaboration Insights
 
