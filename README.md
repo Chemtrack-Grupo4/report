@@ -212,11 +212,14 @@ Como misión se plantea “Incrementar la calidad del servicio de transporte de 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 
-|--------|-------------|
-| ![Foto](https://github.com/user-attachments/assets/d03388b2-c106-406c-961f-3785e3fae476) | **Camila Elena Amaro Villanueva**  
-Conocimientos en desarrollo frontend y backend.  
-Lenguajes: C++, Python, JavaScript.  
-Habilidades: responsabilidad, creatividad, trabajo en equipo. |
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; display: flex; align-items: center; gap: 20px; max-width: 700px;">
+  <img src="https://github.com/user-attachments/assets/d03388b2-c106-406c-961f-3785e3fae476" width="300" alt="Foto de Camila Elena Amaro Villanueva" style="border-radius: 10px;">
+  <p style="margin: 0;">
+    <strong>Camila Elena Amaro Villanueva</strong><br>
+    Cuento con conocimientos de desarrollo frontend y backend, además de lenguajes de programación como C++, Python y JavaScript. Además, entre mis habilidades puedo resaltar la responsabilidad y creatividad que poseo para aportar en los trabajos en equipo.
+  </p>
+</div>
+
 
 
 ---
