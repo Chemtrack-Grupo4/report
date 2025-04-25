@@ -41,6 +41,10 @@ Abril del 2025
 TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: https://github.com/Chemtrack-Grupo4/report
 
+Registro de commits:
+![registro de commits](https://media.discordapp.net/attachments/1364445917452697683/1365182465475612692/image.png?ex=680c60bf&is=680b0f3f&hm=c895130a81b5d167c2a91208221384eb4fa1b29322c97c19371eda8478175807&=&format=webp&quality=lossless)
+
+
 ---
 # Contenido 
 ## Tabla de contenidos
@@ -165,12 +169,12 @@ Link de repositorio Github: https://github.com/Chemtrack-Grupo4/report
 
 - [6.4. Video About-the-Product](#link)
 
-- [Conclusiones](#conclusiones-1)
+- [Conclusiones](#conclusiones)
   - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video About-the-Team](#link)
 
-- [Bibliografía](#bibliografía-1)
-- [Anexos](#anexos-1)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 ---
 
@@ -1999,7 +2003,7 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 
 # Conclusiones
 ## Conclusiones y Recomendaciones
-
+En esta primera entrega, se llevaron a cabo actividades orientadas a la captura de requisitos y la definición de la solución tecnológica. Se estableció el dominio del negocio, identificando la problemática a resolver, los segmentos objetivo y los requisitos clave, así como la elaboración de user stories. Además, se diseñó la versión inicial de la arquitectura del sistema, utilizando metodologías de Domain Driven Design como EventStorming y Bounded Context Canvas. Estos avances sentaron las bases sólidas para el desarrollo de la arquitectura de la solución propuesta.
 
 
 # Bibliografía
