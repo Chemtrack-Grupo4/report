@@ -2066,6 +2066,44 @@ Se identificaron 3 bounded context: IAM, Records y Management. Se ha decidido us
 
 ![image](https://github.com/user-attachments/assets/d318cce8-35bc-42c3-9a38-35745f961429)
 
+# Capítulo V: Solution UI/UX Design
+## 5.1. Style Guidelines
+### 5.1.1. General Style Guidelines
+### 5.1.2. Web, Mobile And IoT Devices Style Guidelines
+## 5.2. Information Architecture
+### 5.2.1. Organization Systems
+### 5.2.2. Labeling Systems
+### 5.2.4. SEO Tags and Meta Tags
+### 5.2.3. Searching Systems
+### 5.2.5. Navigation Systems
+## 5.3. Landing Page UI Design
+### 5.3.1. Landing Page Wireframe
+### 5.3.2. Landing Page Mock-up
+## 5.4. Applications UX/UI Design
+### 5.4.1. Applications Wireframes
+### 5.4.2. Applications Wireflow Diagrams
+### 5.4.3. Applications Mock-ups
+### 5.4.4. Applications User Flow Diagrams
+## 5.5. Applications Prototyping
+
+## [Capítulo VI: Product Implementation, Validation & Deployment](#link)
+- [6.1. Software Configuration Management](#link)
+    - [6.1.1. Software Development Environment Configuration](#link)
+    - [6.1.2. Source Code Management](#link)
+    - [6.1.3. Source Code Style Guide & Conventions](#link)
+    - [6.1.4. Software Deployment Configuration](#link)
+- [6.2. Landing Page, Services & Applications Implementation.](#link)
+    - [6.2.1. Sprint n](#link)
+        - [6.2.1.1. Sprint Planning 1](#link)
+        - [6.2.1.2. Aspect Leaders and Collaborators](#link1)
+        - [6.2.1.2. Sprint Backlog 1](#link)
+        - [6.2.1.3. Development Evidence for Sprint Review](#link)
+        - [6.2.1.4. Testing Suite Evidence for Sprint Review](#link)
+        - [6.2.1.5. Execution Evidence for Sprint Review](#link)
+        - [6.2.1.6. Services Documentation Evidence for Sprint Review](#link)
+        - [6.2.1.7. Software Deployment Evidence for Sprint Review](#link)
+        - [6.2.1.8. Team Collaboration Insights during Sprint](#link)
+
 # Conclusiones
 ## Conclusiones y Recomendaciones
 
