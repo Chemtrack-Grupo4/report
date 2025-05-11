@@ -2363,12 +2363,242 @@ Footer:
 
 ![image](https://github.com/user-attachments/assets/12ee1743-0d86-43fa-8d52-ba26b9a8f389)
 
-## 5.4. Applications UX/UI Design
-### 5.4.1. Applications Wireframes
-### 5.4.2. Applications Wireflow Diagrams
-### 5.4.3. Applications Mock-ups
-### 5.4.4. Applications User Flow Diagrams
-## 5.5. Applications Prototyping
+## 5.4 Applications UI/UX Design
+Esta sección incluye secciones internas donde presentamos la propuesta visual y de interacción para nuestras web y mobile application, considerando la experiencia de usuario con los productos.
+
+### 5.4.1 Applications Wireframes
+En esta sección se pueden encontrar los wireframes relacionados a nuestra aplicación web y móvil Chemtack.
+
+**Wireframes Web Application:**
+
+![Wireframes Web App](https://i.imgur.com/CswDZjd.png)
+
+**Wireframes Web Application Responsive:**
+![Wireframes Web App Responsive](https://i.imgur.com/dV2z3Vz.png)
+
+**Wireframes Mobile:**
+
+![Wireframes Mobile App](https://github.com/user-attachments/assets/1d66d831-2319-4cc4-9eb5-27a1d815defa)
+
+
+### 5.4.2 Applications Wireflow Diagrams
+En esta sección, se presentan los Wireflows, donde se mostrarán las rutas que los usuarios pueden tener al momento de usar la aplicación web y móvil. Para su realización se utilizó la herramienta LucidChart.
+
+**Wireflow Diagrams Web Application:**
+
+**User goal, usuario inicia sesion y se registra**
+![Wireflow Web Application 1](https://i.imgur.com/3NlrAHP.jpeg)
+
+**Descripción:**
+Al iniciar la aplicación, el usuario se encuentra en la página de opciones, donde puede iniciar sesión. Si el usuario no posee una cuenta puede registrar una nueva utilizando su correo electrónico.
+
+**User goal, usuario transportista ve servicios disponibles**
+![Wireflow Web Application 2)](https://i.imgur.com/QsE9k1q.jpeg)
+
+**Descripción:**
+Cuando el transportista haya terminado de completar su perfil y este interesado en aceptar una entrega ingresa a la opción "Publication", envía su solicitud al servicio de su interés y si es aceptado en alguna podrá proceder a visualizar las notificaciones y la opción de rutas.
+
+**User goal, usuario administrador publica servicios**
+![Wireflow Web Application 3)](https://i.imgur.com/QP2utY2.jpeg)
+
+**Descripción:**
+Una vez que el administrador haya terminado de completar su perfil se le mostrará un formulario para publicar un servicio y si es aceptado por algún transportista podrá visualizar la opción de "Solicitation".
+
+**User goal, usuario administrador visualiza perfil de transportista**
+![Wireflow Web Application 4)](https://i.imgur.com/qUWePu3.jpeg)
+
+**Descripción:**
+El administrador podrá ver todas las solicitudes de transportistas a su publicación de servicio desde la opción "Solicitation" y desde dicha vista podrá decidir si aceptarlos o visualizar previamente su perfil donde si incluye los datos de su CV.
+
+---
+
+**Wireflow Diagrams Mobile Application:**
+**User goal, usuario inicia sesion y se registra**
+![Wireflow Mobile Application 1](https://i.imgur.com/QvX5QtC.jpeg)
+
+**Descripción:**
+Al iniciar la aplicación, el usuario se encuentra en la página de opciones, donde puede iniciar sesión. Si el usuario no posee una cuenta puede registrar una nueva utilizando su correo electrónico.
+
+**User goal, usuario transportista acepta servicio e inicia recorrido**
+![Wireflow Mobile Application 2](https://i.imgur.com/FojRu3F.jpeg)
+
+**Descripción:**
+Cuando el transportista haya aceptado el servicio y comience con la ruta presiona en la app la opción de iniciar recorrido, donde le figurará detalles acerca del recorrido y la carga a transportar y parámetros brindados por los sensores.
+
+**User goal, usuario transportista reporta incidente**
+![Wireflow Mobile Application 3](https://i.imgur.com/GqzxViA.jpeg)
+
+**Descripción:**
+El usuario puede reportar incidentes que hayan ocurrido durante el recorrido para que de ese modo el administrador permanezca atento de ello.
+
+**User goal, usuario administrador añade nueva ruta a monitorear**
+![Wireflow Mobile Application 4](https://i.imgur.com/rrNCCir.jpeg)
+
+**Descripción:**
+Desde la app el admnistrador tiene la opción de poder añadir nuevos servicios a monitorear para que así pueda ir monitoreando remotamente como se encuentran los parámetros de los sensores.
+
+**User goal, usuario administrador visualiza reportes de incidentes**
+![Wireflow Mobile Application 5](https://i.imgur.com/HaLPhcx.jpeg)
+
+**Descripción:**
+El usuario administrador puede visualizar los reportes de incidentes brindados por los transportistas al igual de los parámetros de monitoreo que dejaron los sensores en dicho momento.
+
+[Enlace para acceder a LucidChart.](https://lucid.app/lucidchart/78d14ebd-5614-4c11-be07-705631141f25/edit?viewport_loc=-3238%2C-2725%2C14392%2C6984%2Cz.Le~yULM6Za&invitationId=inv_efb1a0e4-2462-43d2-805c-6c06dbb66383 "Enlace para acceder a LucidChart.")
+
+
+### 5.4.3 Applications Mock-ups
+En esta sección se pueden encontrar los Mock-ups relacionados a nuestra aplicación web y móvil Chemtrack.
+
+**Web Application Mock-up**
+
+![Mock-up Web Application](https://i.imgur.com/yqDNN8S.png)
+
+**Web Application Responsive Mock-up**
+![Mock-up Web Application Responsive](https://i.imgur.com/etnXnd4.png)
+
+
+**Mobile Application Mock-ups:**
+
+![Mock-up Mobile Application](https://i.imgur.com/B0GUcoa.png)
+
+
+### 5.4.4 Applications User Flow Diagrams
+
+En esta sección, se presentan los User Flows, donde se mostrarán las Happy y Unhappy paths que los usuarios pueden tener al momento de usar la aplicación web y móvil. Para su realización se utilizó la herramienta LucidChart.
+
+**User Flow Diagrams Web Application:**
+**User goal, usuario inicia sesion y se registra**
+
+**Task Flow:**
+
+- Primero el usuario debe estar en la pantalla Sign In
+- Luego, si quiere crear un nuevo usuario va a la pantalla Sign Up donde puede elegir entre ser transportista o administrador
+- Dependendiendo de su tipo de cuenta se le redirige a la sección Home correspondiente
+
+![User Flow Web Application 1](https://i.imgur.com/GN4AKVH.jpeg)
+
+
+**User goal, usuario transportista ve servicios disponibles**
+
+**Task Flow: **
+
+- Si el transportista está interesado en aceptar una entrega
+- Entra a la sección de "Solicitation"
+- Y se visualiza los servicios
+  
+![image](https://i.imgur.com/7wLkgEV.jpeg)
+
+
+**User goal, usuario administrador publica servicios**
+
+**Task Flow:**
+
+- Si el usuario autenticado como administrador se encuentra en la sección
+- Entonces se le muestra un formulario para publicar un servicio
+- Si es aceptado, entonces es mostrado en la interfaz de los transportistas
+  
+![image](https://i.imgur.com/AcVcOS4.jpeg)
+
+
+**User goal, usuario administrador visualiza perfil de transportista**
+
+**Task Flow:**
+
+- Si el administrador desea verificar el perfil del transporista
+- Al aceptar un envío, el administrador puede ver el perfil
+- Si es así, entonces se le muestra el perfil a detalle
+
+![image](https://i.imgur.com/NhsskSA.jpeg)
+
+---
+
+**User Flow Diagrams Mobile Application:**
+
+**User goal, usuario inicia sesion y se registra**
+
+**Task Flow:**
+
+- Primero el usuario debe estar en la pantalla Sign In
+- Luego, si quiere crear un nuevo usuario va a la pantalla Sign Up donde puede elegir entre ser transportista o administrador
+- Dependendiendo de su tipo de cuenta se le redirige a la sección Home correspondiente
+
+![image](https://i.imgur.com/6Yz3Npo.jpeg)
+
+**User goal, usuario transportista acepta servicio e inicia recorrido**
+
+**Task Flow:**
+
+- Si el transportista ha aceptado un servicio
+- Entonces podrá ingresar a la sección "Monitoring" para iniciar el recorrido
+- Si selecciona una ruta, se le muestran los detalles del viaje y de la carga
+- Si desea añadir una nueva ruta, se le muestra un formulario para completarla
+- Al iniciar el recorrido, se muestran los datos de monitoreo en tiempo real
+- Entonces puede seguir la ruta y finalizar la entrega desde la interfaz
+
+![image](https://i.imgur.com/SsocVaB.jpeg)
+
+**User goal, usuario transportista reporta incidente**
+
+**Task Flow:**
+
+- Si el transportista se encuentra realizando un recorrido
+- Entonces puede acceder a la sección "Incidents" desde el menú
+- Si decide registrar un nuevo incidente, se le muestra un formulario
+- Al completar los campos requeridos, puede enviar el reporte
+- Entonces el incidente queda registrado y visible para el administrador
+
+![image](https://i.imgur.com/7bxJw1e.jpeg)
+
+**User goal, usuario administrador añade nueva ruta a monitorear**
+
+**Task Flow:**
+
+- Si el administrador accede a la sección "Monitoring"
+- Entonces puede seleccionar la opción para añadir una nueva ruta
+- Si decide continuar, se le muestra un formulario para completar los datos
+- Al guardar la información, la nueva ruta queda registrada
+- Entonces podrá monitorear los parámetros de los sensores en esa ruta
+
+![image](https://i.imgur.com/7BzRtg9.jpeg)
+
+**User goal, usuario administrador visualiza reportes de incidentes**
+
+**Task Flow:**
+
+- Si el administrador accede a la sección "Incidents"
+- Entonces se le muestra la lista de reportes enviados por los transportistas
+- Si selecciona un reporte, se visualiza el detalle del incidente
+- Entonces también se muestran los parámetros de monitoreo asociados al evento
+
+![image](https://i.imgur.com/aFCOnRN.jpeg)
+
+
+
+[Enlace para acceder a LucidChart](https://lucid.app/lucidchart/78d14ebd-5614-4c11-be07-705631141f25/edit?viewport_loc=-7647%2C-2992%2C14024%2C6805%2C0_0&invitationId=inv_efb1a0e4-2462-43d2-805c-6c06dbb66383 "Enlace para acceder a LucidChart"). 
+
+## 5.5 Applications Prototyping
+
+En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
+
+Principio de elección: Procuramos que las aplicaciones web y móvil posean una cantidad de secciones a todo momento, por lo que en ambas se cuenta con la barra superior siempre con 4 secciones, las cuales podrán acceder a las funcionalidades rapidamente desde cualquier pantalla.
+
+Principio de divulgación: La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee. 
+
+Video de presentación del prototipo:
+
+**Prototipo Web Application**
+Timing: 
+Duración: 03:31
+
+![image](https://i.imgur.com/bMplMmA.png)
+
+**Prototipo Mobile Application**
+Timing: 
+Duración: 03:51
+
+![image](https://i.imgur.com/H1gB1R8.png)
+
+Link al video.
 
 ## [Capítulo VI: Product Implementation, Validation & Deployment](#link)
 - [6.1. Software Configuration Management](#link)
