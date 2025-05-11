@@ -2314,40 +2314,53 @@ Durante el diseño de la interfaz de la página de inicio (landing page), uno de
 ### 5.3.1. Landing Page Wireframe
 
 Hero:
+
 ![image](https://github.com/user-attachments/assets/8995e159-15f6-4bf4-9a9f-2cbe0e68860d)
 
 Services:
+
 ![image](https://github.com/user-attachments/assets/c7ce2413-f6b9-4359-804d-d6f6d48ea7a9)
 
 About us:
+
 ![image](https://github.com/user-attachments/assets/a2140cd0-fa6d-46d0-bd69-046f8b9668b4)
 
 Testimonials:
+
 ![image](https://github.com/user-attachments/assets/9cc4d581-7022-4e76-8dfd-df58706562cc)
 
 Download:
+
 ![image](https://github.com/user-attachments/assets/88aad065-1a17-4217-b814-b2ebb3b36da3)
 
 Footer:
+
 ![image](https://github.com/user-attachments/assets/4c0265b9-db50-401e-97cf-a08bf8dd5114)
 
 ### 5.3.2. Landing Page Mock-up
+
 Hero:
+
 ![image](https://github.com/user-attachments/assets/89f42efd-c555-426c-ab67-a89d68fd4d36)
 
 Services:
+
 ![image](https://github.com/user-attachments/assets/1185c8ba-d63f-4267-a5ac-f3b655a710b7)
 
 About us:
+
 ![image](https://github.com/user-attachments/assets/e7d26a9d-8e06-43af-999f-1381fc0ded28)
 
 Testimonials:
+
 ![image](https://github.com/user-attachments/assets/16b6e8ac-4b0f-4f8d-bd81-f81e532be8d4)
 
 Download:
+
 ![image](https://github.com/user-attachments/assets/6cbbe3c0-e59f-4e4e-b9fd-054db6526844)
 
 Footer:
+
 ![image](https://github.com/user-attachments/assets/12ee1743-0d86-43fa-8d52-ba26b9a8f389)
 
 ## 5.4. Applications UX/UI Design
