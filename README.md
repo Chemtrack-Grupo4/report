@@ -2302,12 +2302,153 @@ En el caso de la interfaz para la solución embebida IoT, se prioriza la visuali
 
 - Accesibilidad: Íconos y textos suficientemente grandes para ser visibles de un vistazo.
 
-## 5.2. Information Architecture
-### 5.2.1. Organization Systems
-### 5.2.2. Labeling Systems
-### 5.2.4. SEO Tags and Meta Tags
-### 5.2.3. Searching Systems
-### 5.2.5. Navigation Systems
+## 5.2 Arquitectura de la Información
+
+Esta sección detalla cómo está organizada la solución IoT, considerando a cada grupo de usuarios. Asimismo, se describe la estructura de navegación implementada en las distintas interfaces del sistema.
+
+### 5.2.1 Sistemas de Organización
+
+Se presentan los tipos de agrupación de información y cómo estos se adaptan a cada grupo objetivo a través de esquemas visuales.
+
+**Grupo objetivo: Conductores de transporte de sustancias peligrosas**
+
+- **Estructura Jerárquica**  
+  El conductor tendrá acceso a información de seguridad (como sensores de gas, presión o temperatura) presentada por niveles de prioridad, desde los más críticos hasta los más informativos.
+
+- **Estructura Secuencial**  
+  El proceso de respuesta ante alertas seguirá una secuencia lógica: notificación, validación de la amenaza, y ejecución de medidas como activar protocolos de emergencia.
+
+- **Estructura Matricial**  
+  El historial de eventos del vehículo se mostrará en formato de tabla cruzada, permitiendo filtrar por fecha, tipo de incidente o gravedad, facilitando así el análisis.
+
+**Grupo objetivo: Empresas de transporte de sustancias peligrosas**
+
+- **Estructura Jerárquica**  
+  Las empresas podrán visualizar y priorizar la seguridad de sus flotas mediante una vista estructurada, desde el panorama general hasta el detalle por unidad.
+
+- **Estructura Secuencial**  
+  El análisis y mejora de protocolos se realizará paso a paso, apoyado por datos históricos que ayuden a detectar fallas y aplicar mejoras.
+
+**Elementos comunes para ambos grupos**
+
+- **Estructura Jerárquica**  
+  En la página principal, la información estará dividida en bloques que van desde una introducción general del sistema hasta especificaciones técnicas.
+
+- **Estructura Matricial**  
+  El menú principal ofrecerá diversas funcionalidades (monitoreo, alertas, registros), disponibles sin un orden rígido pero organizadas para facilitar su acceso.
+
+---
+
+### 5.2.2 Sistemas de Etiquetado
+
+Aquí se describen los nombres y etiquetas empleados para identificar y organizar la información de manera clara.
+
+**Landing Page**
+
+- **Inicio / Home**  
+  Vista inicial con una frase que representa la solución, logo y objetivo principal.
+
+- **Sobre Nosotros / About Us**  
+  Detalles del equipo, su misión, visión y propósito.
+
+- **Servicios / Services**  
+  Funcionalidades clasificadas según el grupo de usuarios (conductores o empresas).
+
+- **Contáctanos / Contact Us**  
+  Canales de comunicación y soporte disponibles.
+
+**Etiquetas específicas para Conductores**
+
+- **Inicio / Home**  
+  Panel de control para conductores.
+
+- **Mis viajes**  
+  Gestión de rutas activas y programadas.
+
+- **Registro de incidentes**  
+  Formulario para reportar problemas surgidos durante el trayecto.
+
+- **Historial**  
+  Registro de viajes pasados e incidentes resueltos.
+
+**Etiquetas específicas para Empresas**
+
+- **Inicio / Home**  
+  Vista general para monitoreo empresarial.
+
+- **Incidentes publicados**  
+  Gestión de reportes generados por los conductores.
+
+- **Reportes**  
+  Generación y análisis de datos sobre seguridad y desempeño.
+
+- **Monitoreo de viajes**  
+  Supervisión en tiempo real del estado de la flota.
+
+---
+
+### 5.2.3 Etiquetas SEO y Meta Tags
+
+Estas etiquetas permiten mejorar la visibilidad del sitio y diferenciar la plataforma en los motores de búsqueda.
+
+**Para la página web principal:**
+
+- **Title**: SafeFlow  
+- **Description**: SafeFlow - Página oficial de CuriDev  
+- **Keywords**: transporte peligroso, monitoreo, gestión de incidentes, seguridad vial  
+- **Authors**: Equipo CuriDev
+
+**Para la aplicación web:**
+
+- **Title**: SafeFlow  
+- **Description**: SafeFlow - Plataforma Web Oficial  
+- **Keywords**: transporte seguro, flotas, monitoreo, gestión de emergencias  
+- **Authors**: CuriDev
+
+**Para la app móvil:**
+
+- **Title**: SafeFlow  
+- **Description**: SafeFlow - Aplicación Móvil Oficial  
+- **Keywords**: seguridad de transporte, monitoreo móvil, gestión de incidentes  
+- **Authors**: CuriDev
+
+---
+
+### 5.2.4 Sistemas de Búsqueda
+
+Se explican las opciones de búsqueda disponibles en cada plataforma del sistema.
+
+**En la página web principal**  
+Los usuarios podrán navegar fácilmente entre las secciones mediante una barra interactiva que alterna entre contenido para conductores y para empresas.
+
+**Aplicación web y móvil**
+
+- **Conductores**  
+  - *Mis viajes*: Búsqueda por destino, fecha o estado.  
+  - *Registro de incidentes*: Filtro por tipo, gravedad o fecha del evento.
+
+- **Empresas**  
+  - *Monitoreo de viajes*: Filtrado por unidad, conductor, fecha o estado del trayecto.  
+  - *Incidentes publicados*: Filtro por tipo, estado (resuelto o pendiente), y fecha.
+
+**Funcionalidades compartidas**  
+- *Reportes y análisis*: Los usuarios podrán generar informes personalizados a partir de filtros como tipo de incidente, fechas o métricas de monitoreo.
+
+---
+
+### 5.2.5 Sistemas de Navegación
+
+La navegación ha sido diseñada para facilitar el acceso a la información en todas las plataformas.
+
+**Landing Page**  
+Contará con un menú horizontal fijo en la parte superior con enlaces a cada sección. El usuario podrá hacer clic en cada encabezado y desplazarse automáticamente a la información deseada.
+
+**Aplicación Web**  
+El menú principal estará adaptado al tipo de usuario y permitirá navegar entre páginas como viajes, incidentes o reportes, usando también filtros internos para una mejor experiencia.
+
+**Aplicación Móvil**  
+La navegación se optimiza mediante carruseles en la pantalla de inicio y una barra de navegación inferior (bottom navigation bar) con accesos rápidos a secciones clave como "Mis viajes", "Alertas" o "Reportes", con opciones diferenciadas según el tipo de usuario.
+
 ## 5.3. Landing Page UI Design
 Durante el diseño de la interfaz de la página de inicio (landing page), uno de los pasos más importantes al comienzo es crear un "wireframe". Este es como un boceto básico que muestra la estructura y distribución de los elementos principales que tendrá la página. En este caso, se incluyen secciones como la barra de navegación (dentro del área principal), el encabezado (Hero), los servicios, información sobre la empresa, testimonios, la opción de descarga y el pie de página.
 
@@ -2603,9 +2744,119 @@ Link al video.
 ## [Capítulo VI: Product Implementation, Validation & Deployment](#link)
 - [6.1. Software Configuration Management](#link)
     - [6.1.1. Software Development Environment Configuration](#link)
+  
+Se utilizarán principalmente los editores Visual Studio Code y WebStorm, configurados para evitar conflictos con carpetas personalizadas. Para el desarrollo de Web APIs, se optará por IntelliJ IDEA.
+
+El stack tecnológico incluye la última versión de Node.js, Angular v13 para el frontend, y Angular Material como biblioteca de diseño. Java será el lenguaje usado para el backend. Angular se instalará con `nvm` en su versión compatible con Windows.
+
+Para el desarrollo móvil, se usará Visual Studio con un emulador y el SDK actualizado de Flutter, lo que brinda soporte para extensiones y una experiencia completa de desarrollo.
+
+### Herramientas SaaS y de apoyo:
+
+- **GitHub**: Control de versiones y trabajo colaborativo.
+- **Trello**: Planificación y seguimiento del Product Backlog.
+- **Vertabelo**: Modelado de bases de datos.
+- **Codegram**: Creación de diagramas de clases.
+- **LucidChart**: Diagramación adicional.
+
+### Desarrollo Embedded:
+
+- **Wokwi**: Simulador de proyectos IoT usando C++.
+
+### Landing Page:
+
+Se desarrollará usando HTML, JavaScript y CSS, apoyándose en:
+
+- **VS Code**: Por su versatilidad y extensión de soporte.
+- **Git/GitHub**: Estándares actuales en control de versiones.
+- **Live Server**: Visualización inmediata de cambios.
+
+### Herramientas de Comunicación:
+
+- **Discord, WhatsApp, Zoom**: Canales de coordinación para reuniones, actualizaciones y soporte.
+
+### Recolección de Requisitos:
+
+- **Miro**: Colaboración visual para planificación.
+- **Google Docs**: Documentación compartida en línea.
+
+### Diseño UX/UI:
+
+- **Figma**: Prototipado y diseño colaborativo.
+- **UXPressia**: Creación de mapas de experiencia y perfiles de usuarios.
+- **LucidChart**: Diagramas de flujo y clases para user flows.
+
+### Desarrollo de Software:
+
+- **VS Code**: Entorno cómodo y personalizable.
+- **Git**: Para control de versiones.
+
+### Documentación:
+
+- **GitHub**: Almacenamiento de código y documentación colaborativa.
+
+### Testing:
+
+- **Lenguaje Gherkin**: Para escribir pruebas de aceptación con herramientas como Cucumber.
+
+---
+
+
     - [6.1.2. Source Code Management](#link)
+
+ Se usará GitHub como repositorio principal bajo una organización del equipo, distribuyendo los proyectos en:
+
+- Repositorio Landing Page: ///////
+- Repositorio Pruebas de Aceptación: ///////  
+- Repositorio App Móvil: /////
+- Repositorio IoT: https://////
+
     - [6.1.3. Source Code Style Guide & Conventions](#link)
+### HTML (W3Schools HTML Style Guide)
+
+- Declarar tipo de documento.
+- Usar minúsculas en etiquetas y atributos.
+- Cerrar todas las etiquetas.
+- Colocar comillas en valores de atributos.
+- Incluir siempre atributos `alt`, `width`, `height` en imágenes.
+- No omitir etiquetas clave ni metadatos.
+
+### CSS (Google HTML/CSS Style Guide)
+
+- Nombres de clases generales y cortos.
+- Separación con guiones.
+- Evitar selectores por ID.
+- Uso de propiedades abreviadas.
+
+### JavaScript (W3C JS Best Practices)
+
+- Nombres claros y legibles para variables y funciones.
+- Evitar `var` global.
+- Comentar código complejo.
+- Empleo de notaciones simples.
+
+### Gherkin (Gherkin Conventions for Readable Specifications)
+
+- Identación clara de bloques `Given-When-Then`.
+- Uso de tablas en pasos complejos.
+- Comillas simples para parámetros.
+- Comentarios para separar escenarios.
+
+Se seguirán las guías de estilo de Google para HTML, CSS y JavaScript. Angular será usado con HTML5, CSS3 y TypeScript. Git será gestionado bajo GitFlow, commits semánticos y versionado semántico.
+
+El diseño se basará en Material Design utilizando Angular Material como biblioteca. El backend usará Spring Boot en Java, expuesto como RESTful API. Flutter/Dart se usará para la aplicación móvil.
+
     - [6.1.4. Software Deployment Configuration](#link)
+
+El despliegue de la landing page y la web app se realizará a través de Netlify. El proceso consiste en:
+
+1. Iniciar sesión en Netlify con la cuenta de GitHub.
+2. Ir a la sección "Sites" y seleccionar el botón correspondiente.
+3. Elegir la organización en GitHub y seleccionar el repositorio.
+
+En el caso de la landing page, al tratarse de un sitio estático, no es necesario configurar rutas. Basta con hacer clic en "Deploy" para iniciar el despliegue.
+
+
 - [6.2. Landing Page, Services & Applications Implementation.](#link)
     - [6.2.1. Sprint n](#link)
         - [6.2.1.1. Sprint Planning 1](#link)
