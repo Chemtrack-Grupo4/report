@@ -377,7 +377,7 @@ Como misión se plantea “Incrementar la calidad del servicio de transporte de 
 
 ---
 
-| <img src="https://camo.githubusercontent.com/60798f4b2fa8b6611802764c81f5a375f7b45565ef634f3e2cb9c581d67bed5f/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313335363239373136383738343333303836322f313336343037363131363930313336373931392f496d6167656e5f64655f57686174734170705f323032352d30342d32315f615f6c61735f32322e30372e33355f63356466643966372e6a70673f65783d36383038356136312669733d363830373038653126686d3d3736646565316139623061396238616132666139636566663865363835336566666634363634613839613437623533643237326432643566313632626265363026" width="700" alt="foto"> | Actualmente estoy cursando el séptimo ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, Python, JavaScript y C. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.|
+| ![Andrea](https://cdn.discordapp.com/attachments/1364445917452697683/1371719265354518568/foto.jpg?ex=6824289e&is=6822d71e&hm=f527405af723da1d671b555f5a28c8f697449d577343098deab9f10a0d51ecc9&)| Actualmente estoy cursando el séptimo ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, Python, JavaScript y C. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.|
 |----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 
@@ -2302,13 +2302,13 @@ La sección de Iconografía establece reglas claras para el uso de íconos en el
 
 Los Sistemas de Grid definen configuraciones para distintos dispositivos, asegurando un diseño adaptable. Para Desktop HD, el frame es de 1440 px con 12 columnas de 90 px; para Desktop, 1024 px con 6 columnas de 50 px; para Tablet, 768 px con 6 columnas de 88 px; y para Mobile, 320 px con 2 columnas de 130 px, garantizando alineación y proporción en cada formato.
 
-![Tipografia](https://media.discordapp.net/attachments/971243681107570748/1370905332334858322/image.png?ex=68213295&is=681fe115&hm=15b2313c3d23b05890629d821c78dfc467258e191aafe22244c2693e67592405&=&format=webp&quality=lossless)
+![SistemaGrid](https://cdn.discordapp.com/attachments/1364445917452697683/1371721430148059247/image.png?ex=68242aa2&is=6822d922&hm=ebc3f46d31f05a36871f899368cb6fe77889ecbfaade48cc380f747bade4b5aa&)
 
 **Espaciado:**
 
 El apartado de Espaciado proporciona una escala de valores para mantener consistencia en el diseño. Los niveles van desde 8 px hasta 120 px, incluyendo medidas intermedias como 16 px, 24 px, 32 px, 40 px, 56 px, 72 px, 80 px y 96 px. Estos valores, representados con cuadros grises de tamaño creciente, se aplican a márgenes, padding y otros elementos de diseño.
 
-![Tipografia](https://media.discordapp.net/attachments/971243681107570748/1370905297358422056/image.png?ex=6821328d&is=681fe10d&hm=9b30d2cbce4d126265e778cc7988e97ffbcfd322ac992868496f66b0e9200c37&=&format=webp&quality=lossless)
+![Espaciado](https://media.discordapp.net/attachments/971243681107570748/1370905297358422056/image.png?ex=6821328d&is=681fe10d&hm=9b30d2cbce4d126265e778cc7988e97ffbcfd322ac992868496f66b0e9200c37&=&format=webp&quality=lossless)
 
 ### 6.1.2 Web, Mobile and IoT Style Guidelines
 
@@ -2987,7 +2987,7 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 
 **Anexo C.** Diagrama de Base de Datos de Chemtrack.
 
-![databaseDiagram](https://media.discordapp.net/attachments/971243681107570748/1370910501109760131/image.png?ex=68213765&is=681fe5e5&hm=f288525a98a3f165e91c0d8614b5f3baa40da9b6ea2a36160c25d316401e76b3&=&format=webp&quality=lossless&width=1130&height=706)
+![databaseDiagram](https://cdn.discordapp.com/attachments/1364445917452697683/1371724171410673725/image.png?ex=68242d2f&is=6822dbaf&hm=4cfd140f330a507549dfee956bd5909add0124fc260ef224da9ef89c8fe0375f&)
 
 **Videos de exposición**
 
