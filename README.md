@@ -3107,6 +3107,14 @@ En el Sprint 1 se alcanzó a desarrollar una primera versión de la landing page
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para el Sprint 1, se definieron los siguientes endpoints clave que permiten gestionar usuarios, entregas, servicios e incidentes dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
+
+| Endpoint | Detalles |
+| - | - | 
+| /user-controller| En este endpoint se almacenan la información de los usuarios, tales como username, email, password, role, photo y token | 
+| /deliveries | En este endpoint se almacenan las entregas que aun no tienen ligadas un incidente | 
+| /services  | En este endpoint se almacenan los servicios realizados por parte de las empresas | 
+| /incidents | En este endpoint se almacenan los incidentes registrados manualmente | 
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
