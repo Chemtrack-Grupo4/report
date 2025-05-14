@@ -2893,16 +2893,6 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">Sharon Barrial</td>
         <td valign="top">Done</td>
     </tr>
-    <tr>
-        <td rowspan="4" valign="top">US17</td>
-        <td rowspan="4" valign="top">Visualización de características de la aplicación web o móvil en Landing Page</td>
-        <td valign="top">T-02</td>
-        <td valign="top">Section Our services</td>
-        <td valign="top">Implementar la descripción de los servicios que ofrecemos al cliente</td>
-        <td valign="top">3</td>
-        <td valign="top">Sharon Barrial</td>
-        <td valign="top">Done</td>
-    </tr>
   <tr>
     <td valign="top">T-03</td>
         <td valign="top">Section for video about product</td>
