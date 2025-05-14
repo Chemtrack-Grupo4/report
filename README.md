@@ -3094,6 +3094,17 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
 Link de repositorio: https://github.com/Chemtrack-Grupo4/chemtrack-testing
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
+
+En el Sprint 1 se alcanzó a desarrollar una primera versión de la landing page y la primera versión del Frontend de la aplicación. A continuación se muestra lo realizado:
+
+**1. Landing page**
+
+<a href="https://chemtrack-grupo4.github.io/Landing-Page/"><img src="https://i.ibb.co/zVDsx58N/Captura-de-pantalla-2025-05-14-003027.png" alt="Captura-de-pantalla-2025-05-14-003027" border="0"></a>
+
+**2. Frontend**
+
+<a href="https://chemtrack-app.netlify.app/services"><img src="https://i.ibb.co/ZRQV6Xzy/Captura-de-pantalla-2025-05-14-021751.png" alt="Captura-de-pantalla-2025-05-14-021751" border="0"></a>
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 #### 6.2.1.8. Team Collaboration Insights during Sprint
