@@ -2679,9 +2679,9 @@ Duración: 03:51
 
 Link al video.
 
-## [Capítulo VI: Product Implementation, Validation & Deployment](#link)
-- [6.1. Software Configuration Management](#link)
-    - [6.1.1. Software Development Environment Configuration](#link)
+# Capítulo VI: Product Implementation, Validation & Deployment
+## 6.1. Software Configuration Management
+### 6.1.1. Software Development Environment Configuration
   
 Se utilizarán principalmente los editores Visual Studio Code y WebStorm, configurados para evitar conflictos con carpetas personalizadas. Para el desarrollo de Web APIs, se optará por IntelliJ IDEA.
 
@@ -2740,7 +2740,7 @@ Se desarrollará usando HTML, JavaScript y CSS, apoyándose en:
 ---
 
 
-    - [6.1.2. Source Code Management](#link)
+### 6.1.2. Source Code Management
 
  Se usará GitHub como repositorio principal bajo una organización del equipo, distribuyendo los proyectos en:
 
@@ -2749,8 +2749,8 @@ Se desarrollará usando HTML, JavaScript y CSS, apoyándose en:
 - Repositorio App Móvil: /////
 - Repositorio IoT: https://////
 
-    - [6.1.3. Source Code Style Guide & Conventions](#link)
-### HTML (W3Schools HTML Style Guide)
+### 6.1.3. Source Code Style Guide & Conventions
+#### HTML (W3Schools HTML Style Guide)
 
 - Declarar tipo de documento.
 - Usar minúsculas en etiquetas y atributos.
@@ -2759,21 +2759,21 @@ Se desarrollará usando HTML, JavaScript y CSS, apoyándose en:
 - Incluir siempre atributos `alt`, `width`, `height` en imágenes.
 - No omitir etiquetas clave ni metadatos.
 
-### CSS (Google HTML/CSS Style Guide)
+#### CSS (Google HTML/CSS Style Guide)
 
 - Nombres de clases generales y cortos.
 - Separación con guiones.
 - Evitar selectores por ID.
 - Uso de propiedades abreviadas.
 
-### JavaScript (W3C JS Best Practices)
+#### JavaScript (W3C JS Best Practices)
 
 - Nombres claros y legibles para variables y funciones.
 - Evitar `var` global.
 - Comentar código complejo.
 - Empleo de notaciones simples.
 
-### Gherkin (Gherkin Conventions for Readable Specifications)
+#### Gherkin (Gherkin Conventions for Readable Specifications)
 
 - Identación clara de bloques `Given-When-Then`.
 - Uso de tablas en pasos complejos.
@@ -2784,7 +2784,7 @@ Se seguirán las guías de estilo de Google para HTML, CSS y JavaScript. Angular
 
 El diseño se basará en Material Design utilizando Angular Material como biblioteca. El backend usará Spring Boot en Java, expuesto como RESTful API. Flutter/Dart se usará para la aplicación móvil.
 
-    - [6.1.4. Software Deployment Configuration](#link)
+### 6.1.4. Software Deployment Configuration
 
 El despliegue de la landing page y la web app se realizará a través de Netlify. El proceso consiste en:
 
@@ -2794,18 +2794,33 @@ El despliegue de la landing page y la web app se realizará a través de Netlify
 
 En el caso de la landing page, al tratarse de un sitio estático, no es necesario configurar rutas. Basta con hacer clic en "Deploy" para iniciar el despliegue.
 
+## 6.2. Landing Page, Services & Applications Implementation
+### 6.2.1. Sprint 1
+#### 6.2.1.1. Sprint Planning 1
 
-- [6.2. Landing Page, Services & Applications Implementation.](#link)
-    - [6.2.1. Sprint n](#link)
-        - [6.2.1.1. Sprint Planning 1](#link)
-        - [6.2.1.2. Aspect Leaders and Collaborators](#link1)
-        - [6.2.1.2. Sprint Backlog 1](#link)
-        - [6.2.1.3. Development Evidence for Sprint Review](#link)
-        - [6.2.1.4. Testing Suite Evidence for Sprint Review](#link)
-        - [6.2.1.5. Execution Evidence for Sprint Review](#link)
-        - [6.2.1.6. Services Documentation Evidence for Sprint Review](#link)
-        - [6.2.1.7. Software Deployment Evidence for Sprint Review](#link)
-        - [6.2.1.8. Team Collaboration Insights during Sprint](#link)
+| Sprint #                         | 1                                                                                                                                                                           | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2025 - 05 - 13                                                                                                                                                               |
+| Time                             | 10:30 PM                                                                                                                                                                     |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                          |
+| Attendees (to planning meeting)  | Camila Amaro, Sharon Barrial, Andrea García, Fabrizzio Laguerre, Josue Bustamante, Niurka Huarcaya, Josue Hidalgo                                                            |
+| Sprint 1 - Review Summary        | No aplica al ser el primer sprint                                                                                                                                            |
+| Sprint 1 - Retrospective Summary | No aplica al ser el primer sprint                                                                                                                                            |
+| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
+| Sprint 1 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page y Fronted usando los wireframes y mockups diseñados previamente, además del despliegue de ambos.           |
+| Sprint 1 - Velocity              | El equipo puede aceptar 35 Story Points                                                                                                                                      |
+| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 27 Story Points                                                                                           |
+
+#### 6.2.1.2. Aspect Leaders and Collaborators
+#### 6.2.1.3. Sprint Backlog 1
+#### 6.2.1.3. Development Evidence for Sprint Review
+#### 6.2.1.4. Testing Suite Evidence for Sprint Review
+#### 6.2.1.5. Execution Evidence for Sprint Review
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
+#### 6.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
 ## Conclusiones y Recomendaciones
