@@ -2109,7 +2109,7 @@ El esquema de base de datos del Records Bounded Context organiza datos de incide
 ![image](https://cdn.discordapp.com/attachments/971243681107570748/1370884554709270528/image.png?ex=68211f3b&is=681fcdbb&hm=e266d9684cebc933d1eee4ca9b44dbaeb6a227426b8ca770ca979188a1249d0b&)
 
 # Capítulo V: Solution UX Design
-## 6.1 Style Guidelines
+## 5.1 Style Guidelines
 
 Mediante la solución IoT Chemtrack busca ofrecer a sus usuarios una interfaz que transmita profesionalismo, formalidad y un diseño minimalista que inspire confianza y facilidad de uso al momento de monitorear la carga, así como brindar una respuesta ágil ante posibles emergencias. Por ello, el equipo optó por utilizar elementos visuales que atraigan la atención del público objetivo y que, a la vez, sean de fácil reconocimiento. Como parte de la estrategia, se seleccionaron colores llamativos y contrastantes, junto con tipografías de distintos tamaños y espaciados amplios, con el fin de brindar una experiencia visual agradable y garantizar una lectura clara. Es importante resaltar que no se emplearán texturas, ya que se busca preservar una estética limpia y minimalista.
 
@@ -2173,7 +2173,7 @@ El apartado de Espaciado proporciona una escala de valores para mantener consist
 
 ![Espaciado](https://media.discordapp.net/attachments/971243681107570748/1370905297358422056/image.png?ex=6821328d&is=681fe10d&hm=9b30d2cbce4d126265e778cc7988e97ffbcfd322ac992868496f66b0e9200c37&=&format=webp&quality=lossless)
 
-### 6.1.2 Web, Mobile and IoT Style Guidelines
+### 5.1.2 Web, Mobile and IoT Style Guidelines
 
 Estándares de Interfaz para Dispositivos Web, Móviles e IoT
 Esta sección describe los lineamientos visuales y de interacción que debe seguir la interfaz de Chemtrack en cada una de sus plataformas: web, aplicación móvil y dispositivos IoT. La experiencia del usuario debe mantenerse coherente y fluida, adaptando los elementos visuales y funcionales al tipo de dispositivo para lograr una interacción efectiva y accesible.
@@ -2239,6 +2239,7 @@ En el caso de la interfaz para la solución embebida IoT, se prioriza la visuali
 - Compatibilidad con pantallas pequeñas (embedded): Interfaces compactas, con mínima carga visual.
 
 - Accesibilidad: Íconos y textos suficientemente grandes para ser visibles de un vistazo.
+
 
 ## 5.2 Arquitectura de la Información
 
@@ -2331,24 +2332,24 @@ Estas etiquetas permiten mejorar la visibilidad del sitio y diferenciar la plata
 
 **Para la página web principal:**
 
-- **Title**: SafeFlow  
-- **Description**: SafeFlow - Página oficial de CuriDev  
+- **Title**: TrackTox
+- **Description**: TrackTox - Página oficial de Chemtrack
 - **Keywords**: transporte peligroso, monitoreo, gestión de incidentes, seguridad vial  
-- **Authors**: Equipo CuriDev
+- **Authors**: Equipo Chemtrack
 
 **Para la aplicación web:**
 
-- **Title**: SafeFlow  
-- **Description**: SafeFlow - Plataforma Web Oficial  
+- **Title**: TrackTox
+- **Description**: TrackTox - Plataforma Web Oficial  
 - **Keywords**: transporte seguro, flotas, monitoreo, gestión de emergencias  
-- **Authors**: CuriDev
+- **Authors**: Chemtrack
 
 **Para la app móvil:**
 
-- **Title**: SafeFlow  
-- **Description**: SafeFlow - Aplicación Móvil Oficial  
+- **Title**: TrackTox
+- **Description**: TrackTox - Aplicación Móvil Oficial  
 - **Keywords**: seguridad de transporte, monitoreo móvil, gestión de incidentes  
-- **Authors**: CuriDev
+- **Authors**: Chemtrack
 
 ---
 
@@ -2386,6 +2387,7 @@ El menú principal estará adaptado al tipo de usuario y permitirá navegar entr
 
 **Aplicación Móvil**  
 La navegación se optimiza mediante carruseles en la pantalla de inicio y una barra de navegación inferior (bottom navigation bar) con accesos rápidos a secciones clave como "Mis viajes", "Alertas" o "Reportes", con opciones diferenciadas según el tipo de usuario.
+
 
 ## 5.3. Landing Page UI Design
 Durante el diseño de la interfaz de la página de inicio (landing page), uno de los pasos más importantes al comienzo es crear un "wireframe". Este es como un boceto básico que muestra la estructura y distribución de los elementos principales que tendrá la página. En este caso, se incluyen secciones como la barra de navegación (dentro del área principal), el encabezado (Hero), los servicios, información sobre la empresa, testimonios, la opción de descarga y el pie de página.
@@ -2744,14 +2746,15 @@ Se desarrollará usando HTML, JavaScript y CSS, apoyándose en:
 ---
 
 
+
 ### 6.1.2. Source Code Management
 
- Se usará GitHub como repositorio principal bajo una organización del equipo, distribuyendo los proyectos en:
+Se usará GitHub como repositorio principal bajo una organización del equipo, distribuyendo los proyectos en:
 
-- Repositorio Landing Page: ///////
-- Repositorio Pruebas de Aceptación: ///////  
-- Repositorio App Móvil: /////
-- Repositorio IoT: https://////
+- Repositorio Landing Page: https://github.com/Chemtrack-Grupo4/Landing-Page.git
+- Repositorio App Web: https://github.com/Chemtrack-Grupo4/chemtrack-webapp.git
+
+---
 
 ### 6.1.3. Source Code Style Guide & Conventions
 #### HTML (W3Schools HTML Style Guide)
