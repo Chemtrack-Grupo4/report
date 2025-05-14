@@ -2459,6 +2459,8 @@ En esta sección se pueden encontrar los wireframes relacionados a nuestra aplic
 
 ![Wireframes Mobile App](https://github.com/user-attachments/assets/1d66d831-2319-4cc4-9eb5-27a1d815defa)
 
+[Enlace para acceder al Figma.](https://www.figma.com/design/c7g8w481pDMJGjvVyiU6F1/Chemtrack?node-id=87-44&t=Nj0ZnQTSve38LPvz-1 "Enlace para acceder al Figma.")
+
 
 ### 5.4.2 Applications Wireflow Diagrams
 En esta sección, se presentan los Wireflows, donde se mostrarán las rutas que los usuarios pueden tener al momento de usar la aplicación web y móvil. Para su realización se utilizó la herramienta LucidChart.
@@ -2539,6 +2541,8 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestra aplicac
 **Mobile Application Mock-ups:**
 
 ![Mock-up Mobile Application](https://i.imgur.com/B0GUcoa.png)
+
+[Enlace para acceder al Figma.](https://www.figma.com/design/c7g8w481pDMJGjvVyiU6F1/Chemtrack?node-id=87-45&t=Nj0ZnQTSve38LPvz-1 "Enlace para acceder al Figma.")
 
 
 ### 5.4.4 Applications User Flow Diagrams
