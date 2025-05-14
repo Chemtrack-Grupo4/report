@@ -2835,6 +2835,8 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 
 Implementación del Landing Page y Frontend acorde con las User Stories.
 
+Implementación del Landing Page y Frontend acorde con las User Stories.
+
 <table>
 <tbody>
     <tr>
@@ -2865,6 +2867,22 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">Fabrizzio Laguerre</td>
         <td valign="top">Done</td>
     </tr>
+  <tr>
+    <td valign="top">T-06</td>
+        <td valign="top">Footer with attachments</td>
+        <td valign="top">Implementar botones de acceso rápido y resumen de los apartados del landing page.</td>
+        <td valign="top">3</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">T-07</td>
+        <td valign="top">Button download</td>
+        <td valign="top">Implementar botones de llamada para descargar </td>
+        <td valign="top">3</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+  </tr>
   <tr>
         <td rowspan="4" valign="top">US17</td>
         <td rowspan="4" valign="top">Visualización de características de la aplicación web o móvil en Landing Page</td>
