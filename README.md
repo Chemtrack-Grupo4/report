@@ -193,8 +193,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Conclusiones |
 | - |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Ayude en la en la elaboración de epics junto con sus respectivas user y technical stories teniendo en cuenta las necesidades identificadas en nuestros segmentos objetivos y los posibles escenarios que podrían presentarse. Esto nos permitió anticipar cómo deberíamos actuar ante diferentes situaciones. Asimismo, brindé apoyo en la creación de los impact maps correspondientes a los dos segmentos objetivos definidos.<br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>Apoyé activamente a la identificación de eventos de dominio para mejorar la experiencia de usuario durante las interacciones con funciones centrales de nuestro sistema *Chemtrack*. Para ello, se realizó un proceso completo de event storming siguiendo un patrón de pasos preestablecidos que nos permitió visualizar la lógica correcta del sistema.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Participé en la elaboración de los segmentos objetivo, el análisis de competidores y la definición de estrategias frente a ellos, lo cual requirió coordinación constante con el equipo. Asimismo, realicé el diseño de entrevistas y el análisis de resultados, fomentando el intercambio de ideas y perspectivas para fortalecer la solución final.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé la parte de descripción del startup del equipo, así como nuestro solution profile frente a una necesidad identificada, los antecendes que surgieron previamente a esta problemática y las solución que nuestra solución ofrece.<br><br>**Josue Omar Hidalgo Bustamante**<br>Contribuí de manera activa en el desarrollo de los arquetipos de usuarios y en la definición de sus necesidades principales, lo que permitió orientar mejor el diseño de soluciones dentro del proyecto. Además, colaboré en la preparación de los journey maps para visualizar las experiencias de los usuarios en diferentes etapas del proceso. Este trabajo facilitó la identificación de puntos críticos y oportunidades de mejora en el sistema propuesto, asegurando una propuesta de valor más ajustada a las expectativas reales.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Participé en el desarrollo de los modelos de arquitectura del sistema, así como en el Context Mapping, colaborando con el equipo para garantizar una visión unificada y estratégica del sistema. La definición de límites claros entre los contextos permitieron optimizar la comunicación entre el equipo, fomentando una colaboración efectiva que fortaleció la coherencia y robustez de la solución. <br><br> **TB2**<br>**Camila Elena Amaro Villanueva**<br>Apoye en la elaboración de los mockups y wireframes de la app web y móvil teniendo en cuenta las etiquetas planeadas para nuestras aplicaciones y el proceso lean ux realizado previamente donde captamos las necesidades de los usuarios. Asimismo, participe en el desarrollo de la primera versión de la app web. <br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>TEXTO<br><br>**Andrea Joselyn Garcia Moscoso**<br>TEXTO<br><br>**Fabrizzio Hernan Laguerre Challco**<br>TEXTO<br><br>**Josue Omar Hidalgo Bustamante**<br>La primera versión de la aplicación web fue desarrollada con mi participación directa en su implementación. Previamente, estuve involucrado en el diseño de sus interfaces, colaborando en la elaboración de mockups y wireframes tanto para la versión web como móvil. Estos se construyeron tomando en cuenta las etiquetas planificadas y los resultados del proceso de Lean UX, en el que identificamos las principales necesidades de los usuarios.<br><br>**Niurka Lucero Huarcaya Quispe**<br>TEXTO | **TB1:** Como equipo, trabajamos de manera colaborativa para cubrir todas las etapas clave del desarrollo inicial de Chemtrack, desde la definición del problema y el análisis de mercado hasta la construcción de la solución tecnológica. Cada integrante asumió un rol fundamental en áreas como la elaboración de user stories, la identificación de eventos de dominio, el diseño de entrevistas, la creación de arquetipos, el mapeo de experiencias y el modelado de la arquitectura del sistema. Esta sinergia nos permitió integrar múltiples perspectivas y asegurar una base sólida, estratégica y centrada en el usuario para el desarrollo de nuestra solución. <br><br> **TB2:** TEXTO |
-| Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Participé de manera activa en las reuniones de planificación del proyecto, así como en su desarrollo. Además, me encargué de organizar las tareas relacionadas con la elaboración de las user stories, basándome en la información recopilada por cada integrante del equipo a través de entrevistas realizadas a usuarios pertenecientes a los segmentos objetivo.<br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>Organicé las diferentes reuniones utilizando la metodología daily scrum hasta la entrega, donde identificamos las partes faltantes de nuestro trabajo, priorizamos tareas pendientes y coordinamos responsabilidades para asegurar el avance constante del proyecto. Donde la comunicación efectiva fue clave dentro del equipo para resolver bloqueos de forma oportuna y mantener la misma alineación.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo, establecimos metas claras desde las fases iniciales del proyecto y organicé tareas relacionadas con el diseño táctico del software, abarcando los distintos Bounded Contexts. Coordiné la elaboración de las distintas capas arquitectónicas y diagramas técnicos, asegurando una planificación eficiente y cumplimiento de los plazos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé el Lean UX Process, una artefacto fundamental para identificar nuestras funciones claves, segmentos objetivos, identificación y establecimiento de nuestra solución frente a la problemática identificada brindando una gráfica ejemplar y amplia para implementar una solución completa.<br><br>**Josue Omar Hidalgo Bustamante**<br>Apoyé en la validación de requerimientos técnicos y funcionales, asegurando que cada propuesta se ajustara a los objetivos del proyecto. También colaboré activamente en la elaboración de diagramas de flujo y en la definición de entidades clave del sistema. Durante el desarrollo, participé en sesiones de retroalimentación continua, lo que permitió realizar ajustes oportunos y mantener la calidad en cada entrega parcial.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Contribuí en la creación de los modelos de arquitectura del sistema, así como en el Context Mapping, asegurando que cada nivel de arquitectura estuviera alineado con los objetivos estratégicos y técnicos. Además, en equipo, establecimos metas claras, organizamos las tareas de manera estratégica y aseguramos el cumplimiento de los objetivos del proyecto. <br><br> **TB2**<br>**Camila Elena Amaro Villanueva**<br>Participé activamente en las reuniones de planificación del proyecto y en su desarrollo. Además, coordine al grupo en la creación de la aplicación web, guiándolos con base en los mockups previamente diseñados.<br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>texto<br><br>**Andrea Joselyn Garcia Moscoso**<br>texto<br><br>**Fabrizzio Hernan Laguerre Challco**<br>texto<br><br>**Josue Omar Hidalgo Bustamante**<br>Durante el desarrollo del proyecto, asumí un rol activo tanto en la etapa de planificación como en la ejecución. Me encargué de coordinar al equipo, brindando orientación basada en los mockups definidos con anterioridad para asegurar la coherencia en el diseño de la aplicación web.<br><br>**Niurka Lucero Huarcaya Quispe**<br>texto| TB1: El equipo demostró una sólida capacidad para colaborar de forma inclusiva, planificando estratégicamente las tareas y cumpliendo los objetivos del proyecto. A través de reuniones constantes, el uso de metodologías ágiles y una distribución clara de responsabilidades, logramos mantener una comunicación efectiva, anticipar desafíos y avanzar de manera organizada. Esto nos permitió construir una base sólida para el desarrollo de Chemtrack, alineando tanto los aspectos técnicos como los objetivos del negocio. <br><br> **TB2:** TEXTO |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Ayude en la en la elaboración de epics junto con sus respectivas user y technical stories teniendo en cuenta las necesidades identificadas en nuestros segmentos objetivos y los posibles escenarios que podrían presentarse. Esto nos permitió anticipar cómo deberíamos actuar ante diferentes situaciones. Asimismo, brindé apoyo en la creación de los impact maps correspondientes a los dos segmentos objetivos definidos.<br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>Apoyé activamente a la identificación de eventos de dominio para mejorar la experiencia de usuario durante las interacciones con funciones centrales de nuestro sistema *Chemtrack*. Para ello, se realizó un proceso completo de event storming siguiendo un patrón de pasos preestablecidos que nos permitió visualizar la lógica correcta del sistema.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Participé en la elaboración de los segmentos objetivo, el análisis de competidores y la definición de estrategias frente a ellos, lo cual requirió coordinación constante con el equipo. Asimismo, realicé el diseño de entrevistas y el análisis de resultados, fomentando el intercambio de ideas y perspectivas para fortalecer la solución final.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé la parte de descripción del startup del equipo, así como nuestro solution profile frente a una necesidad identificada, los antecendes que surgieron previamente a esta problemática y las solución que nuestra solución ofrece.<br><br>**Josue Omar Hidalgo Bustamante**<br>Contribuí de manera activa en el desarrollo de los arquetipos de usuarios y en la definición de sus necesidades principales, lo que permitió orientar mejor el diseño de soluciones dentro del proyecto. Además, colaboré en la preparación de los journey maps para visualizar las experiencias de los usuarios en diferentes etapas del proceso. Este trabajo facilitó la identificación de puntos críticos y oportunidades de mejora en el sistema propuesto, asegurando una propuesta de valor más ajustada a las expectativas reales.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Participé en el desarrollo de los modelos de arquitectura del sistema, así como en el Context Mapping, colaborando con el equipo para garantizar una visión unificada y estratégica del sistema. La definición de límites claros entre los contextos permitieron optimizar la comunicación entre el equipo, fomentando una colaboración efectiva que fortaleció la coherencia y robustez de la solución. <br><br> **TB2**<br>**Camila Elena Amaro Villanueva**<br>Apoye en la elaboración de los mockups y wireframes de la app web y móvil teniendo en cuenta las etiquetas planeadas para nuestras aplicaciones y el proceso lean ux realizado previamente donde captamos las necesidades de los usuarios. Asimismo, participe en el desarrollo de la primera versión de la app web. <br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>TEXTO<br><br>**Andrea Joselyn Garcia Moscoso**<br>Durante el desarrollo de esta entrega correjí y realicé la mejora de secciones clave del diseño de software, tales como Tactical-Level Software Design, General Style Guidelines y Web, Mobile and IoT Style Guide. Este trabajo fue realizado de manera colaborativa, promoviendo discusiones técnicas, consensuando decisiones de estilo y asegurando la coherencia entre los distintos componentes del sistema<br><br>**Fabrizzio Hernan Laguerre Challco**<br>TEXTO<br><br>**Josue Omar Hidalgo Bustamante**<br>La primera versión de la aplicación web fue desarrollada con mi participación directa en su implementación. Previamente, estuve involucrado en el diseño de sus interfaces, colaborando en la elaboración de mockups y wireframes tanto para la versión web como móvil. Estos se construyeron tomando en cuenta las etiquetas planificadas y los resultados del proceso de Lean UX, en el que identificamos las principales necesidades de los usuarios.<br><br>**Niurka Lucero Huarcaya Quispe**<br>TEXTO | **TB1:** Como equipo, trabajamos de manera colaborativa para cubrir todas las etapas clave del desarrollo inicial de Chemtrack, desde la definición del problema y el análisis de mercado hasta la construcción de la solución tecnológica. Cada integrante asumió un rol fundamental en áreas como la elaboración de user stories, la identificación de eventos de dominio, el diseño de entrevistas, la creación de arquetipos, el mapeo de experiencias y el modelado de la arquitectura del sistema. Esta sinergia nos permitió integrar múltiples perspectivas y asegurar una base sólida, estratégica y centrada en el usuario para el desarrollo de nuestra solución. <br><br> **TB2:** TEXTO |
+| Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Participé de manera activa en las reuniones de planificación del proyecto, así como en su desarrollo. Además, me encargué de organizar las tareas relacionadas con la elaboración de las user stories, basándome en la información recopilada por cada integrante del equipo a través de entrevistas realizadas a usuarios pertenecientes a los segmentos objetivo.<br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>Organicé las diferentes reuniones utilizando la metodología daily scrum hasta la entrega, donde identificamos las partes faltantes de nuestro trabajo, priorizamos tareas pendientes y coordinamos responsabilidades para asegurar el avance constante del proyecto. Donde la comunicación efectiva fue clave dentro del equipo para resolver bloqueos de forma oportuna y mantener la misma alineación.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo, establecimos metas claras desde las fases iniciales del proyecto y organicé tareas relacionadas con el diseño táctico del software, abarcando los distintos Bounded Contexts. Coordiné la elaboración de las distintas capas arquitectónicas y diagramas técnicos, asegurando una planificación eficiente y cumplimiento de los plazos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé el Lean UX Process, una artefacto fundamental para identificar nuestras funciones claves, segmentos objetivos, identificación y establecimiento de nuestra solución frente a la problemática identificada brindando una gráfica ejemplar y amplia para implementar una solución completa.<br><br>**Josue Omar Hidalgo Bustamante**<br>Apoyé en la validación de requerimientos técnicos y funcionales, asegurando que cada propuesta se ajustara a los objetivos del proyecto. También colaboré activamente en la elaboración de diagramas de flujo y en la definición de entidades clave del sistema. Durante el desarrollo, participé en sesiones de retroalimentación continua, lo que permitió realizar ajustes oportunos y mantener la calidad en cada entrega parcial.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Contribuí en la creación de los modelos de arquitectura del sistema, así como en el Context Mapping, asegurando que cada nivel de arquitectura estuviera alineado con los objetivos estratégicos y técnicos. Además, en equipo, establecimos metas claras, organizamos las tareas de manera estratégica y aseguramos el cumplimiento de los objetivos del proyecto. <br><br> **TB2**<br>**Camila Elena Amaro Villanueva**<br>Participé activamente en las reuniones de planificación del proyecto y en su desarrollo. Además, coordine al grupo en la creación de la aplicación web, guiándolos con base en los mockups previamente diseñados.<br><br>**Sharon Antuanet Ivet Barrial Mairn**<br>texto<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo y corrección de los documentos Tactical-Level Software Design, General Style Guidelines y Web, Mobile and IoT Style Guide. Para ello, coordiné con el equipo la definición de metas claras relacionadas con la mejora de la consistencia, calidad del diseño, revisión en función de los tiempos establecidos, y aseguré el cumplimiento de los objetivos propuestos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>texto<br><br>**Josue Omar Hidalgo Bustamante**<br>Durante el desarrollo del proyecto, asumí un rol activo tanto en la etapa de planificación como en la ejecución. Me encargué de coordinar al equipo, brindando orientación basada en los mockups definidos con anterioridad para asegurar la coherencia en el diseño de la aplicación web.<br><br>**Niurka Lucero Huarcaya Quispe**<br>texto| TB1: El equipo demostró una sólida capacidad para colaborar de forma inclusiva, planificando estratégicamente las tareas y cumpliendo los objetivos del proyecto. A través de reuniones constantes, el uso de metodologías ágiles y una distribución clara de responsabilidades, logramos mantener una comunicación efectiva, anticipar desafíos y avanzar de manera organizada. Esto nos permitió construir una base sólida para el desarrollo de Chemtrack, alineando tanto los aspectos técnicos como los objetivos del negocio. <br><br> **TB2:** TEXTO |
 
 # Capítulo I: Introducción
 
@@ -2151,7 +2151,7 @@ Esta denominación no solo refleja el enfoque en la protección, sino que tambi�
 
 El equipo seleccionó la fuente de letra Montserrat, un estilo tradicional y fácil de leer. La separación del interletraje es de 0,15 px, el interlineado es de 0,5 px y el tamaño de la fuente varía dependiendo de la finalidad de uso, por ejemplo, para los títulos se opta por un tamaño de 56 px, y para el texto redactado por el usuario 20 px. 
 
-![Tipografia](https://media.discordapp.net/attachments/971243681107570748/1370901414435356672/image.png?ex=68212eef&is=681fdd6f&hm=d69b039027d701551704aa68d1b42dc4c563552c66f7d2c61b63abca0e7d610d&=&format=webp&quality=lossless)
+![Tipografía](https://cdn.discordapp.com/attachments/1364445917452697683/1372068566102179890/image.png?ex=68256ded&is=68241c6d&hm=8a3e3bf5f3749f9e5a4fb122d64c02f9630e6dbcd6e108a8c5746aec092f0e3f&)
 
 ![Tipografia](https://cdn.discordapp.com/attachments/971243681107570748/1370901511525236766/image.png?ex=68212f06&is=681fdd86&hm=0e1e37f820c47c5c02a57e6bdae51b2e4804914a6c76efa6ecfb82db59e61b19&)
 
@@ -2833,9 +2833,219 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 
 #### 6.2.1.3. Sprint Backlog 1
 
+Implementación del Landing Page y Frontend acorde con las User Stories.
 
+Implementación del Landing Page y Frontend acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 1</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el landing page y frontend acorde a las historias redactadas. Posteriormente realizar el despliegue  </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="3" valign="top">US18</td>
+        <td rowspan="3" valign="top">Botón Call to Action</td>
+        <td valign="top">T-01</td>
+        <td valign="top">Header with call-to-action/td>
+        <td valign="top">Agregar componentes del header con un respectivo call-to-action</td>
+        <td valign="top">2</td>
+        <td valign="top">Fabrizzio Laguerre</td>
+        <td valign="top">Done</td>
+    </tr>
+  <tr>
+    <td valign="top">T-06</td>
+        <td valign="top">Footer with attachments</td>
+        <td valign="top">Implementar botones de acceso rápido y resumen de los apartados del landing page.</td>
+        <td valign="top">3</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">T-07</td>
+        <td valign="top">Button download</td>
+        <td valign="top">Implementar botones de llamada para descargar </td>
+        <td valign="top">3</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+  </tr>
+  <tr>
+        <td rowspan="4" valign="top">US17</td>
+        <td rowspan="4" valign="top">Visualización de características de la aplicación web o móvil en Landing Page</td>
+        <td valign="top">T-02</td>
+        <td valign="top">Section Our services</td>
+        <td valign="top">Implementar la descripción de los servicios que ofrecemos al cliente</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+  <tr>
+    <td valign="top">T-03</td>
+        <td valign="top">Section for video about product</td>
+        <td valign="top">Implementar un compenente para reproducir un video breve de nuestro solution profile</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In process</td>
+  </tr>
+   <tr>
+    <td valign="top">T-04</td>
+        <td valign="top">Section about the team</td>
+        <td valign="top">Implementar información de la startup con nuetsros miembros</td>
+        <td valign="top">2</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">In process</td>
+  </tr>
+  <tr>
+    <td valign="top">T-05</td>
+        <td valign="top">Section for customer testimonials</td>
+        <td valign="top">Implementar reseñas de usuarios que usaron nuestra app.</td>
+        <td valign="top">3</td>
+        <td valign="top">Fabrizzio Laguerre</td>
+        <td valign="top">Done</td>
+  </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-36</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Despliegue de datos al apartado de visualización del progreso</td>
+        <td valign="top">5</td>
+        <td valign="top">Miguel Carpio</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-32</td>
+        <td rowspan="1" valign="top">Evaluación del progreso de estudiantes</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Análisis de los resultados por estudiante</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">Visualización de resultados</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar al usuario sus resultados después de cada partida</td>
+        <td valign="top">5</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+        <tr>
+        <td rowspan="1" valign="top">HU-17</td>
+        <td rowspan="1" valign="top">Agregar un buzón de notificaciones</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar un buzón de notificaciones</td>
+        <td valign="top">5</td>
+        <td valign="top">Lucio Yen</td>
+        <td valign="top">In progress</td>
+    </tr>
+</tbody>
+</table>
 
 #### 6.2.1.3. Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+- Repositorio Landing Page: https://github.com/Chemtrack-Grupo4/Landing-Page
+  
+<br>
+
+- Repositorio Frontend: https://github.com/Chemtrack-Grupo4/chemtrack-webapp
+  
+
+<br>
+
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=3>Landing Page</td>
+        <td>develop</td>
+        <td>a833922</td>
+        <td>Initial files</td>
+        <td>-</td>
+        <td>12/05/25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9563255</td>
+        <td>fix: footer and navbar</td>
+        <td>-</td>
+        <td>12/05/25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>abcda5d</td>
+        <td>fix: translation issues and margin corrections</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    </tr>
+    <tr>
+        <td rowspan=6>Web App</td>
+        <td>feature/Shared</td>
+        <td>bdf1ab6</td>
+        <td>feat: add shared components</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    </tr>
+    <tr>
+        <td>feature/management-deliveries</td>
+        <td>6a79b66</td>
+        <td>feat: add Deliveries Bounded Context</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/incidents</td>
+        <td>ecd4f10</td>
+        <td>feat: add incidents bounded context</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/management-services</td>
+        <td>c16eebb</td>
+        <td>feat: Add Services Bounded Context</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/monitoring</td>
+        <td>778693e</td>
+        <td>feat:Added monitoring files about bounded context monitoring</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/profile</td>
+        <td>a7380b9</td>
+        <td>feature: Feature Profile and fixes</td>
+        <td>-</td>
+        <td>13/05/25</td>
+</table>
+
+
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 #### 6.2.1.5. Execution Evidence for Sprint Review
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
