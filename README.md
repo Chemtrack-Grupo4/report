@@ -2860,12 +2860,12 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 #### 6.2.1.2. Aspect Leaders and Collaborators
 | Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Incidents BC <br> Features Leader (L)/Collaborator (C)  | Frontend Management BC <br> Features Leader (L)/Collaborator (C) | Frontend Shared <br> Features Leader (L)/Collaborator (C) |
 |----|-----|-----|----|----|----|
-|Camila Amaro | C | C | L | C | C |
-|Sharon Barrial | C | C | C | C | L |
-|Andrea García | C | L | C | C | C |
-|Fabrizzio Laguerre | L | C | C | C | C |
-|Josue Hidalgo | C | C | C | L | C |
-|Niurka Huarcaya| C | C | C | L | C |
+|Camila Amaro | CamiAm404 | C | L | C | C |
+|Sharon Barrial | SharonBarrial | C | C | C | L |
+|Andrea García | Armix18 | L | C | C | C |
+|Fabrizzio Laguerre | UwUInspector | C | C | C | C |
+|Josue Hidalgo | Kabudence | C | C | L | C |
+|Niurka Huarcaya| NLH18 | C | C | L | C |
 
 #### 6.2.1.3. Sprint Backlog 1
 
