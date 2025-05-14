@@ -2835,8 +2835,6 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 
 Implementación del Landing Page y Frontend acorde con las User Stories.
 
-Implementación del Landing Page y Frontend acorde con las User Stories.
-
 <table>
 <tbody>
     <tr>
@@ -2860,7 +2858,7 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
     <tr>
         <td rowspan="3" valign="top">US18</td>
         <td rowspan="3" valign="top">Botón Call to Action</td>
-        <td valign="top">T-01</td>
+        <td valign="top">T01</td>
         <td valign="top">Header with call-to-action/td>
         <td valign="top">Agregar componentes del header con un respectivo call-to-action</td>
         <td valign="top">2</td>
@@ -2876,7 +2874,7 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">Done</td>
   </tr>
   <tr>
-    <td valign="top">T-07</td>
+    <td valign="top">T07</td>
         <td valign="top">Button download</td>
         <td valign="top">Implementar botones de llamada para descargar </td>
         <td valign="top">3</td>
@@ -2886,7 +2884,7 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
   <tr>
         <td rowspan="4" valign="top">US17</td>
         <td rowspan="4" valign="top">Visualización de características de la aplicación web o móvil en Landing Page</td>
-        <td valign="top">T-02</td>
+        <td valign="top">T02</td>
         <td valign="top">Section Our services</td>
         <td valign="top">Implementar la descripción de los servicios que ofrecemos al cliente</td>
         <td valign="top">3</td>
@@ -2894,7 +2892,7 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">Done</td>
     </tr>
   <tr>
-    <td valign="top">T-03</td>
+    <td valign="top">T03</td>
         <td valign="top">Section for video about product</td>
         <td valign="top">Implementar un compenente para reproducir un video breve de nuestro solution profile</td>
         <td valign="top">3</td>
@@ -2902,7 +2900,7 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">In process</td>
   </tr>
    <tr>
-    <td valign="top">T-04</td>
+    <td valign="top">T04</td>
         <td valign="top">Section about the team</td>
         <td valign="top">Implementar información de la startup con nuetsros miembros</td>
         <td valign="top">2</td>
@@ -2910,7 +2908,7 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">In process</td>
   </tr>
   <tr>
-    <td valign="top">T-05</td>
+    <td valign="top">T05</td>
         <td valign="top">Section for customer testimonials</td>
         <td valign="top">Implementar reseñas de usuarios que usaron nuestra app.</td>
         <td valign="top">3</td>
@@ -2918,44 +2916,82 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
         <td valign="top">Done</td>
   </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-36</td>
-        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
-        <td valign="top">1</td>
-        <td valign="top">Desarrollo de Backend</td>
-        <td valign="top">Despliegue de datos al apartado de visualización del progreso</td>
+        <td rowspan="1" valign="top">US01</td>
+        <td rowspan="1" valign="top"> Monitoreo del Vehículo</td>
+        <td valign="top">T08</td>
+        <td valign="top">Implementación de vista de monitoreo</td>
+        <td valign="top">Ver el monitoreo de los transportes.</td>
         <td valign="top">5</td>
-        <td valign="top">Miguel Carpio</td>
-        <td valign="top">In progress</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-32</td>
-        <td rowspan="1" valign="top">Evaluación del progreso de estudiantes</td>
-        <td valign="top">1</td>
-        <td valign="top">Desarrollo de Backend</td>
-        <td valign="top">Análisis de los resultados por estudiante</td>
+        <td rowspan="1" valign="top">US04</td>
+        <td rowspan="1" valign="top">Reporte de Estado del Vehículo</td>
+        <td valign="top">T09</td>
+        <td valign="top">Implementación de vista para ver reportes recibidos por vehículo</td>
+        <td valign="top">Historial de reportes recibidos por parte de los tranportistas.</td>
         <td valign="top">3</td>
-        <td valign="top">Pietro Minaya</td>
-        <td valign="top">In progress</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">US06</td>
         <td rowspan="1" valign="top">Visualización de resultados</td>
-        <td valign="top">1</td>
-        <td valign="top">Desarrollo de Backend</td>
-        <td valign="top">Mostrar al usuario sus resultados después de cada partida</td>
+        <td valign="top">T11</td>
+        <td valign="top">Implementación de pantalla de búsqueda de transportistas</td>
+        <td valign="top">Mostrar navbar de búsqueda para que reciba parametros que busquen transportistas.</td>
+        <td valign="top">5</td>
+        <td valign="top">Andrea García</td>
+        <td valign="top">Done</td>
+    </tr>
+        <tr>
+        <td rowspan="1" valign="top">US07</td>
+        <td rowspan="1" valign="top">Recibir Notificaciones de Incidentes en Tiempo Real</td>
+        <td valign="top">T12</td>
+        <td valign="top">Implementación de vista de incidentes en tiempo real</td>
+        <td valign="top">Mostrar un buzón de notificaciones</td>
+        <td valign="top">5</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">In progress</td>
+    </tr>
+   <tr>
+        <td rowspan="2" valign="top">US08</td>
+        <td rowspan="2" valign="top">Recibir Notificaciones de Incidentes en Tiempo Real</td>
+        <td valign="top">T13</td>
+        <td valign="top">Mostrar a los transportistas registrados</td>
+        <td valign="top">Listado de los transportistas registrados en la aplicación</td>
+        <td valign="top">5</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">In progress</td>
+    </tr>
+  <tr>
+        <td valign="top">T14</td>
+        <td valign="top">Implementación de vista de inicio de sesión</td>
+        <td valign="top">Los usuarios tienden a registrarse</td>
+        <td valign="top">5</td>
+        <td valign="top">Andrea García</td>
+        <td valign="top">In progress</td>
+    </tr>
+  <tr>
+        <td rowspan="1" valign="top">US05</td>
+        <td rowspan="1" valign="top">Seguimiento en Tiempo Real de los Transportes Activos</td>
+        <td valign="top">T15</td>
+        <td valign="top">Implementación de vista de servicios activos</td>
+        <td valign="top">Visualización de dashboard para ver los servicios activos</td>
         <td valign="top">5</td>
         <td valign="top">Sharon Barrial</td>
         <td valign="top">In progress</td>
     </tr>
-        <tr>
-        <td rowspan="1" valign="top">HU-17</td>
-        <td rowspan="1" valign="top">Agregar un buzón de notificaciones</td>
-        <td valign="top">1</td>
-        <td valign="top">Desarrollo de Backend</td>
-        <td valign="top">Mostrar un buzón de notificaciones</td>
+  <tr>
+        <td rowspan="1" valign="top">US12</td>
+        <td rowspan="1" valign="top">Seguimiento en Tiempo Real de los Transportes Activos</td>
+        <td valign="top">T16</td>
+        <td valign="top">Implementación de vista de registro de nuevo servicio</td>
+        <td valign="top">Dashboard para registrar servicio</td>
         <td valign="top">5</td>
-        <td valign="top">Lucio Yen</td>
-        <td valign="top">In progress</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Camila Amaro</td>
     </tr>
 </tbody>
 </table>
