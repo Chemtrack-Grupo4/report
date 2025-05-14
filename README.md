@@ -3106,6 +3106,8 @@ En el Sprint 1 se alcanzó a desarrollar una primera versión de la landing page
 <a href="https://chemtrack-app.netlify.app/services"><img src="https://i.ibb.co/ZRQV6Xzy/Captura-de-pantalla-2025-05-14-021751.png" alt="Frontend" border="0"></a>
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
+
+
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el despliegue de landing page se usó GitHub Pages y para la web app  se usó Netlify, a continuación se detallará paso a paso para este Sprint 1:
@@ -3132,6 +3134,16 @@ Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
 Link de frontend: https://chemtrack-app.netlify.app/services
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
+
+**Reporte:**
+
+<img src="https://i.ibb.co/mrq3FsM5/Captura-de-pantalla-2025-05-14-025020.png" alt="Insights" border="0">
+
+**Web App:**
+
+<img src="https://i.ibb.co/HfDFdn2W/Captura-de-pantalla-2025-05-14-025214.png" alt="Insights-web" border="0">
+
+<br>
 
 # Conclusiones
 ## Conclusiones y Recomendaciones
