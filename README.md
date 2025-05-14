@@ -3231,18 +3231,20 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 
 **Anexo B.** Diagrama de Clases de Chemtrack.
 
-![classDiagram](https://media.discordapp.net/attachments/971243681107570748/1370915417492688989/image.png?ex=68213bf9&is=681fea79&hm=571e40444405400c9483127f9aa0a6636d8dce998c3b7eaa75e1d19e048a473c&=&format=webp&quality=lossless&width=1511&height=425)
+![image](https://github.com/user-attachments/assets/0ba27eb9-5cc4-468f-b3a3-f3ab755b4e94)
+
 
 
 **Anexo C.** Diagrama de Base de Datos de Chemtrack.
 
-![databaseDiagram](https://cdn.discordapp.com/attachments/1364445917452697683/1371724171410673725/image.png?ex=68242d2f&is=6822dbaf&hm=4cfd140f330a507549dfee956bd5909add0124fc260ef224da9ef89c8fe0375f&)
+![image](https://github.com/user-attachments/assets/8891c6d6-734c-46f2-9289-fd25f42f66af)
+
 
 **Videos de exposición**
 
 [Video de exposición TB1](https://youtu.be/n4_SKmnvCeU)
 
-[Video de exposición TP]()
+[Video de exposición TP](https://youtu.be/Y9wkGYbHHYE)
 
 [Video de exposición TB2]()
 
