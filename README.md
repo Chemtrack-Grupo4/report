@@ -2816,10 +2816,17 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 #### 6.2.1.2. Aspect Leaders and Collaborators
 | Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Incidents BC <br> Features Leader (L)/Collaborator (C)  | Frontend Management BC <br> Features Leader (L)/Collaborator (C) | Frontend Shared <br> Features Leader (L)/Collaborator (C) |
 |----|-----|-----|----|----|----|
-|Sharon Barrial | - |-|-|-|-|
-
+|Camila Amaro | C | C | L | C | C |
+|Sharon Barrial | C | C | C | C | L |
+|Andrea García | C | L | C | C | C |
+|Fabrizzio Laguerre | L | C | C | C | C |
+|Josue Hidalgo | C | C | C | L | C |
+|Niurka Huarcaya| C | C | C | L | C |
 
 #### 6.2.1.3. Sprint Backlog 1
+
+
+
 #### 6.2.1.3. Development Evidence for Sprint Review
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 #### 6.2.1.5. Execution Evidence for Sprint Review
