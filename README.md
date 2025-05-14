@@ -38,6 +38,7 @@ Abril del 2025
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
 | 1.00 | 24/04/2025 | Todos los integrantes del equipo  | Se desarrolló la descripción del startup Chemtrack, presentando a los integrantes del equipo, la problemática a resolver y el análisis del mercado, incluyendo a la competencia y el valor agregado que ofrece nuestra solución dentro del nicho. Además, se definieron la visión y objetivos del proyecto, el segmento objetivo y se propuso una solución tecnológica basada en IoT para el monitoreo seguro del transporte de materiales peligrosos, sentando así las bases para el desarrollo futuro del sistema. Luego se implementó los demás artefactos necesarios para realizar una base sólida para la arquitectura, implementación, validación y desarrollo de ChemTrack.   |
+| 2.00 | 14/05/2025 | Todos los integrantes del equipo  | Se levantaron las correcciones de la entrega pasada, se realizaron y definieron los style guideline, las cualidades core de nuestro sistema para garantizar una interfaz interactiva y limpia, se realizaron los mockups, wireframes junto con los wireflows y userflows. Finalmente se obtuvo el prototipo de mobile, landing y desktop con el cual se planificó el sprint 1  y su respectivo desarrollo junto con el sprint backlog 1, development, execution, testing y los demás artefactos disponibles en el presente proyecto. Se desarrolló e implementó la landing page como el primer prototipo web de Chemtrack y se prosiguió con su despliegue.   |
 ---
 # Project Report Collaboration Insights
 
@@ -45,8 +46,16 @@ TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en
 Link de repositorio Github: https://github.com/Chemtrack-Grupo4/report
 
 Registro de commits:
-![registro de commits](https://media.discordapp.net/attachments/1364445917452697683/1365182465475612692/image.png?ex=680c60bf&is=680b0f3f&hm=c895130a81b5d167c2a91208221384eb4fa1b29322c97c19371eda8478175807&=&format=webp&quality=lossless)
+![image](https://github.com/user-attachments/assets/7010f212-ddcc-470e-b2df-781a12cbd85a)
 
+TP1: Se han desarrollado las actividades correspondientes para la entrega TP1 en el siguiente repositorio de GitHub dentro de la organización del equipo:
+
+Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
+
+Registro de commits: 
+![image](https://github.com/user-attachments/assets/6c0adc3c-c4fb-4cff-937b-ff5b1cbc21f6)
+
+---
 
 ---
 # Contenido 
