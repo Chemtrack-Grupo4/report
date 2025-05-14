@@ -2953,6 +2953,91 @@ Implementación del Landing Page y Frontend acorde con las User Stories.
 </table>
 
 #### 6.2.1.3. Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+- Repositorio Landing Page: https://github.com/Chemtrack-Grupo4/Landing-Page
+  
+<br>
+
+- Repositorio Frontend: https://github.com/Chemtrack-Grupo4/chemtrack-webapp
+  
+
+<br>
+
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=3>Landing Page</td>
+        <td>develop</td>
+        <td>a833922</td>
+        <td>Initial files</td>
+        <td>-</td>
+        <td>12/05/25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9563255</td>
+        <td>fix: footer and navbar</td>
+        <td>-</td>
+        <td>12/05/25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>abcda5d</td>
+        <td>fix: translation issues and margin corrections</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    </tr>
+    <tr>
+        <td rowspan=6>Web App</td>
+        <td>feature/Shared</td>
+        <td>bdf1ab6</td>
+        <td>feat: add shared components</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    </tr>
+    <tr>
+        <td>feature/management-deliveries</td>
+        <td>6a79b66</td>
+        <td>feat: add Deliveries Bounded Context</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/incidents</td>
+        <td>ecd4f10</td>
+        <td>feat: add incidents bounded context</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/management-services</td>
+        <td>c16eebb</td>
+        <td>feat: Add Services Bounded Context</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/monitoring</td>
+        <td>778693e</td>
+        <td>feat:Added monitoring files about bounded context monitoring</td>
+        <td>-</td>
+        <td>13/05/25</td>
+    <tr>
+        <td>feature/profile</td>
+        <td>a7380b9</td>
+        <td>feature: Feature Profile and fixes</td>
+        <td>-</td>
+        <td>13/05/25</td>
+</table>
+
+
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 #### 6.2.1.5. Execution Evidence for Sprint Review
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
