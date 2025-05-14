@@ -240,7 +240,7 @@ Como misión se plantea “Incrementar la calidad del servicio de transporte de 
 
 ---
 
-| ![Andrea](https://cdn.discordapp.com/attachments/1364445917452697683/1371719265354518568/foto.jpg?ex=6824289e&is=6822d71e&hm=f527405af723da1d671b555f5a28c8f697449d577343098deab9f10a0d51ecc9&)| Actualmente estoy cursando el séptimo ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, Python, JavaScript y C. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.|
+| <img src="https://cdn.discordapp.com/attachments/1364445917452697683/1371719265354518568/foto.jpg?ex=6824289e&is=6822d71e&hm=f527405af723da1d671b555f5a28c8f697449d577343098deab9f10a0d51ecc9&" width="700" alt="Foto" style="border-radius: 10px;">| Actualmente estoy cursando el séptimo ciclo de mi carrera. Elegí esta carrera debido a que desde la niñez me interesó el cómo funcionan las computadoras por dentro. Poseo conocimiento en programación estructurada, POO, Python, JavaScript y C. Además, tengo habilidades en el trabajo en equipo y trabajo en tareas múltiples.|
 |----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 
@@ -2683,7 +2683,7 @@ Duración: 03:51
 
 ![image](https://i.imgur.com/H1gB1R8.png)
 
-Link al video.
+[Link al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eb7QckaAXOZHqCAdbBh9b1cB-LXKRizGLBlfKQjgbgPFjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=60MG8p "Link al video").
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 ## 6.1. Software Configuration Management
