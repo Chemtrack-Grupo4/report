@@ -2753,7 +2753,8 @@ Se usará GitHub como repositorio principal bajo una organización del equipo, d
 
 - Repositorio Landing Page: https://github.com/Chemtrack-Grupo4/Landing-Page.git
 - Repositorio App Web: https://github.com/Chemtrack-Grupo4/chemtrack-webapp.git
-
+- Repositorio Backend: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+- Repositorio Testing  https://github.com/Chemtrack-Grupo4/chemtrack-testing
 ---
 
 ### 6.1.3. Source Code Style Guide & Conventions
