@@ -2833,7 +2833,124 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 
 #### 6.2.1.3. Sprint Backlog 1
 
+Implementación del Landing Page y Frontend acorde con las User Stories.
 
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 1</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el landing page y frontend acorde a las historias redactadas. Posteriormente realizar el despliegue  </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="3" valign="top">US18</td>
+        <td rowspan="3" valign="top">Botón Call to Action</td>
+        <td valign="top">T-01</td>
+        <td valign="top">Header with call-to-action/td>
+        <td valign="top">Agregar componentes del header con un respectivo call-to-action</td>
+        <td valign="top">2</td>
+        <td valign="top">Fabrizzio Laguerre</td>
+        <td valign="top">Done</td>
+    </tr>
+  <tr>
+        <td rowspan="4" valign="top">US17</td>
+        <td rowspan="4" valign="top">Visualización de características de la aplicación web o móvil en Landing Page</td>
+        <td valign="top">T-02</td>
+        <td valign="top">Section Our services</td>
+        <td valign="top">Implementar la descripción de los servicios que ofrecemos al cliente</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="4" valign="top">US17</td>
+        <td rowspan="4" valign="top">Visualización de características de la aplicación web o móvil en Landing Page</td>
+        <td valign="top">T-02</td>
+        <td valign="top">Section Our services</td>
+        <td valign="top">Implementar la descripción de los servicios que ofrecemos al cliente</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+  <tr>
+    <td valign="top">T-03</td>
+        <td valign="top">Section for video about product</td>
+        <td valign="top">Implementar un compenente para reproducir un video breve de nuestro solution profile</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In process</td>
+  </tr>
+   <tr>
+    <td valign="top">T-04</td>
+        <td valign="top">Section about the team</td>
+        <td valign="top">Implementar información de la startup con nuetsros miembros</td>
+        <td valign="top">2</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">In process</td>
+  </tr>
+  <tr>
+    <td valign="top">T-05</td>
+        <td valign="top">Section for customer testimonials</td>
+        <td valign="top">Implementar reseñas de usuarios que usaron nuestra app.</td>
+        <td valign="top">3</td>
+        <td valign="top">Fabrizzio Laguerre</td>
+        <td valign="top">Done</td>
+  </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-36</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Despliegue de datos al apartado de visualización del progreso</td>
+        <td valign="top">5</td>
+        <td valign="top">Miguel Carpio</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-32</td>
+        <td rowspan="1" valign="top">Evaluación del progreso de estudiantes</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Análisis de los resultados por estudiante</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">Visualización de resultados</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar al usuario sus resultados después de cada partida</td>
+        <td valign="top">5</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+        <tr>
+        <td rowspan="1" valign="top">HU-17</td>
+        <td rowspan="1" valign="top">Agregar un buzón de notificaciones</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar un buzón de notificaciones</td>
+        <td valign="top">5</td>
+        <td valign="top">Lucio Yen</td>
+        <td valign="top">In progress</td>
+    </tr>
+</tbody>
+</table>
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
