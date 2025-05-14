@@ -2798,9 +2798,9 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 ### 6.2.1. Sprint 1
 #### 6.2.1.1. Sprint Planning 1
 
-| Sprint #                         | 1                                                                                                                                                                           | 
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| **Sprint Planning Background**                                                                                                                                                                                  |
+| Sprint #                         | 1                                                                                                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                                             |
 | Date                             | 2025 - 05 - 13                                                                                                                                                               |
 | Time                             | 10:30 PM                                                                                                                                                                     |
 | Location                         | Virtual via Discord                                                                                                                                                          |
@@ -2808,12 +2808,17 @@ En el caso de la landing page, al tratarse de un sitio estático, no es necesari
 | Attendees (to planning meeting)  | Camila Amaro, Sharon Barrial, Andrea García, Fabrizzio Laguerre, Josue Bustamante, Niurka Huarcaya, Josue Hidalgo                                                            |
 | Sprint 1 - Review Summary        | No aplica al ser el primer sprint                                                                                                                                            |
 | Sprint 1 - Retrospective Summary | No aplica al ser el primer sprint                                                                                                                                            |
-| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
+| **Sprint Goal & User Stories**   |                                                                                                                                                                              |
 | Sprint 1 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page y Fronted usando los wireframes y mockups diseñados previamente, además del despliegue de ambos.           |
 | Sprint 1 - Velocity              | El equipo puede aceptar 35 Story Points                                                                                                                                      |
-| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 27 Story Points                                                                                           |
+| Sprint 1 - Story Points          | La suma de los Story Points de los User Stories que se atenderá es 27 Story Points                                                                                           |
 
 #### 6.2.1.2. Aspect Leaders and Collaborators
+| Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Incidents BC <br> Features Leader (L)/Collaborator (C)  | Frontend Management BC <br> Features Leader (L)/Collaborator (C) | Frontend Shared <br> Features Leader (L)/Collaborator (C) |
+|----|-----|-----|----|----|----|
+|Sharon Barrial | - |-|-|-|-|
+
+
 #### 6.2.1.3. Sprint Backlog 1
 #### 6.2.1.3. Development Evidence for Sprint Review
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
