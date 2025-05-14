@@ -3107,6 +3107,28 @@ En el Sprint 1 se alcanzó a desarrollar una primera versión de la landing page
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la web app y landing page se usó Netlify, a continuación se detallará paso a paso para este Sprint 1:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+Se genera la carpeta dist, luego, se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración.
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto. Y se obtiene el registro del despliegue dentro de Netlify
+
+
+De esta manera el avance del Sprint 1 queda desplegado.
+
+<img src="https://i.ibb.co/ZRQV6Xzy/Captura-de-pantalla-2025-05-14-021751.png" alt="Captura-de-pantalla-2025-05-14-021751" border="0">
+
+<br>
+
+<img src="https://i.ibb.co/qG6TWLt/Captura-de-pantalla-2025-05-14-023450.png" alt="Captura-de-pantalla-2025-05-14-023450" border="0">
+
+Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
+
+Link de frontend: https://chemtrack-app.netlify.app/services
+
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
