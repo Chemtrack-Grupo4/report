@@ -3991,7 +3991,7 @@ Permite tráfico TCP desde `0.0.0.0/0` a:
 [Enlace del video](https://youtu.be/mHsDo7mMxjk)
 
 
->**Despliegue del Mobile***
+>**Despliegue del Mobile**
 
 Para el despliegue de la aplicación móvil, se generó el archivo APK utilizando Flutter. Esto se logró mediante el siguiente comando:
 
