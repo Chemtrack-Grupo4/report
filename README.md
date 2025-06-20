@@ -4032,15 +4032,36 @@ Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amaz
 
 **Backend**
 
+
 **Mobile**
+
+![image](https://github.com/user-attachments/assets/aadec403-6240-41b9-94b3-0be255777759)
+
 
 >**Network**
 
+**Frontend**
 ![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
+
+**Backend**
+![image](https://github.com/user-attachments/assets/02fb1b6c-b316-404b-9b58-68c0b7cb3ff1)
+
+**Mobile**
+![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
+
 
 >**Contributors**
 
+**Frontend**
 ![image](https://github.com/user-attachments/assets/06d7cf2c-585b-4801-ac55-a7509aa09928)
+
+**Backend**
+![image](https://github.com/user-attachments/assets/30b9cfdd-d2b0-4fb3-9c34-b22eae6ee4e7)
+
+**Mobile**
+![image](https://github.com/user-attachments/assets/c335ebe4-27c9-47d2-b7e6-e36ab04ad0f3)
+
+
 
 ## 6.3. Validation Interviews
 ### 6.3.1. Diseño de Entrevistas
@@ -4451,6 +4472,32 @@ Por otro lado recomendaríamos que:
 - El trabajo en equipo fue uno de los factores más importantes en esta etapa. La distribución equitativa de tareas y el cumplimiento de los plazos demostraron una coordinación efectiva y compromiso por parte de todos los integrantes.
 - La entrega de la landing page y del primer prototipo web permitió visualizar el rumbo del proyecto y validar aspectos clave de la propuesta inicial, sirviendo como punto de partida para las siguientes iteraciones.
 - Esta primera fase también sirvió para fortalecer la comunicación, organización y adaptabilidad del equipo, competencias esenciales para los próximos sprints.
+
+En esta segunda entrega, se consolidaron avances significativos en la solución tecnológica propuesta. Se logró desplegar la versión final del frontend (web app y landing page), así como la primera versión funcional de los módulos Mobile, IoT y Edge, permitiendo validar integralmente los principales componentes del sistema ChemTrack.
+
+Durante el Sprint 2, se completaron tareas clave como el despliegue de servicios web en entornos reales, la generación de artefactos móviles (APK), la implementación del canal de comunicación mediante MQTT entre dispositivos IoT y el backend, y la configuración del entorno de edge computing sobre AWS. Estas entregas representan una base operativa robusta sobre la cual se continuará construyendo en sprints futuros.
+
+Conclusiones
+Se alcanzó la entrega final de la solución web, incluyendo el despliegue exitoso de la landing page en GitHub Pages y de la aplicación web en Netlify.
+
+Se desarrolló y distribuyó la primera versión de la app móvil, empaquetada en formato APK y lista para pruebas con usuarios.
+
+Se habilitaron las funcionalidades básicas del módulo IoT, incluyendo la lectura de sensores y la transmisión de datos vía MQTT.
+
+El módulo Edge fue desplegado en la nube (AWS), estableciendo un entorno de ejecución autónomo y resiliente para procesar datos en el perímetro.
+
+La integración de estos componentes permitió visualizar una arquitectura funcional distribuida, en línea con los objetivos planteados inicialmente.
+
+La colaboración entre los miembros del equipo fue decisiva para cumplir con los objetivos del sprint, demostrando organización, adaptabilidad y compromiso.
+
+Recomendaciones
+Para mantener una evolución constante, se sugiere realizar ciclos de prueba más frecuentes con usuarios finales que permitan validar la experiencia de uso en cada módulo entregado.
+
+Es importante documentar no solo los entregables técnicos, sino también los aprendizajes obtenidos y desafíos superados, con el fin de capitalizar este conocimiento en siguientes iteraciones.
+
+Dado que la solución involucra múltiples tecnologías (web, mobile, IoT, edge), se recomienda mantener un enfoque DevOps para estandarizar los flujos de integración y despliegue continuo.
+
+Fortalecer las métricas de monitoreo y rendimiento de los módulos desplegados será clave para garantizar escalabilidad y confiabilidad de la solución en producción.
 
 # Bibliografía
 
