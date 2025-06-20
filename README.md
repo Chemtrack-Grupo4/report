@@ -13,7 +13,7 @@ NRC 2939
 
 Profesor: León Baca, Marco Antonio
 
-***INFORME DE TRABAJO - TP1***
+***INFORME DE TRABAJO - TB2***
 
 **Startup: TrackTox**
 
