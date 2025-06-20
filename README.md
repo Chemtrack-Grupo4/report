@@ -3546,9 +3546,10 @@ Mejora del Landing Page, Frontend(Web y Mobile) e implementación del Backend y 
 </tbody>
 </table>
 
-Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como los que vienen en las próximas iteracciones.
+Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como los que vienen en las próximas iteracciones. Como resultado se obtuvo 37 tasks para el presente sprint.
 
-![trello]()
+![image](https://github.com/user-attachments/assets/7191c51b-dfb7-4ec7-b3c7-c1635e23ad9b)
+
 [Enlace de Trello](https://trello.com/invite/b/681fc71a5692939678facc66/ATTIc15614080cece153cca3c2bae0cd3505CFC7F6B0/chemtrack)
 
 #### 6.2.2.3. Development Evidence for Sprint Review
@@ -3803,41 +3804,76 @@ En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page,
 
 <a href="https://chemtrack-grupo4.github.io/Landing-Page/"><img src="https://i.ibb.co/zVDsx58N/Captura-de-pantalla-2025-05-14-003027.png" alt="Landing page" border="0"></a>
 
+Demostración del contenido de Landing Page y su conexión con la página web desde el botón *Call-To-Action*.
+![image](https://github.com/user-attachments/assets/9e48c805-dd5f-45f9-a23c-fd81e63e2de6)
+
+[Enlace de video](https://youtu.be/iZ1wX6IyvGI)
+
 **Frontend**
 
 - Versión Final
 - Estado: En producción activa
 
-<a href="https://chemtrack-app.netlify.app/services"><img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340435678756884/image.png?ex=684f1207&is=684dc087&hm=508def2c66d8a21b8231f5c7e80d4f1a2f919f230b4be498f0a91c5e09ecfb3f&" alt="Frontend" border="0"></a>
-
-<a href="https://chemtrack-app.netlify.app/services"><img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340817515614288/image.png?ex=684f1262&is=684dc0e2&hm=e4b69730080c249ec070915ba8a097158cf313753391330777e16ba4ecfb0379&" alt="Frontend" border="0"></a>
+![image](https://github.com/user-attachments/assets/c81b1bf8-9ce5-450e-bdb9-995c629f16f8)
+![Imagen de WhatsApp 2025-06-06 a las 21 01 36_aca33b7f](https://github.com/user-attachments/assets/cd16edf9-ba5b-48a0-bdd9-cdfc1fab861b)
+![image](https://github.com/user-attachments/assets/4ce06d6c-c59c-4360-91d6-56066d9a9c23)
+![image](https://github.com/user-attachments/assets/ba75656d-0b2b-4138-907f-8fa107e8c399)
+![image](https://github.com/user-attachments/assets/f9631fb8-8240-4173-a67c-2a3e5bd76886)
 
 **Backend**
 
 - Versión Inicial
 - Estado: En producción activa
 
-![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383594040125161572/386876214-9bfc93c7-3ca0-45ff-843e-380cb8e6dc2e.png?ex=684f5bdd&is=684e0a5d&hm=5aad71f40065eb5f1abdde8e23bc021b881d0731f775fd05484e587fa5243d33&)
+Endpoints
+![image](https://github.com/user-attachments/assets/3aa0988d-2054-4960-9db8-e3c62fb7f8ae)
+![image](https://github.com/user-attachments/assets/9811ceeb-bb0d-4c7d-a965-38bc989e95db)
 
-![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383594108190326895/386876223-3b7fed49-cb43-497e-b90d-6df6a33d0773.png?ex=684f5bed&is=684e0a6d&hm=5c61f45b3bd5bad8f2103d8d2cfdb85de669b739fd2410f0187371ba589ac996&)
+Sensors
+![image](https://github.com/user-attachments/assets/91290394-3803-49fd-99da-e2f50a973e65)
+
+Incidents
+![image](https://github.com/user-attachments/assets/d39b9b08-f3ef-481e-a115-97c23c922255)
+
+Services
+![image](https://github.com/user-attachments/assets/a4296f9c-cb99-47aa-802c-1feb6683278b)
+
+Deliveries
+![image](https://github.com/user-attachments/assets/6fbaa0b1-9c2a-4a5d-b07a-690c7f6f30a6)
+
+Auth controller & User controller
+![image](https://github.com/user-attachments/assets/4c2e8574-5027-4a7e-8fb3-73cdbfbf6dfd)
+
+Demostración del funcionamiento de los endpoints a través de postman
+![Imagen de WhatsApp 2025-06-19 a las 22 59 45_7d5ac168](https://github.com/user-attachments/assets/d652b958-1980-42f1-85d8-3d83d9e86d3c)
+
+[Enlace del video](https://youtu.be/UDbjgP1GyrI)
 
 **Mobile**
 - Versión Inicial
 - Estado: Desplegado en apk
+![image](https://github.com/user-attachments/assets/38aa8b3a-1d0a-4bc6-9b7d-71d6ffb3f390)
 
-![mobile]()
-
-****
+**IoT Embedded**
 - Versión Inicial
 - Estado: Simulado en Wokwi e integrado con broker MQTT
-  
-![iot]()
+
+![Imagen de WhatsApp 2025-06-18 a las 21 53 50_c4c6f0c1](https://github.com/user-attachments/assets/f3b9f7b5-c4df-4104-903a-b7897d88e73a)
+[Enlace de demostración de su funcionamiento](https://youtu.be/mHsDo7mMxjk?si=jYEzVz3hB8E_QJCo)
 
 **Edge**
 - Versión Inicial
 - Estado: Desplegado en AWS
-  
-![edge]()
+
+![image](https://github.com/user-attachments/assets/c715a7e0-b8bf-4fc1-8d42-ae2e549313d5)
+![Imagen de WhatsApp 2025-06-19 a las 08 47 13_da59ddfe](https://github.com/user-attachments/assets/d1d4f105-9631-4dd1-82cc-a4255e09c334)
+![Imagen de WhatsApp 2025-06-19 a las 08 49 45_664c14b8](https://github.com/user-attachments/assets/eae9c537-12bf-4d1e-9665-23f3f560e07b)
+
+Demostración de funcionamiento de edge y su comunicación con el embedded.
+
+![image](https://github.com/user-attachments/assets/87bda626-4f78-4302-a082-356b6325a396)
+[Enlace del video](https://youtu.be/mHsDo7mMxjk)
+
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3855,53 +3891,131 @@ Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gest
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
-**Despliegue de Landing Page**
+>**Despliegue de Landing Page**  
+La Landing Page fue desplegada utilizando **GitHub Pages**, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (`main` o `gh-pages`) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
 
-**Despliegue del Frontend**
+![github](https://github.com/user-attachments/assets/73bd7cc4-21c8-4b74-8825-5187511ba209)
+[Enlace de video](https://youtu.be/iZ1wX6IyvGI)
 
-Para el despliegue de landing page se usó GitHub Pages y para la web app  se usó Netlify, a continuación se detallará paso a paso para este Sprint 2:
+> **Despliegue del Frontend**
 
-Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+Para la aplicación principal desarrollada en Angular, se utilizó **Netlify** como plataforma de despliegue debido a su integración continua y facilidad de configuración.
 
-Se genera la carpeta dist, luego, se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración.
+El proceso consistió en:
 
-Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto. Y se obtiene el registro del despliegue dentro de Netlify
+**Compilación del proyecto Angular**  
+Se ejecutó el comando `ng build` desde la raíz del proyecto, generando los archivos estáticos dentro del directorio `dist/`.
+
+**Configuración del archivo `netlify.toml`**  
+Se creó el archivo de configuración `netlify.toml` con el objetivo de gestionar correctamente las rutas internas de Angular. Esto garantiza que las solicitudes de navegación directa a rutas definidas por Angular sean correctamente redirigidas.
+
+**Carga del contenido en Netlify**  
+Se seleccionó el subdirectorio correspondiente dentro de `dist/` (específicamente el que representa el nombre del proyecto) como carpeta de despliegue en Netlify.  
+Al finalizar el proceso, se obtuvo el registro exitoso del despliegue.
+
+De esta manera, el avance del **Sprint 2** quedó funcional y disponible públicamente para su evaluación.
+
+![image](https://github.com/user-attachments/assets/a1e99f7f-b64f-43fc-9b08-a09f93a62f4d)
+
+> **Despliegue del Backend**
+
+**Configuración del repositorio**
+   - Se aseguró que el repositorio de backend estuviera limpio y contuviera todos los archivos necesarios para el build.
+   - Se definieron variables de entorno desde Railway para la conexión a servicios externos como la base de datos y MQTT.
+
+     ![image](https://github.com/user-attachments/assets/9d70a731-bc48-45e4-ad61-caa4367909dc)
+
+**Integración con Railway**
+   - Se accedió a [Railway.app](https://railway.app) y se creó un nuevo proyecto.
+   - Se conectó el proyecto directamente al repositorio en GitHub, seleccionando la rama principal para el despliegue.
+   - Railway detectó automáticamente el stack del proyecto e inició el proceso de construcción (**build**).
+
+![image](https://github.com/user-attachments/assets/71b089f1-bce8-41f6-ad9d-6a1fae77a03d)
+
+**Despliegue automático**
+   - Una vez completado el build, Railway desplegó el backend y proporcionó una URL pública accesible.
+   - Se habilitó el monitoreo en tiempo real para verificar el estado del servicio.
+   - En caso de errores o necesidad de debugging, Railway ofrece visualización de logs directamente desde el panel.
+
+![image](https://github.com/user-attachments/assets/407b7033-cbdc-41fd-92b2-5caad7576368)
+
+Aquí se hace presente el video demostrando el funcionamiento del despliegue del backend haciendo uso de POSTMAN.
+
+[Enlace del video](https://youtu.be/UDbjgP1GyrI)
+
+> **Despliegue de Edge**
+
+El sistema **Edge** fue desplegado en **Amazon Web Services (AWS)** para interactuar con dispositivos **IoT** y gestionar mensajes mediante el protocolo **MQTT**.
+
+**Configuración de Red**
+
+- **VPC:** `proyecto-iot-vpc` (`10.0.0.0/16`)
+- **Subred pública:** `proyecto-iot-subnet-public1-us-east-1a`
+- **Gateway de Internet:** `proyecto-iot-igw`
+- **Tabla de enrutamiento:** `proyecto-iot-rtb-public` con acceso a Internet
+- **DNS:** Habilitado para resolución de nombres
+
+![image](https://github.com/user-attachments/assets/84af1e4c-1fe4-4b40-ba15-da66c5db737c)
+
+**Grupo de Seguridad (`proyecto-mqtt`)**
+
+Permite tráfico TCP desde `0.0.0.0/0` a:
+- `1883`: MQTT
+- `8883`: MQTT TLS
+- `8161` y `8162`: Dashboard u otros servicios
+
+![image](https://github.com/user-attachments/assets/efcaf931-11f5-4181-a2a7-1dea9fbbb35b)
+
+**Instancia EC2 (Edge)**
+
+- Ubuntu 22.04 en subred pública
+- Acceso SSH habilitado
+- Asociada al grupo de seguridad `proyecto-mqtt`
+
+![image](https://github.com/user-attachments/assets/abdc83ff-b4d8-4bc1-9289-e610995dd444)
 
 
-De esta manera el avance del Sprint 2 queda desplegado.
+**Instalación y Ejecución**
 
-<img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340517480136865/image.png?ex=684f121b&is=684dc09b&hm=08c285ede3a685d73f0ede2747e6f407db4c1a9d2b0ca567fde02d1e2e72afc7&" alt="frontend" border="0">
+- Instalación de Python, `pip`, `paho-mqtt`, `requests`, etc.
+- Configuración de entorno virtual (`venv`)
+- Transferencia del código (via `scp` o `git clone`)
+- Configuración del cliente MQTT
+- Registro como servicio (`systemd`) para ejecución persistente
 
-<br>
+![image](https://github.com/user-attachments/assets/a007d3f0-5390-44d0-b21f-d37162bf3afb)
 
-<img src="https://media.discordapp.net/attachments/1364445917452697683/1383595112302645359/image.png?ex=684f5cdc&is=684e0b5c&hm=95e9543459e5dab2fc8db5a428db79009d7dfad9d8cdfa08edab4851d592c9ae&=&format=webp&quality=lossless&width=1286&height=610" alt="Landing page" border="0">
-<br>
+**Etapa final**
+![image](https://github.com/user-attachments/assets/639f0eb9-9f87-42a9-87ce-91e176b9f913)
 
-## Despliegue del Backend
+[Enlace del video](https://youtu.be/mHsDo7mMxjk)
 
-**Cambiarlo a Azure**
 
-Por otro lado, vamos a explicar los pasos a despliegue de los web services:
+> **Despliegue del Mobile***
 
-Se utilizó Zeabur debido a su gran utilidad en el plan gratuito, permitiendo depslegar 3 servicios, primero se crea un espacio de trabajo.
+Para el despliegue de la aplicación móvil, se generó el archivo APK utilizando Flutter. Esto se logró mediante el siguiente comando:
 
-Se añade un nuevo servicio y luego de escoger el repositorio, se empieza a hacer el build del despliegue:
+```bash
+flutter build apk --release
+```
+Posteriormente, se realizó la carga del APK en una plataforma de distribución para facilitar las pruebas internas. **Firebase App Distribution**
 
-![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383603340507746324/386878114-65104678-b3e3-4b24-bb4c-f901aa5e2c76.png?ex=684f6486&is=684e1306&hm=6f332d0d0f784f2c1a1e5c969b1bd4f7d1424ff3f249b2999e9fc521554fbbcf&)
+Finalmente, se verificó su correcto funcionamiento en distintos dispositivos Android con el fin de asegurar la **estabilidad**, **compatibilidad** y **usabilidad** del APK generado.
 
-### Despliegue del IoT
+Este despliegue permitió a los usuarios evaluar las funcionalidades implementadas durante el Sprint, facilitando la **retroalimentación temprana** para futuras iteraciones y asegurando una **experiencia fluida** antes de su publicación oficial.
 
-### Despliegue del Mobile
+![Imagen de WhatsApp 2025-06-19 a las 22 38 36_ee83ce24](https://github.com/user-attachments/assets/e102840b-4ae3-47d2-bdc6-74f68dc8febc)
+
+![Imagen de WhatsApp 2025-06-19 a las 22 38 54_9e29d9ee](https://github.com/user-attachments/assets/25d3c782-9102-47a0-ab15-4aeb012f2281)
+
+![Imagen de WhatsApp 2025-06-19 a las 22 40 12_6e97f421](https://github.com/user-attachments/assets/0d4b2b4f-aa55-43c9-b206-b451c01e2538)
 
 Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
-
-Link del web application: https://chemtrack-app.netlify.app/services
-
-Link del mobile application: https://chemtrack-app.netlify.app/services
-
-Link de backend: #link
-
-Link de IoT: #link
+Link de web application: https://chemtrack-app.netlify.app/services
+Link del mobile application: https://drive.google.com/file/d/1Zb7HNpkLBJKW9ON0I5ydz33bGrYA59-D/view?usp=drive_link
+Link de backend: https://chemtrack-backend-production.up.railway.app/swagger-ui/index.html#/Sensors/getAllSensors
+Link de IoT: https://wokwi.com/projects/434116969269344257
+Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amazonaws.com:8162/admin/topics.jsp
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
