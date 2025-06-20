@@ -43,18 +43,25 @@ Profesor: León Baca, Marco Antonio
 ---
 # Project Report Collaboration Insights
 
-TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+**TB1:** Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: https://github.com/Chemtrack-Grupo4/report
 
-Registro de commits:
+*Registro de commits*
 ![image](https://github.com/user-attachments/assets/7010f212-ddcc-470e-b2df-781a12cbd85a)
 
-TP1: Se han desarrollado las actividades correspondientes para la entrega TP1 en el siguiente repositorio de GitHub dentro de la organización del equipo:
+**TP1:** Se han desarrollado las actividades correspondientes para la entrega TP1 en el siguiente repositorio de GitHub dentro de la organización del equipo:
 
 Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
 
-Registro de commits: 
+*Registro de commits*
 ![image](https://github.com/user-attachments/assets/6c0adc3c-c4fb-4cff-937b-ff5b1cbc21f6)
+
+**TB2:** Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de GitHub dentro de la organización del equipo:
+
+Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
+
+*Registro de commits*
+![image]()
 
 ---
 
