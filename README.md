@@ -4078,6 +4078,8 @@ A continuación, se diseñaron entrevistas dirigidas a los dos segmentos objetiv
 
 **Segmento objetivo: Transportistas**
 
+El objetivo de las preguntas del segmento objetivo de los transportistas es recopilar información valiosa desde su experiencia directa cuando interactúan con la plataforma ChemTrack. A través de sus respuestas, buscamos evaluar la usabilidad, claridad, rapidez de navegación y efectividad de las funcionalidades móviles y web para el monitoreo de servicios y el registro de incidentes.
+
 **Alcances de la demostración:**
 
 - Landing Page
@@ -4116,6 +4118,8 @@ A continuación, se diseñaron entrevistas dirigidas a los dos segmentos objetiv
 
 **Segmento objetivo: Empresas de transporte de productos peligrosos**
 
+Las preguntas dirigidas a las empresas de transporte de productos peligrosos tienen como finalidad entender el valor estratégico que aporta la plataforma ChemTrack a la gestión de operaciones, prevención de riesgos y toma de decisiones. A través de su visión administrativa y gerencial, buscamos validar si la información ofrecida por el sistema es suficiente, si la plataforma contribuye al control efectivo de incidentes y procesos, y qué funcionalidades adicionales podrían potenciar su uso como herramienta de monitoreo y prevención de riesgos.
+
 **Alcances de la demostración:**
 
 - Landing Page
@@ -4153,6 +4157,91 @@ A continuación, se diseñaron entrevistas dirigidas a los dos segmentos objetiv
 - ¿Qué tan fácil te resulta buscar la información que requieres dentro de la plataforma?
 
 ### 6.3.1. Registro de Entrevistas
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+***Primera Entrevista:***
+
+Nombres y apellidos: Astrid Boronda
+
+Edad: 20
+
+Inicio: 0:00
+
+Fin: 7:37
+
+Duración: 7:37
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+
+<img src="https://i.ibb.co/Fb0J1fZS/Captura-de-pantalla-2025-06-20-124726.png" alt="entrevista1e" border="0">
+
+Resumen:
+
+- Astrid trabaja en una empresa de transporte. Ella nos comentó acerca del diseño de la landing page, resaltando que el diseño le parece correcto, pero podría mejorar en el tamaño de la barra de navegación. En cuanto a la información, menciona que ofrece la información de los servicios que ofrece Chemtrack junto a testimonios, lo cual incremeta la confianza frente a los usuarios. Sobre la aplicación móvil, se requieren mejoras en el diseño, especificamente los colores que se presentan. La navegación es intuitiva tanto en la aplicación móvil como en la web, pero faltan más detalles o datos relacionados a los servicios, incidentes y empleados.
+
+***Segunda Entrevista:***
+
+Nombres y apellidos: Nataly Rodriguez
+
+Edad: 26
+
+Inicio: 7:37
+
+Fin: 13:41
+
+Duración: 06:04
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+
+<img src="https://i.ibb.co/Xfqyw0MR/Captura-de-pantalla-2025-06-20-125309.png" alt="entrevista2e" border="0"></a>
+
+Resumen:
+
+- Se entrevistó a Nataly de 26 años, trabajadora en una empresa de transporte. Según sus respuestas se puede percibir una respuesta mayormente positiva sobre Chemtrack. La Landing Page es vista como clara, profesional y confiable, aunque se sugiere complementar con un video explicativo y mejorar algunos elementos para dispositivos móviles. En cuanto a la aplicación móvil, se destaca su facilidad de uso, pero se recomienda implementar filtros y buscadores para localizar servicios e incidentes más eficientemente, así como ampliar la información mostrada. El diseño general es considerado adecuado y moderno. Respecto a la interfaz web, se valora su intuición y rapidez, aunque se sugiere un sistema de búsqueda más avanzado y un historial de acciones de los empleados. Finalmente, se propone agregar reportes automáticos y control de mantenimiento preventivo para mejorar la gestión integral.
+
+**Segmento objetivo: Transportistas**
+
+***Primera Entrevista:***
+
+Nombre: Ariana Rimache
+
+Edad: 21
+
+Inicio: 13:41
+
+Fin: 18:29
+
+Duración: 5:48
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+
+<img src="https://i.ibb.co/v6byZZnk/Captura-de-pantalla-2025-06-20-124124.png" alt="entrevista1t" border="0">
+
+Resumen:
+
+- Se entrevistó a Ariana, quien ha tenido una experiencia positiva con ChemTrack. Consideró que la Landing Page es clara, bien presentada y fácil de navegar, aunque sugirió mejorar la visualización en móviles. Destacó que la app móvil es intuitiva y funcional, aunque recomendó incluir filtros en el historial de incidentes y nuevas secciones como alertas en tiempo real o protocolos de seguridad. Propuso funcionalidades como notificaciones automáticas, registro de incidentes por sensores y mapa en tiempo real. La información de sensores fue calificada como clara, y la versión web como rápida y estable. En conjunto, señaló que ChemTrack ayuda a prevenir y gestionar incidentes de forma eficaz.
+
+***Segunda Entrevista:***
+
+Nombre: Karina Ramirez
+
+Edad: 36
+
+Inicio: 18:30
+
+Fin: 23:59
+
+Duración: 5:29
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+
+<img src="https://i.ibb.co/VW4Q5rsP/Captura-de-pantalla-2025-06-20-132414.png" alt="entrevista2t" border="0">
+
+Resumen:
+
+- Hemos entrevistado a Lisanne, quien mencionó que actualmente solo cuentan con un sistema de GPS para rastrear los vehículos y proporcionan un seguro de vida a los transportistas, pero no implementan medidas adicionales específicas para protegerlos. La capacitación que se ofrece es básica, enfocándose en evitar que la carga esté expuesta a fuentes de calor o movimientos bruscos, y se prefiere contratar conductores con experiencia. Además del GPS y los teléfonos entregados por la empresa, no utilizan tecnologías adicionales para garantizar la seguridad de las cargas.
+
 ### 6.3.1. Evaluaciones según heurísticas
 
 #### <div align="center">UX Heuristics & Principles Evaluation</div>
