@@ -3838,6 +3838,372 @@ Link de IoT: #link
 **Contributors**
 ![image](https://github.com/user-attachments/assets/06d7cf2c-585b-4801-ac55-a7509aa09928)
 
+## 6.3. Validation Interviews
+### 6.3.1. Diseño de Entrevistas
+A continuación, se diseñaron entrevistas dirigidas a los dos segmentos objetivos definidos para el proyecto. Las preguntas fueron elaboradas con el objetivo de identificar fortalezas y oportunidades de mejora en la plataforma teniendo en cuenta aspectos como experiencia de uso, percepción del diseño y utilidad de la información. Cabe mencionar que las preguntas de introducción no están incluidas en esta lista; sin embargo, se realizarán al inicio de cada entrevista.
+
+**Segmento objetivo: Transportistas**
+
+**Alcances de la demostración:**
+
+- Landing Page
+- Principales tareas en la app movil
+- Principales secciones de la app web
+
+**Preguntas prinicipales**
+
+- ¿Consideras que el landing page ofrece toda la información necesaria para entender el propósito y funcionalidades ofrecidas por la aplicación para obtener información de sensores y registrar incidentes?
+
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+
+- ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+
+- Con respecto a la aplicación móvil, ¿consideras que el proceso para agregar un nuevo servicio e incidente es intuitivo?
+
+- ¿La información de los incidentes y servicios que se visualiza es suficiente? ¿Qué otros datos te gustaría visualizar?
+
+- ¿Qué opinas acerca de la distribución de secciones en la aplicación móvil? ¿Agregarías más secciones? ¿Cuáles?
+
+- ¿Cómo describirías nuestra aplicación móvil en pocas palabras?
+
+- De todas las características evidenciadas en la aplicación móvil para agregar y registrar incidentes, ¿cuál crees que debería mejorarse? ¿Por qué?
+
+- ¿Qué nuevas funcionalidades relacionadas al monitoreo de sensores o al registro de incidentes consideras útiles en el contexto del transporte de combustibles peligrosos?
+
+- ¿Consideras que el diseño de la aplicación móvil es adecuado?
+
+- ¿La información de monitoreo de sensores es clara y útil para la toma de decisiones? ¿Qué detalles adicionales te gustaría ver?
+
+- ¿La navegación para acceder a diferentes secciones (sensores, incidentes, reportes) te resultó fácil y rápida?
+
+- ¿Consideras que la aplicación web responde de manera adecuada y rápida a tus acciones (ej. carga de datos, actualización de información)?
+
+- ¿Sientes que la aplicación ayuda a prevenir o manejar mejor los incidentes relacionados con el transporte? ¿De qué manera?
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+**Alcances de la demostración:**
+
+- Landing Page
+- Principales tareas en la app movil
+- Principales secciones de la app web
+
+**Preguntas prinicipales**
+
+- ¿Consideras atractiva la manera en la que el producto ChemTrack está promocionado en la Landing Page?
+
+- ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamiento, propósito y funcionalidades ofrecidas?
+
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+
+- ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+
+- Del 1 al 10, ¿cómo calificarías el diseño de la Landing Page?
+
+- Con respecto a la aplicación móvil, ¿consideras que es complicado encontrar un servicio realizado?
+
+- ¿Los detalles de los servicios y de los incidentes son adecuados en las secciones? ¿Qué otros apartados te gustaría visualizar?
+
+- ¿Qué características específicas deseas que agreguemos a la aplicación móvil?
+
+- De todas las características evidenciadas en la aplicación móvil, ¿cuál crees que debería mejorarse? ¿Por qué?
+
+- ¿Consideras que el diseño es adecuado?
+
+- ¿La interfaz web te parece intuitiva y rápida de usar? ¿Qué mejorarías?
+  
+- ¿Te parece útil la visualización de empleados dentro de la plataforma? ¿La información mostrada es suficiente para tus necesidades?
+  
+- ¿La aplicación te permite controlar y monitorear fácilmente los procesos que gestionas? ¿Qué funcionalidades te gustaría que se añadieran para mejorar el control?
+  
+- ¿Qué tan fácil te resulta buscar la información que requieres dentro de la plataforma?
+
+### 6.3.1. Registro de Entrevistas
+### 6.3.1. Evaluaciones según heurísticas
+
+#### <div align="center">UX Heuristics & Principles Evaluation</div>
+
+##### <div align="center">Usability – Inclusive Design – Information Architecture</div>
+
+<b> Carrera: </b> Ingeniería de Software  
+<b> Curso: </b> Desarrollo de Soluciones IoT  
+<b> Sección: </b> 2939 
+
+<b> <em> SITE O APP A EVALUAR: </em> </b> <br>
+Chemtrack  
+
+<b> <em> TAREAS A EVALUAR: </em> </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Web Application
+   - Registro de un usuario nuevo
+   - Inicio de sesión de usuario existente
+   - Añadir nuevo servicio
+   - Añadir nuevo delivery
+   - Añadir nuevo incidente
+   - Visualización de empleados
+   - Visualización de detalles de deliveries
+   - Visualización de monitoreo de sensores
+
+- Mobile Application
+   - Añadir nuevo servicio
+   - Añadir nuevo incidente
+   - Visualización de detalles de deliveries
+   - Aceptar o rechazar deliveries
+   - Búsqueda de servicios, deliveries e incidentes
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+- Registro de usuario e inicio de sesión en aplicación móvil
+- Gestión de notificaciones
+- Opciones de ayuda y soporte
+
+<b> <em> ESCALA DE SEVERIDAD: </em> </b> <br>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>
+            <b>Nivel</b>
+        </th>
+        <th>
+            Descripción
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <b>1</b>
+        </td>
+        <td align="left">
+            Problema superficial: Puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>2</b>
+        </td>
+        <td align="left">
+            Problema menor: Ocurre más frecuentemente o es un poco más difícil de superar para el usuario. Debería asignarse una prioridad baja para resolverlo en una futura versión.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>3</b>
+        </td>
+        <td align="left">
+            Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y debe asignársele una prioridad alta.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>4</b>
+        </td>
+        <td align="left">
+            Problema muy grave: Un error crítico que impide al usuario continuar utilizando la herramienta. Es imperativo que se corrija antes del lanzamiento.
+        </td>
+    </tr>
+</table>
+
+<b> <em> TABLA DE RESUMEN: </em> </b> <br>
+La siguiente tabla resume los resultados de la evaluación:
+
+- Web Application
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>#</th>
+        <th>Problema</th>
+        <th>Escala de severidad</th>
+        <th>Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td align="left">Mensajes de error poco claros</td>
+        <td>3</td>
+        <td align="left">Usabilidad - Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td align="left">Falta de opción para mostrar la contraseña</td>
+        <td>2</td>
+        <td align="left">Usabilidad - Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td align="left">Falta de opciones para categorizar el incidente</td>
+        <td>2</td>
+        <td align="left">Arquitectura de la Información: Is it usable?</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td align="left">No hay opción para editar la información del empleado</td>
+        <td>2</td>
+        <td align="left">Usabilidad - Control y libertad del usuario</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td align="left">Falta de indicadores de estado de entrega</td>
+        <td>3</td>
+        <td align="left">Usabilidad - Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td align="left">No se muestran las imágenes de los empleados en el listado</td>
+        <td>2</td>
+        <td align="left">Arquitectura de la Información: Is it understandable?</td>
+    </tr>
+</table>
+
+- Mobile Application
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>#</th>
+        <th>Problema</th>
+        <th>Escala de severidad</th>
+        <th>Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td align="left">No hay confirmación tras registrar un servicio</td>
+        <td>3</td>
+        <td align="left">Usabilidad - Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td align="left">No se ofrece lista de tipos de incidente predefinidos</td>
+        <td>2</td>
+        <td align="left">Usabilidad - Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td align="left">No hay distinción visual entre servicios activos y completados</td>
+        <td>3</td>
+        <td align="left">Arquitectura de la Información: Is it organized?</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td align="left">No hay mensaje de confirmación tras aceptar</td>
+        <td>3</td>
+        <td align="left">Usabilidad - Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td align="left">No se puede deshacer la acción</td>
+        <td>3</td>
+        <td align="left">Usabilidad - Control y libertad del usuario</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td align="left">El campo de búsqueda no diferencia entre tipos de contenido</td>
+        <td>3</td>
+        <td align="left">Arquitectura de la Información: Is it findable?</td>
+    </tr>
+</table>
+
+<b> <em> DESCRIPCIÓN DEL PROBLEMA: </em> </b> <br>
+
+- Web Application
+
+**PROBLEMA #1:** Mensajes de error poco claros  
+<b>Severidad:</b> 3  
+<b>Heurística violada:</b> Usabilidad - Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores  
+<b>Problema:</b>  
+Los mensajes de error al ingresar credenciales incorrectas son genéricos y no indican cuál fue el problema específico.  
+<b>Recomendación:</b>  
+Proporcionar mensajes de error específicos, como "Usuario no encontrado" o "Contraseña incorrecta", para ayudar al usuario a identificar y corregir el error. <br>
+
+**PROBLEMA #2:** Falta de opción para mostrar la contraseña<br>
+<b>Severidad:</b> 2  
+<b>Heurística violada:</b> Usabilidad - Flexibilidad y eficiencia de uso  
+<b>Problema:</b>  
+No se ofrece una opción para mostrar la contraseña mientras se escribe, lo que puede llevar a errores al ingresar la contraseña <br>
+<b>Recomendación:</b>  
+Incluir un ícono de ojo para permitir al usuario ver la contraseña mientras la escribe. <br>
+
+**PROBLEMA #3:**  Falta de opciones para categorizar el incidente  
+<b>Severidad:</b> 2<br>
+<b>Heurística violada:</b> Arquitectura de la Información: Is it usable?<br>
+<b>Problema:</b>  
+No se ofrecen opciones para categorizar el incidente, lo que puede dificultar su clasificación y seguimiento.  
+<b>Recomendación:</b>  
+Incluir un campo desplegable o un conjunto de botones para categorizar el incidente. <br>
+
+**PROBLEMA #4:** No hay opción para editar la información del empleado  
+<b>Severidad:</b> 2  
+<b>Heurística violada:</b> Usabilidad - Control y libertad del usuario  
+<b>Problema:</b>  
+Una vez que la información del empleado ha sido añadida, no se ofrece una opción para editarla. 
+<b>Recomendación:</b>  
+Permitir la edición de la información del empleado desde la interfaz de usuario. <br>
+
+**PROBLEMA #5:** Falta de indicadores de estado de entrega<br>
+<b>Severidad:</b> 3  
+<b>Heurística violada:</b> Usabilidad - Visibilidad del estado del sistema  
+<b>Problema:</b>  
+No se proporcionan indicadores claros del estado de cada entrega (por ejemplo, "En camino", "Entregado"). <br>
+<b>Recomendación:</b>  
+Incluir indicadores visuales del estado de cada entrega en la pantalla principal. <br>
+
+**PROBLEMA #6:** No se muestran las imágenes de los empleados en el listado  
+<b>Severidad:</b> 2 <br>
+<b>Heurística violada:</b> Arquitectura de la Información: Is it understandable?<br>
+<b>Problema:</b>  
+La sección de empleados muestra solo nombres y datos básicos sin incluir la imagen del empleado. Esto dificulta la identificación visual rápida, especialmente en equipos grandes, y reduce la conexión humana que ayuda a reconocer personas en la organización.  
+<b>Recomendación:</b>  
+Incorporar imágenes o avatares de los empleados junto a sus nombres. Si por razones de privacidad no se puede mostrar la foto real, usar avatares personalizados o íconos que ayuden a la diferenciación visual. <br>
+
+- Mobile Application
+
+**PROBLEMA #1:** No hay confirmación tras registrar un servicio  
+<b>Severidad:</b> 3  
+<b>Heurística violada:</b> Usabilidad - Visibilidad del estado del sistema  
+<b>Problema:</b>  
+No se muestra un mensaje de éxito o alerta visual clara luego de añadir el servicio.<br>
+<b>Recomendación:</b>  
+Mostrar un snackbar o modal de confirmación (“Servicio registrado exitosamente”). <br>
+
+**PROBLEMA #2:** No se ofrece lista de tipos de incidente predefinidos<br>
+<b>Severidad:</b> 2  
+<b>Heurística violada:</b> Usabilidad - Flexibilidad y eficiencia de uso  
+<b>Problema:</b>  
+Se debe escribir manualmente el tipo de incidente, sin sugerencias ni autocompletado.
+<b>Recomendación:</b>  
+Incluir desplegable con tipos frecuentes (fuga, explosión, temperatura, etc.). <br>
+
+**PROBLEMA #3:**  No hay distinción visual entre servicios activos y completados  
+<b>Severidad:</b> 3<br>
+<b>Heurística violada:</b> Arquitectura de la Información: Is it organized?<br>
+<b>Problema:</b>  
+Todas las entregas aparecen visualmente iguales, lo cual dificulta el reconocimiento de los estados de las entregas.<br>
+<b>Recomendación:</b>  
+Usar colores, etiquetas o secciones para separarlas por estado. <br>
+
+**PROBLEMA #4:** No hay mensaje de confirmación tras aceptar  
+<b>Severidad:</b> 3 <br>
+<b>Heurística violada:</b> Usabilidad - Visibilidad del estado del sistema  
+<b>Problema:</b>  
+El sistema no informa si la acción de aceptar una entrega fue exitosa ni qué cambia después.
+<b>Recomendación:</b>  
+Mostrar mensaje de éxito (“Entrega asignada”) y actualizar la lista en tiempo real. <br>
+
+**PROBLEMA #5:** No se puede deshacer la acción<br>
+<b>Severidad:</b> 3 <br>
+<b>Heurística violada:</b> Usabilidad - Control y libertad del usuario <br>
+<b>Problema:</b>  
+Una vez que se acepta o rechaza, no hay opción de revertir, tampoco hay un cuadro de diálogo para confirmar la eliminación de una entrega.<br>
+<b>Recomendación:</b>  
+Agregar botón de “deshacer” o confirmación previa. <br>
+
+**PROBLEMA #6:** El campo de búsqueda no diferencia entre tipos de contenido <br>
+<b>Severidad:</b> 3 <br>
+<b>Heurística violada:</b> Arquitectura de la Información: Is it usable?<br>
+<b>Problema:</b>  
+Al buscar no está claro si se está filtrando por nombre, tipo, fecha o ubicación, lo cual complica la búsqueda de algún elemento<br>
+<b>Recomendación:</b>  
+Añadir filtros o placeholders específicos (ej. “Buscar por nombre o tipo…”).<br>
+
+## 6.4. Video About-the-Product
+
 # Conclusiones
 ## Conclusiones y Recomendaciones
 
