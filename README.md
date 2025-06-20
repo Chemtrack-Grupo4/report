@@ -4028,9 +4028,11 @@ Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amaz
 >**Pulse**
 
 **Frontend**
+
 ![image](https://github.com/user-attachments/assets/39d31df0-be02-4f36-ab3e-7dbabce2ea2e)
 
 **Backend**
+
 ![image](https://github.com/user-attachments/assets/5a92a8e8-8461-4c02-958c-e1759071afb9)
 
 
@@ -4042,24 +4044,30 @@ Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amaz
 >**Network**
 
 **Frontend**
+
 ![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
 
 **Backend**
+
 ![image](https://github.com/user-attachments/assets/02fb1b6c-b316-404b-9b58-68c0b7cb3ff1)
 
 **Mobile**
+
 ![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
 
 
 >**Contributors**
 
 **Frontend**
+
 ![image](https://github.com/user-attachments/assets/06d7cf2c-585b-4801-ac55-a7509aa09928)
 
 **Backend**
+
 ![image](https://github.com/user-attachments/assets/30b9cfdd-d2b0-4fb3-9c34-b22eae6ee4e7)
 
 **Mobile**
+
 ![image](https://github.com/user-attachments/assets/c335ebe4-27c9-47d2-b7e6-e36ab04ad0f3)
 
 
