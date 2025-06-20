@@ -4025,13 +4025,21 @@ Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amaz
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
-**Pulse**
+>**Pulse**
+
+**Frontend**
 ![image](https://github.com/user-attachments/assets/39d31df0-be02-4f36-ab3e-7dbabce2ea2e)
 
-**Network**
+**Backend**
+
+**Mobile**
+
+>**Network**
+
 ![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
 
-**Contributors**
+>**Contributors**
+
 ![image](https://github.com/user-attachments/assets/06d7cf2c-585b-4801-ac55-a7509aa09928)
 
 ## 6.3. Validation Interviews
