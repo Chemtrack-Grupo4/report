@@ -4202,7 +4202,7 @@ Usar colores, etiquetas o secciones para separarlas por estado. <br>
 <b>Problema:</b>  
 El sistema no informa si la acción de aceptar una entrega fue exitosa ni qué cambia después.
 <b>Recomendación:</b>  
-Mostrar mensaje de éxito (“Entrega asignada”) y actualizar la lista en tiempo real. <br>
+Mostrar mensaje de éxito (“Entrega asignada”) y actualizar la lista de entregas en tiempo real. <br>
 
 <img src="https://i.ibb.co/CpppQtN8/Captura-de-pantalla-2025-06-19-205429.png" alt="mob-problem4" border="0"><br>
 
