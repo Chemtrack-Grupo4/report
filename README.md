@@ -30,7 +30,7 @@ Profesor: León Baca, Marco Antonio
 | Huarcaya Quispe, Niurka Lucero               | U20221B226    |
 
 
-Abril del 2025
+20 de Junio del 2025
 
 ---
 # Registro de Versiones del Informe
@@ -39,6 +39,7 @@ Abril del 2025
 | - | - | - | - |
 | 1.00 | 24/04/2025 | Todos los integrantes del equipo  | Se desarrolló la descripción del startup Chemtrack, presentando a los integrantes del equipo, la problemática a resolver y el análisis del mercado, incluyendo a la competencia y el valor agregado que ofrece nuestra solución dentro del nicho. Además, se definieron la visión y objetivos del proyecto, el segmento objetivo y se propuso una solución tecnológica basada en IoT para el monitoreo seguro del transporte de materiales peligrosos, sentando así las bases para el desarrollo futuro del sistema. Luego se implementó los demás artefactos necesarios para realizar una base sólida para la arquitectura, implementación, validación y desarrollo de ChemTrack.   |
 | 2.00 | 14/05/2025 | Todos los integrantes del equipo  | Se levantaron las correcciones de la entrega pasada, se realizaron y definieron los style guideline, las cualidades core de nuestro sistema para garantizar una interfaz interactiva y limpia, se realizaron los mockups, wireframes junto con los wireflows y userflows. Finalmente se obtuvo el prototipo de mobile, landing y desktop con el cual se planificó el sprint 1  y su respectivo desarrollo junto con el sprint backlog 1, development, execution, testing y los demás artefactos disponibles en el presente proyecto. Se desarrolló e implementó la landing page como el primer prototipo web de Chemtrack y se prosiguió con su despliegue.   |
+| 2.00 | 20/06/2025 | Todos los integrantes del equipo | Se levantaron las observaciones de la entrega anterior y se desarrolló la versión final del landing page y del frontend de la página web. Además, se implementaron las funcionalidades core del sistema para asegurar una interfaz interactiva y limpia en esta primera versión de backend, edge, mobile y embebido. Finalmente, se realizó el despliegue de cada uno de los artefactos, documentándolo como parte del desarrollo del Sprint 2. También se llevaron a cabo las entrevistas de validación con Chemtrack, se aplicaron las heurísticas de evaluación, se elaboró el video "About the Product" y se actualizaron las conclusiones y recomendaciones. |
 ---
 # Project Report Collaboration Insights
 
