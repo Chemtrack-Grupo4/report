@@ -3796,7 +3796,7 @@ Link de repositorio: https://github.com/Chemtrack-Grupo4/chemtrack-testing
 
 En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
 
-**Landing page**
+>**Landing page**
 
 - Versión Final
 - Estado: En producción activa
@@ -3809,7 +3809,7 @@ Demostración del contenido de Landing Page y su conexión con la página web de
 
 [Enlace de video](https://youtu.be/iZ1wX6IyvGI)
 
-**Frontend**
+>**Frontend**
 
 - Versión Final
 - Estado: En producción activa
@@ -3820,7 +3820,7 @@ Demostración del contenido de Landing Page y su conexión con la página web de
 ![image](https://github.com/user-attachments/assets/ba75656d-0b2b-4138-907f-8fa107e8c399)
 ![image](https://github.com/user-attachments/assets/f9631fb8-8240-4173-a67c-2a3e5bd76886)
 
-**Backend**
+>**Backend**
 
 - Versión Inicial
 - Estado: En producción activa
@@ -3849,19 +3849,19 @@ Demostración del funcionamiento de los endpoints a través de postman
 
 [Enlace del video](https://youtu.be/UDbjgP1GyrI)
 
-**Mobile**
+>**Mobile**
 - Versión Inicial
 - Estado: Desplegado en apk
 ![image](https://github.com/user-attachments/assets/38aa8b3a-1d0a-4bc6-9b7d-71d6ffb3f390)
 
-**IoT Embedded**
+>**IoT Embedded**
 - Versión Inicial
 - Estado: Simulado en Wokwi e integrado con broker MQTT
 
 ![Imagen de WhatsApp 2025-06-18 a las 21 53 50_c4c6f0c1](https://github.com/user-attachments/assets/f3b9f7b5-c4df-4104-903a-b7897d88e73a)
 [Enlace de demostración de su funcionamiento](https://youtu.be/mHsDo7mMxjk?si=jYEzVz3hB8E_QJCo)
 
-**Edge**
+>**Edge**
 - Versión Inicial
 - Estado: Desplegado en AWS
 
@@ -3891,7 +3891,8 @@ Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gest
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
->**Despliegue de Landing Page**  
+>**Despliegue de Landing Page** 
+
 La Landing Page fue desplegada utilizando **GitHub Pages**, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (`main` o `gh-pages`) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
 
 ![github](https://github.com/user-attachments/assets/73bd7cc4-21c8-4b74-8825-5187511ba209)
