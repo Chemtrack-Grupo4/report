@@ -4102,7 +4102,7 @@ La siguiente tabla resume los resultados de la evaluación:
 
 <b> <em> DESCRIPCIÓN DEL PROBLEMA: </em> </b> <br>
 
-- Web Application
+**- Web Application**
 
 **PROBLEMA #1:** Mensajes de error poco claros  
 <b>Severidad:</b> 3  
@@ -4112,6 +4112,8 @@ Los mensajes de error al ingresar credenciales incorrectas son genéricos y no i
 <b>Recomendación:</b>  
 Proporcionar mensajes de error específicos, como "Usuario no encontrado" o "Contraseña incorrecta", para ayudar al usuario a identificar y corregir el error. <br>
 
+<img src="https://i.ibb.co/DDNWkHB4/Captura-de-pantalla-2025-06-09-005016.png" alt="web-problem1" border="0"><br>
+
 **PROBLEMA #2:** Falta de opción para mostrar la contraseña<br>
 <b>Severidad:</b> 2  
 <b>Heurística violada:</b> Usabilidad - Flexibilidad y eficiencia de uso  
@@ -4119,6 +4121,8 @@ Proporcionar mensajes de error específicos, como "Usuario no encontrado" o "Con
 No se ofrece una opción para mostrar la contraseña mientras se escribe, lo que puede llevar a errores al ingresar la contraseña <br>
 <b>Recomendación:</b>  
 Incluir un ícono de ojo para permitir al usuario ver la contraseña mientras la escribe. <br>
+
+<img src="https://i.ibb.co/S7WmzFGH/Captura-de-pantalla-2025-06-09-005325.png" alt="web-problem2" border="0"><br>
 
 **PROBLEMA #3:**  Falta de opciones para categorizar el incidente  
 <b>Severidad:</b> 2<br>
@@ -4128,6 +4132,8 @@ No se ofrecen opciones para categorizar el incidente, lo que puede dificultar su
 <b>Recomendación:</b>  
 Incluir un campo desplegable o un conjunto de botones para categorizar el incidente. <br>
 
+<img src="https://i.ibb.co/DDXBfTCJ/Captura-de-pantalla-2025-06-09-005627.png" alt="web-problem3" border="0"><br>
+
 **PROBLEMA #4:** No hay opción para editar la información del empleado  
 <b>Severidad:</b> 2  
 <b>Heurística violada:</b> Usabilidad - Control y libertad del usuario  
@@ -4135,6 +4141,8 @@ Incluir un campo desplegable o un conjunto de botones para categorizar el incide
 Una vez que la información del empleado ha sido añadida, no se ofrece una opción para editarla. 
 <b>Recomendación:</b>  
 Permitir la edición de la información del empleado desde la interfaz de usuario. <br>
+
+<img src="https://media.discordapp.net/attachments/1364445917452697683/1381341024118378506/image.png?ex=6855aa14&is=68545894&hm=60762ed73edb340afc554907d9bbe50c5d55aacef4ead0f9c40ca87ab3435c11&=&format=webp&quality=lossless&width=1236&height=823" alt="web-problem4" border="0"><br>
 
 **PROBLEMA #5:** Falta de indicadores de estado de entrega<br>
 <b>Severidad:</b> 3  
@@ -4144,6 +4152,8 @@ No se proporcionan indicadores claros del estado de cada entrega (por ejemplo, "
 <b>Recomendación:</b>  
 Incluir indicadores visuales del estado de cada entrega en la pantalla principal. <br>
 
+<img src="https://media.discordapp.net/attachments/1364445917452697683/1381340703304716418/image.png?ex=6855a9c7&is=68545847&hm=583c8c650bb070c8173569b8a60d16bfe171d556f5ef435897c0be244133bc24&=&format=webp&quality=lossless&width=1238&height=823" alt="web-problem5" border="0"><br>
+
 **PROBLEMA #6:** No se muestran las imágenes de los empleados en el listado  
 <b>Severidad:</b> 2 <br>
 <b>Heurística violada:</b> Arquitectura de la Información: Is it understandable?<br>
@@ -4152,7 +4162,9 @@ La sección de empleados muestra solo nombres y datos básicos sin incluir la im
 <b>Recomendación:</b>  
 Incorporar imágenes o avatares de los empleados junto a sus nombres. Si por razones de privacidad no se puede mostrar la foto real, usar avatares personalizados o íconos que ayuden a la diferenciación visual. <br>
 
-- Mobile Application
+<img src="https://media.discordapp.net/attachments/1364445917452697683/1381341024118378506/image.png?ex=6855aa14&is=68545894&hm=60762ed73edb340afc554907d9bbe50c5d55aacef4ead0f9c40ca87ab3435c11&=&format=webp&quality=lossless&width=1236&height=823" alt="web-problem6" border="0"><br>
+
+**- Mobile Application**
 
 **PROBLEMA #1:** No hay confirmación tras registrar un servicio  
 <b>Severidad:</b> 3  
@@ -4162,6 +4174,8 @@ No se muestra un mensaje de éxito o alerta visual clara luego de añadir el ser
 <b>Recomendación:</b>  
 Mostrar un snackbar o modal de confirmación (“Servicio registrado exitosamente”). <br>
 
+<img src="https://i.ibb.co/0RV8Fy9X/Captura-de-pantalla-2025-06-19-185601.png" alt="mob-problem1" border="0"><br>
+
 **PROBLEMA #2:** No se ofrece lista de tipos de incidente predefinidos<br>
 <b>Severidad:</b> 2  
 <b>Heurística violada:</b> Usabilidad - Flexibilidad y eficiencia de uso  
@@ -4169,6 +4183,8 @@ Mostrar un snackbar o modal de confirmación (“Servicio registrado exitosament
 Se debe escribir manualmente el tipo de incidente, sin sugerencias ni autocompletado.
 <b>Recomendación:</b>  
 Incluir desplegable con tipos frecuentes (fuga, explosión, temperatura, etc.). <br>
+
+<img src="https://i.ibb.co/cPdj06G/Captura-de-pantalla-2025-06-19-185638.png" alt="mob-problem2" border="0"><br>
 
 **PROBLEMA #3:**  No hay distinción visual entre servicios activos y completados  
 <b>Severidad:</b> 3<br>
@@ -4178,6 +4194,8 @@ Todas las entregas aparecen visualmente iguales, lo cual dificulta el reconocimi
 <b>Recomendación:</b>  
 Usar colores, etiquetas o secciones para separarlas por estado. <br>
 
+<img src="https://i.ibb.co/8nj3mdWD/Captura-de-pantalla-2025-06-19-205349.png" alt="mob-problem3" border="0"><br>
+
 **PROBLEMA #4:** No hay mensaje de confirmación tras aceptar  
 <b>Severidad:</b> 3 <br>
 <b>Heurística violada:</b> Usabilidad - Visibilidad del estado del sistema  
@@ -4185,6 +4203,8 @@ Usar colores, etiquetas o secciones para separarlas por estado. <br>
 El sistema no informa si la acción de aceptar una entrega fue exitosa ni qué cambia después.
 <b>Recomendación:</b>  
 Mostrar mensaje de éxito (“Entrega asignada”) y actualizar la lista en tiempo real. <br>
+
+<img src="https://i.ibb.co/CpppQtN8/Captura-de-pantalla-2025-06-19-205429.png" alt="mob-problem4" border="0"><br>
 
 **PROBLEMA #5:** No se puede deshacer la acción<br>
 <b>Severidad:</b> 3 <br>
@@ -4194,6 +4214,8 @@ Una vez que se acepta o rechaza, no hay opción de revertir, tampoco hay un cuad
 <b>Recomendación:</b>  
 Agregar botón de “deshacer” o confirmación previa. <br>
 
+<img src="https://i.ibb.co/23QyfRzk/Captura-de-pantalla-2025-06-19-205611.png" alt="mob-problem5" border="0"><br>
+
 **PROBLEMA #6:** El campo de búsqueda no diferencia entre tipos de contenido <br>
 <b>Severidad:</b> 3 <br>
 <b>Heurística violada:</b> Arquitectura de la Información: Is it usable?<br>
@@ -4201,6 +4223,8 @@ Agregar botón de “deshacer” o confirmación previa. <br>
 Al buscar no está claro si se está filtrando por nombre, tipo, fecha o ubicación, lo cual complica la búsqueda de algún elemento<br>
 <b>Recomendación:</b>  
 Añadir filtros o placeholders específicos (ej. “Buscar por nombre o tipo…”).<br>
+
+<img src="https://i.ibb.co/5xXkSYbf/Captura-de-pantalla-2025-06-19-205745.png" alt="mob-problem6" border="0"><br>
 
 ## 6.4. Video About-the-Product
 
