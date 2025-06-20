@@ -3568,7 +3568,7 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
   
 <br>
 
-- Repositorio Mobile: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+- Repositorio Mobile: https://github.com/Chemtrack-Grupo4/chemtrack-mobileapp
   
 <br>
 
