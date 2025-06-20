@@ -4011,10 +4011,15 @@ Este despliegue permitió a los usuarios evaluar las funcionalidades implementad
 ![Imagen de WhatsApp 2025-06-19 a las 22 40 12_6e97f421](https://github.com/user-attachments/assets/0d4b2b4f-aa55-43c9-b206-b451c01e2538)
 
 Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
+
 Link de web application: https://chemtrack-app.netlify.app/services
+
 Link del mobile application: https://drive.google.com/file/d/1Zb7HNpkLBJKW9ON0I5ydz33bGrYA59-D/view?usp=drive_link
+
 Link de backend: https://chemtrack-backend-production.up.railway.app/swagger-ui/index.html#/Sensors/getAllSensors
+
 Link de IoT: https://wokwi.com/projects/434116969269344257
+
 Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amazonaws.com:8162/admin/topics.jsp
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
