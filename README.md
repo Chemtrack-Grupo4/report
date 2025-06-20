@@ -3546,7 +3546,7 @@ Mejora del Landing Page, Frontend(Web y Mobile) e implementación del Backend y 
 </tbody>
 </table>
 
-Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como los que vienen en las próximas iteracciones. Como resultado se obtuvo 37 tasks para el presente sprint.
+Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como los que vienen en las próximas iteracciones. Como resultado se obtuvo 33 tasks para el presente sprint.
 
 ![image](https://github.com/user-attachments/assets/7191c51b-dfb7-4ec7-b3c7-c1635e23ad9b)
 
