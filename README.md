@@ -3897,7 +3897,7 @@ La Landing Page fue desplegada utilizando **GitHub Pages**, lo que permitió alo
 ![github](https://github.com/user-attachments/assets/73bd7cc4-21c8-4b74-8825-5187511ba209)
 [Enlace de video](https://youtu.be/iZ1wX6IyvGI)
 
-> **Despliegue del Frontend**
+>**Despliegue del Frontend**
 
 Para la aplicación principal desarrollada en Angular, se utilizó **Netlify** como plataforma de despliegue debido a su integración continua y facilidad de configuración.
 
@@ -3917,7 +3917,7 @@ De esta manera, el avance del **Sprint 2** quedó funcional y disponible públic
 
 ![image](https://github.com/user-attachments/assets/a1e99f7f-b64f-43fc-9b08-a09f93a62f4d)
 
-> **Despliegue del Backend**
+>**Despliegue del Backend**
 
 **Configuración del repositorio**
    - Se aseguró que el repositorio de backend estuviera limpio y contuviera todos los archivos necesarios para el build.
@@ -3943,7 +3943,7 @@ Aquí se hace presente el video demostrando el funcionamiento del despliegue del
 
 [Enlace del video](https://youtu.be/UDbjgP1GyrI)
 
-> **Despliegue de Edge**
+>**Despliegue de Edge**
 
 El sistema **Edge** fue desplegado en **Amazon Web Services (AWS)** para interactuar con dispositivos **IoT** y gestionar mensajes mediante el protocolo **MQTT**.
 
@@ -3991,7 +3991,7 @@ Permite tráfico TCP desde `0.0.0.0/0` a:
 [Enlace del video](https://youtu.be/mHsDo7mMxjk)
 
 
-> **Despliegue del Mobile***
+>**Despliegue del Mobile***
 
 Para el despliegue de la aplicación móvil, se generó el archivo APK utilizando Flutter. Esto se logró mediante el siguiente comando:
 
