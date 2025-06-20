@@ -4031,6 +4031,7 @@ Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amaz
 ![image](https://github.com/user-attachments/assets/39d31df0-be02-4f36-ab3e-7dbabce2ea2e)
 
 **Backend**
+![image](https://github.com/user-attachments/assets/5a92a8e8-8461-4c02-958c-e1759071afb9)
 
 
 **Mobile**
@@ -4456,7 +4457,7 @@ Añadir filtros o placeholders específicos (ej. “Buscar por nombre o tipo…�
 # Conclusiones
 ## Conclusiones y Recomendaciones
 
-En esta primera entrega, se llevaron a cabo actividades orientadas a la captura de requisitos y la definición de la solución tecnológica. Se estableció el dominio del negocio, identificando la problemática a resolver, los segmentos objetivo y los requisitos clave, así como la elaboración de user stories. Además, se diseñó la versión inicial de la arquitectura del sistema, utilizando metodologías de Domain Driven Design como EventStorming y Bounded Context Canvas. Estos avances sentaron las bases sólidas para el desarrollo de la arquitectura de la solución propuesta.
+En las presentes entregas, se llevaron a cabo actividades orientadas a la captura de requisitos y la definición de la solución tecnológica. Se estableció el dominio del negocio, identificando la problemática a resolver, los segmentos objetivo y los requisitos clave, así como la elaboración de user stories. Además, se diseñó la versión inicial de la arquitectura del sistema, utilizando metodologías de Domain Driven Design como EventStorming y Bounded Context Canvas. Estos avances sentaron las bases sólidas para el desarrollo de la arquitectura de la solución propuesta.
 
 Como equipo llegamos a las siguientes conclusiones:
 
@@ -4464,6 +4465,8 @@ Como equipo llegamos a las siguientes conclusiones:
 - El realizar todas las secciones previstas en este sistema se brindó una visión compartida del problema y sus posibles soluciones, además de  un avance clave que facilitará futuras iteraciones de diseño, implementación y validación de ChemTrack.
 - La planificación y ejecución del Sprint 1 permitió establecer una base sólida para el desarrollo del proyecto, facilitando la identificación temprana de los elementos faltantes y el enfoque necesario para avanzar de forma estructurada.
 - El desarrollo del Sprint Backlog fue clave para priorizar las tareas más relevantes, lo que permitió entregar una primera versión funcional del prototipo, centrada en los pilares del sistema.
+- Durante el srpint 2, se logró desplegar la versión final del frontend (web app y landing page), así como la primera versión funcional de los módulos Mobile, IoT y Edge, permitiendo validar integralmente los principales componentes del sistema ChemTrack.
+- Se completaron tareas clave como el despliegue de servicios web en entornos reales, la generación de artefactos móviles (APK), la implementación del canal de comunicación mediante MQTT entre dispositivos IoT y el backend, y la configuración del entorno de edge computing sobre AWS. Estas entregas representan una base operativa robusta sobre la cual se continuará construyendo en sprints futuros.
 
 Por otro lado recomendaríamos que: 
 
@@ -4472,32 +4475,10 @@ Por otro lado recomendaríamos que:
 - El trabajo en equipo fue uno de los factores más importantes en esta etapa. La distribución equitativa de tareas y el cumplimiento de los plazos demostraron una coordinación efectiva y compromiso por parte de todos los integrantes.
 - La entrega de la landing page y del primer prototipo web permitió visualizar el rumbo del proyecto y validar aspectos clave de la propuesta inicial, sirviendo como punto de partida para las siguientes iteraciones.
 - Esta primera fase también sirvió para fortalecer la comunicación, organización y adaptabilidad del equipo, competencias esenciales para los próximos sprints.
-
-En esta segunda entrega, se consolidaron avances significativos en la solución tecnológica propuesta. Se logró desplegar la versión final del frontend (web app y landing page), así como la primera versión funcional de los módulos Mobile, IoT y Edge, permitiendo validar integralmente los principales componentes del sistema ChemTrack.
-
-Durante el Sprint 2, se completaron tareas clave como el despliegue de servicios web en entornos reales, la generación de artefactos móviles (APK), la implementación del canal de comunicación mediante MQTT entre dispositivos IoT y el backend, y la configuración del entorno de edge computing sobre AWS. Estas entregas representan una base operativa robusta sobre la cual se continuará construyendo en sprints futuros.
-
-Conclusiones
-Se alcanzó la entrega final de la solución web, incluyendo el despliegue exitoso de la landing page en GitHub Pages y de la aplicación web en Netlify.
-
-Se desarrolló y distribuyó la primera versión de la app móvil, empaquetada en formato APK y lista para pruebas con usuarios.
-
-Se habilitaron las funcionalidades básicas del módulo IoT, incluyendo la lectura de sensores y la transmisión de datos vía MQTT.
-
-El módulo Edge fue desplegado en la nube (AWS), estableciendo un entorno de ejecución autónomo y resiliente para procesar datos en el perímetro.
-
-La integración de estos componentes permitió visualizar una arquitectura funcional distribuida, en línea con los objetivos planteados inicialmente.
-
-La colaboración entre los miembros del equipo fue decisiva para cumplir con los objetivos del sprint, demostrando organización, adaptabilidad y compromiso.
-
-Recomendaciones
-Para mantener una evolución constante, se sugiere realizar ciclos de prueba más frecuentes con usuarios finales que permitan validar la experiencia de uso en cada módulo entregado.
-
-Es importante documentar no solo los entregables técnicos, sino también los aprendizajes obtenidos y desafíos superados, con el fin de capitalizar este conocimiento en siguientes iteraciones.
-
-Dado que la solución involucra múltiples tecnologías (web, mobile, IoT, edge), se recomienda mantener un enfoque DevOps para estandarizar los flujos de integración y despliegue continuo.
-
-Fortalecer las métricas de monitoreo y rendimiento de los módulos desplegados será clave para garantizar escalabilidad y confiabilidad de la solución en producción.
+- En esta segunda entrega se sugiere realizar ciclos de prueba más frecuentes con usuarios finales que permitan validar la experiencia de uso en cada módulo entregado.
+- Es importante documentar no solo los entregables técnicos, sino también los aprendizajes obtenidos y desafíos superados, con el fin de capitalizar este conocimiento en siguientes iteraciones.
+- Dado que la solución involucra múltiples tecnologías (web, mobile, IoT, edge), se recomienda mantener un enfoque DevOps para estandarizar los flujos de integración y despliegue continuo.
+- Fortalecer las métricas de monitoreo y rendimiento de los módulos desplegados será clave para garantizar escalabilidad y confiabilidad de la solución en producción.
 
 # Bibliografía
 
