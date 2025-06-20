@@ -3546,7 +3546,10 @@ Mejora del Landing Page, Frontend(Web y Mobile) e implementación del Backend y 
 </tbody>
 </table>
 
-![trello](https://media.discordapp.net/attachments/1364445917452697683/1385084426479992943/image.png?ex=6854c7e4&is=68537664&hm=0802818dae50a071bbf74022b58b98d6aa9a9123a216e00329e78e07652f7551&=&format=webp&quality=lossless&width=919&height=714)
+Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como los que vienen en las próximas iteracciones.
+
+![trello]()
+[Enlace de Trello](https://trello.com/invite/b/681fc71a5692939678facc66/ATTIc15614080cece153cca3c2bae0cd3505CFC7F6B0/chemtrack)
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
@@ -3568,7 +3571,11 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
   
 <br>
 
-- Repositorio IoT: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+- Repositorio IoT: https://github.com/Chemtrack-Grupo4/chemtrack-embedded
+  
+<br>
+
+- Repositorio Edge: https://github.com/Chemtrack-Grupo4/chemtrack-edge
   
 <br>
 
@@ -3733,12 +3740,35 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
     <td>-</td>
     <td>30/05/25</td>
 </tr>
+
+<tr>
+    <td rowspan=3>Edge</td>
+    <td>feature/mqtt-connection</td>
+    <td>d1e8f56</td>
+    <td>feat(mqtt): add MQTT communication logic</td>
+    <td>Integrated MQTT client and basic publish/subscribe setup for edge device.</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/sensor-handler</td>
+    <td>fa7b223</td>
+    <td>feat(sensor): implement temperature sensor reading</td>
+    <td>Added support for DHT22 sensor and periodic data capture.</td>
+    <td>31/05/25</td>
+</tr>
+<tr>
+    <td>feature/mqtt-payload</td>
+    <td>a12f443</td>
+    <td>feat(mqtt): format and send structured JSON data</td>
+    <td>Refactored MQTT messages to follow ChemTrack data schema.</td>
+    <td>01/06/25</td>
+</tr>
+
 </table>
 
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
-#12- 15 total
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -3765,26 +3795,49 @@ Link de repositorio: https://github.com/Chemtrack-Grupo4/chemtrack-testing
 
 En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
 
-**1. Landing page**
+**Landing page**
+
+- Versión Final
+- Estado: En producción activa
+- Se accede a la página web - Frontend, desde la opción *Aplicación* cta.
 
 <a href="https://chemtrack-grupo4.github.io/Landing-Page/"><img src="https://i.ibb.co/zVDsx58N/Captura-de-pantalla-2025-05-14-003027.png" alt="Landing page" border="0"></a>
 
-**2. Frontend**
+**Frontend**
+
+- Versión Final
+- Estado: En producción activa
 
 <a href="https://chemtrack-app.netlify.app/services"><img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340435678756884/image.png?ex=684f1207&is=684dc087&hm=508def2c66d8a21b8231f5c7e80d4f1a2f919f230b4be498f0a91c5e09ecfb3f&" alt="Frontend" border="0"></a>
 
 <a href="https://chemtrack-app.netlify.app/services"><img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340817515614288/image.png?ex=684f1262&is=684dc0e2&hm=e4b69730080c249ec070915ba8a097158cf313753391330777e16ba4ecfb0379&" alt="Frontend" border="0"></a>
 
-**3. Backend**
+**Backend**
+
+- Versión Inicial
+- Estado: En producción activa
 
 ![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383594040125161572/386876214-9bfc93c7-3ca0-45ff-843e-380cb8e6dc2e.png?ex=684f5bdd&is=684e0a5d&hm=5aad71f40065eb5f1abdde8e23bc021b881d0731f775fd05484e587fa5243d33&)
 
 ![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383594108190326895/386876223-3b7fed49-cb43-497e-b90d-6df6a33d0773.png?ex=684f5bed&is=684e0a6d&hm=5c61f45b3bd5bad8f2103d8d2cfdb85de669b739fd2410f0187371ba589ac996&)
 
-**4. Mobile**
+**Mobile**
+- Versión Inicial
+- Estado: Desplegado en apk
 
-**5. IoT**
+![mobile]()
 
+****
+- Versión Inicial
+- Estado: Simulado en Wokwi e integrado con broker MQTT
+  
+![iot]()
+
+**Edge**
+- Versión Inicial
+- Estado: Desplegado en AWS
+  
+![edge]()
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3802,7 +3855,9 @@ Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gest
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
-### Despliegue del Frontend (Web application y Landing Page)
+**Despliegue de Landing Page**
+
+**Despliegue del Frontend**
 
 Para el despliegue de landing page se usó GitHub Pages y para la web app  se usó Netlify, a continuación se detallará paso a paso para este Sprint 2:
 
