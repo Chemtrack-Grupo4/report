@@ -201,8 +201,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Conclusiones |
 | - |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Ayude en la en la elaboración de epics junto con sus respectivas user y technical stories teniendo en cuenta las necesidades identificadas en nuestros segmentos objetivos y los posibles escenarios que podrían presentarse. Esto nos permitió anticipar cómo deberíamos actuar ante diferentes situaciones. Asimismo, brindé apoyo en la creación de los impact maps correspondientes a los dos segmentos objetivos definidos.<br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Apoyé activamente a la identificación de eventos de dominio para mejorar la experiencia de usuario durante las interacciones con funciones centrales de nuestro sistema *Chemtrack*. Para ello, se realizó un proceso completo de event storming siguiendo un patrón de pasos preestablecidos que nos permitió visualizar la lógica correcta del sistema.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Participé en la elaboración de los segmentos objetivo, el análisis de competidores y la definición de estrategias frente a ellos, lo cual requirió coordinación constante con el equipo. Asimismo, realicé el diseño de entrevistas y el análisis de resultados, fomentando el intercambio de ideas y perspectivas para fortalecer la solución final.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé la parte de descripción del startup del equipo, así como nuestro solution profile frente a una necesidad identificada, los antecendes que surgieron previamente a esta problemática y las solución que nuestra solución ofrece.<br><br>**Josue Omar Hidalgo Bustamante**<br>Contribuí de manera activa en el desarrollo de los arquetipos de usuarios y en la definición de sus necesidades principales, lo que permitió orientar mejor el diseño de soluciones dentro del proyecto. Además, colaboré en la preparación de los journey maps para visualizar las experiencias de los usuarios en diferentes etapas del proceso. Este trabajo facilitó la identificación de puntos críticos y oportunidades de mejora en el sistema propuesto, asegurando una propuesta de valor más ajustada a las expectativas reales.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Participé en el desarrollo de los modelos de arquitectura del sistema, así como en el Context Mapping, colaborando con el equipo para garantizar una visión unificada y estratégica del sistema. La definición de límites claros entre los contextos permitieron optimizar la comunicación entre el equipo, fomentando una colaboración efectiva que fortaleció la coherencia y robustez de la solución. <br><br> **TP1**<br>**Camila Elena Amaro Villanueva**<br>Apoye en la elaboración de los mockups y wireframes de la app web y móvil teniendo en cuenta las etiquetas planeadas para nuestras aplicaciones y el proceso lean ux realizado previamente donde captamos las necesidades de los usuarios. Asimismo, participe en el desarrollo de la primera versión de la app web. <br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Lideré la ejecución de la planificación del Sprint 1, en la cual, junto con el equipo, realizamos un análisis detallado del estado del proyecto. Durante esta sesión, identificamos las partes faltantes tanto a nivel funcional como técnico. Asimismo, organizamos y priorizamos las tareas clave para el desarrollo del proyecto, incluyendo la planificación estructurada del diseño e implementación de la landing page. Además, definimos los pasos necesarios para construir y desplegar nuestro primer prototipo web funcional, lo que marcó un hito inicial en la validación del producto.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Durante el desarrollo de esta entrega correjí y realicé la mejora de secciones clave del diseño de software, tales como Tactical-Level Software Design, General Style Guidelines y Web, Mobile and IoT Style Guide. Este trabajo fue realizado de manera colaborativa, promoviendo discusiones técnicas, consensuando decisiones de estilo y asegurando la coherencia entre los distintos componentes del sistema<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Durante esta etapa se trabajó en el diseño inicial de la landing page utilizando Figma como herramienta principal. El equipo se enfocó en definir la identidad visual del producto, seleccionando una paleta de colores, tipografías y componentes visuales coherentes con los objetivos del proyecto. Se diseñó un primer wireframe y posteriormente una propuesta de alta fidelidad que refleja la estructura, navegación y funcionalidades clave de la página de inicio del sistema. Este diseño sentó las bases para el posterior desarrollo del prototipo funcional y facilitó una visión clara y compartida entre todos los miembros del equipo.<br><br>**Josue Omar Hidalgo Bustamante**<br>La primera versión de la aplicación web fue desarrollada con mi participación directa en su implementación. Previamente, estuve involucrado en el diseño de sus interfaces, colaborando en la elaboración de mockups y wireframes tanto para la versión web como móvil. Estos se construyeron tomando en cuenta las etiquetas planificadas y los resultados del proceso de Lean UX, en el que identificamos las principales necesidades de los usuarios.<br><br>**Niurka Lucero Huarcaya Quispe**<br> Participé en la recopilación y presentación de las evidencias necesarias para la Sprint Review. Me encargué de documentar el desarrollo, las pruebas, la ejecución de funcionalidades y la documentación de los servicios. Esto permitió al equipo tener una visión clara del progreso del sprint. | **TB1:** Como equipo, trabajamos de manera colaborativa para cubrir todas las etapas clave del desarrollo inicial de Chemtrack, desde la definición del problema y el análisis de mercado hasta la construcción de la solución tecnológica. Cada integrante asumió un rol fundamental en áreas como la elaboración de user stories, la identificación de eventos de dominio, el diseño de entrevistas, la creación de arquetipos, el mapeo de experiencias y el modelado de la arquitectura del sistema. Esta sinergia nos permitió integrar múltiples perspectivas y asegurar una base sólida, estratégica y centrada en el usuario para el desarrollo de nuestra solución. <br><br> **TP1:** Como equipo, trabajamos de manera colectiva y alineada para identificar y corregir los artefactos faltantes en nuestro proyecto. Este proceso nos permitió afinar los detalles y reforzar la definición de nuestra propuesta, asegurando una visión compartida del producto. Gracias a esta colaboración, logramos preparar y desplegar una primera muestra representativa de lo que será nuestra solución final, materializada en la publicación de la landing page y el primer prototipo funcional de la web. |
-| Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Participé de manera activa en las reuniones de planificación del proyecto, así como en su desarrollo. Además, me encargué de organizar las tareas relacionadas con la elaboración de las user stories, basándome en la información recopilada por cada integrante del equipo a través de entrevistas realizadas a usuarios pertenecientes a los segmentos objetivo.<br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Organicé las diferentes reuniones utilizando la metodología daily scrum hasta la entrega, donde identificamos las partes faltantes de nuestro trabajo, priorizamos tareas pendientes y coordinamos responsabilidades para asegurar el avance constante del proyecto. Donde la comunicación efectiva fue clave dentro del equipo para resolver bloqueos de forma oportuna y mantener la misma alineación.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo, establecimos metas claras desde las fases iniciales del proyecto y organicé tareas relacionadas con el diseño táctico del software, abarcando los distintos Bounded Contexts. Coordiné la elaboración de las distintas capas arquitectónicas y diagramas técnicos, asegurando una planificación eficiente y cumplimiento de los plazos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé el Lean UX Process, una artefacto fundamental para identificar nuestras funciones claves, segmentos objetivos, identificación y establecimiento de nuestra solución frente a la problemática identificada brindando una gráfica ejemplar y amplia para implementar una solución completa.<br><br>**Josue Omar Hidalgo Bustamante**<br>Apoyé en la validación de requerimientos técnicos y funcionales, asegurando que cada propuesta se ajustara a los objetivos del proyecto. También colaboré activamente en la elaboración de diagramas de flujo y en la definición de entidades clave del sistema. Durante el desarrollo, participé en sesiones de retroalimentación continua, lo que permitió realizar ajustes oportunos y mantener la calidad en cada entrega parcial.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Contribuí en la creación de los modelos de arquitectura del sistema, así como en el Context Mapping, asegurando que cada nivel de arquitectura estuviera alineado con los objetivos estratégicos y técnicos. Además, en equipo, establecimos metas claras, organizamos las tareas de manera estratégica y aseguramos el cumplimiento de los objetivos del proyecto. <br><br> **TP1**<br>**Camila Elena Amaro Villanueva**<br>Participé activamente en las reuniones de planificación del proyecto y en su desarrollo. Además, coordine al grupo en la creación de la aplicación web, guiándolos con base en los mockups previamente diseñados.<br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Desarrollé el Sprint Backlog 1 identificando y priorizando las tareas clave (core) de nuestro sistema, enfocándome en aquellas funcionalidades esenciales que debían estar presentes en esta primera entrega del prototipo. Esta planificación permitió establecer una hoja de ruta clara para el equipo y asegurar que el prototipado inicial reflejara de manera efectiva los pilares fundamentales de nuestra solución.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo y corrección de los documentos Tactical-Level Software Design, General Style Guidelines y Web, Mobile and IoT Style Guide. Para ello, coordiné con el equipo la definición de metas claras relacionadas con la mejora de la consistencia, calidad del diseño, revisión en función de los tiempos establecidos, y aseguré el cumplimiento de los objetivos propuestos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>En esta primera entrega se consolidó el diseño de la landing page desarrollado en Figma. A partir de los wireframes y propuestas previas, se logró una versión pulida y funcional que cumple con los objetivos de comunicación del proyecto. El trabajo en Figma permitió una colaboración fluida entre los integrantes del equipo, permitiendo iteraciones rápidas y comentarios en tiempo real. Este diseño no solo representa visualmente el producto, sino que también guió el desarrollo del prototipo inicial. El despliegue de la landing page refleja el compromiso del equipo con la calidad visual y la experiencia del usuario desde las primeras fases del proyecto.<br><br>**Josue Omar Hidalgo Bustamante**<br>Durante el desarrollo del proyecto, asumí un rol activo tanto en la etapa de planificación como en la ejecución. Me encargué de coordinar al equipo, brindando orientación basada en los mockups definidos con anterioridad para asegurar la coherencia en el diseño de la aplicación web.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Se realizó la recolección y elaboración de las evidencias requeridas para la Sprint Review. Se promovió un entorno donde todos los miembros participaron aportando resultados del desarrollo, pruebas, ejecución, documentación de servicios y despliegue del software.| **TB1:** El equipo demostró una sólida capacidad para colaborar de forma inclusiva, planificando estratégicamente las tareas y cumpliendo los objetivos del proyecto. A través de reuniones constantes, el uso de metodologías ágiles y una distribución clara de responsabilidades, logramos mantener una comunicación efectiva, anticipar desafíos y avanzar de manera organizada. Esto nos permitió construir una base sólida para el desarrollo de Chemtrack, alineando tanto los aspectos técnicos como los objetivos del negocio. <br><br> **TP1:** Nuevamente se evidenció una sólida capacidad de trabajo en equipo, reflejada en la distribución equitativa de las tareas y el compromiso de cada integrante para cumplir con los objetivos dentro del tiempo estimado. Esta coordinación eficiente nos permitió avanzar con fluidez en el desarrollo del prototipo, fortaleciendo tanto la dinámica grupal como el progreso del proyecto. Logrando tener el despliegue de landing page y de la web. Además de las correcciones levantadas. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Ayude en la en la elaboración de epics junto con sus respectivas user y technical stories teniendo en cuenta las necesidades identificadas en nuestros segmentos objetivos y los posibles escenarios que podrían presentarse. Esto nos permitió anticipar cómo deberíamos actuar ante diferentes situaciones. Asimismo, brindé apoyo en la creación de los impact maps correspondientes a los dos segmentos objetivos definidos.<br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Apoyé activamente a la identificación de eventos de dominio para mejorar la experiencia de usuario durante las interacciones con funciones centrales de nuestro sistema *Chemtrack*. Para ello, se realizó un proceso completo de event storming siguiendo un patrón de pasos preestablecidos que nos permitió visualizar la lógica correcta del sistema.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Participé en la elaboración de los segmentos objetivo, el análisis de competidores y la definición de estrategias frente a ellos, lo cual requirió coordinación constante con el equipo. Asimismo, realicé el diseño de entrevistas y el análisis de resultados, fomentando el intercambio de ideas y perspectivas para fortalecer la solución final.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé la parte de descripción del startup del equipo, así como nuestro solution profile frente a una necesidad identificada, los antecendes que surgieron previamente a esta problemática y las solución que nuestra solución ofrece.<br><br>**Josue Omar Hidalgo Bustamante**<br>Contribuí de manera activa en el desarrollo de los arquetipos de usuarios y en la definición de sus necesidades principales, lo que permitió orientar mejor el diseño de soluciones dentro del proyecto. Además, colaboré en la preparación de los journey maps para visualizar las experiencias de los usuarios en diferentes etapas del proceso. Este trabajo facilitó la identificación de puntos críticos y oportunidades de mejora en el sistema propuesto, asegurando una propuesta de valor más ajustada a las expectativas reales.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Participé en el desarrollo de los modelos de arquitectura del sistema, así como en el Context Mapping, colaborando con el equipo para garantizar una visión unificada y estratégica del sistema. La definición de límites claros entre los contextos permitieron optimizar la comunicación entre el equipo, fomentando una colaboración efectiva que fortaleció la coherencia y robustez de la solución. <br><br> **TP1**<br>**Camila Elena Amaro Villanueva**<br>Apoye en la elaboración de los mockups y wireframes de la app web y móvil teniendo en cuenta las etiquetas planeadas para nuestras aplicaciones y el proceso lean ux realizado previamente donde captamos las necesidades de los usuarios. Asimismo, participe en el desarrollo de la primera versión de la app web. <br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Lideré la ejecución de la planificación del Sprint 1, en la cual, junto con el equipo, realizamos un análisis detallado del estado del proyecto. Durante esta sesión, identificamos las partes faltantes tanto a nivel funcional como técnico. Asimismo, organizamos y priorizamos las tareas clave para el desarrollo del proyecto, incluyendo la planificación estructurada del diseño e implementación de la landing page. Además, definimos los pasos necesarios para construir y desplegar nuestro primer prototipo web funcional, lo que marcó un hito inicial en la validación del producto.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Durante el desarrollo de esta entrega correjí y realicé la mejora de secciones clave del diseño de software, tales como Tactical-Level Software Design, General Style Guidelines y Web, Mobile and IoT Style Guide. Este trabajo fue realizado de manera colaborativa, promoviendo discusiones técnicas, consensuando decisiones de estilo y asegurando la coherencia entre los distintos componentes del sistema<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Durante esta etapa se trabajó en el diseño inicial de la landing page utilizando Figma como herramienta principal. El equipo se enfocó en definir la identidad visual del producto, seleccionando una paleta de colores, tipografías y componentes visuales coherentes con los objetivos del proyecto. Se diseñó un primer wireframe y posteriormente una propuesta de alta fidelidad que refleja la estructura, navegación y funcionalidades clave de la página de inicio del sistema. Este diseño sentó las bases para el posterior desarrollo del prototipo funcional y facilitó una visión clara y compartida entre todos los miembros del equipo.<br><br>**Josue Omar Hidalgo Bustamante**<br>La primera versión de la aplicación web fue desarrollada con mi participación directa en su implementación. Previamente, estuve involucrado en el diseño de sus interfaces, colaborando en la elaboración de mockups y wireframes tanto para la versión web como móvil. Estos se construyeron tomando en cuenta las etiquetas planificadas y los resultados del proceso de Lean UX, en el que identificamos las principales necesidades de los usuarios.<br><br>**Niurka Lucero Huarcaya Quispe**<br> Participé en la recopilación y presentación de las evidencias necesarias para la Sprint Review. Me encargué de documentar el desarrollo, las pruebas, la ejecución de funcionalidades y la documentación de los servicios. Esto permitió al equipo tener una visión clara del progreso del sprint. <br><br>**TB2** <br><br>**Andrea Joselyn Garcia Moscoso**<br>Durante el desarrollo de esta entrega correjí y realicé la mejora de secciones clave del diseño de software, tales como Sprint Planning y Product Backlog. Este trabajo fue realizado de manera colaborativa, promoviendo discusiones técnicas y asegurando la coherencia entre los distintos componentes del sistema <br><br>| **TB1:** Como equipo, trabajamos de manera colaborativa para cubrir todas las etapas clave del desarrollo inicial de Chemtrack, desde la definición del problema y el análisis de mercado hasta la construcción de la solución tecnológica. Cada integrante asumió un rol fundamental en áreas como la elaboración de user stories, la identificación de eventos de dominio, el diseño de entrevistas, la creación de arquetipos, el mapeo de experiencias y el modelado de la arquitectura del sistema. Esta sinergia nos permitió integrar múltiples perspectivas y asegurar una base sólida, estratégica y centrada en el usuario para el desarrollo de nuestra solución. <br><br> **TP1:** Como equipo, trabajamos de manera colectiva y alineada para identificar y corregir los artefactos faltantes en nuestro proyecto. Este proceso nos permitió afinar los detalles y reforzar la definición de nuestra propuesta, asegurando una visión compartida del producto. Gracias a esta colaboración, logramos preparar y desplegar una primera muestra representativa de lo que será nuestra solución final, materializada en la publicación de la landing page y el primer prototipo funcional de la web. |
+| Crea un entorno colaborativo einclusivo, establece metas, planifica tareas y cumple objetivos. | **TB1**<br>**Camila Elena Amaro Villanueva**<br>Participé de manera activa en las reuniones de planificación del proyecto, así como en su desarrollo. Además, me encargué de organizar las tareas relacionadas con la elaboración de las user stories, basándome en la información recopilada por cada integrante del equipo a través de entrevistas realizadas a usuarios pertenecientes a los segmentos objetivo.<br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Organicé las diferentes reuniones utilizando la metodología daily scrum hasta la entrega, donde identificamos las partes faltantes de nuestro trabajo, priorizamos tareas pendientes y coordinamos responsabilidades para asegurar el avance constante del proyecto. Donde la comunicación efectiva fue clave dentro del equipo para resolver bloqueos de forma oportuna y mantener la misma alineación.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo, establecimos metas claras desde las fases iniciales del proyecto y organicé tareas relacionadas con el diseño táctico del software, abarcando los distintos Bounded Contexts. Coordiné la elaboración de las distintas capas arquitectónicas y diagramas técnicos, asegurando una planificación eficiente y cumplimiento de los plazos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>Desarrollé el Lean UX Process, una artefacto fundamental para identificar nuestras funciones claves, segmentos objetivos, identificación y establecimiento de nuestra solución frente a la problemática identificada brindando una gráfica ejemplar y amplia para implementar una solución completa.<br><br>**Josue Omar Hidalgo Bustamante**<br>Apoyé en la validación de requerimientos técnicos y funcionales, asegurando que cada propuesta se ajustara a los objetivos del proyecto. También colaboré activamente en la elaboración de diagramas de flujo y en la definición de entidades clave del sistema. Durante el desarrollo, participé en sesiones de retroalimentación continua, lo que permitió realizar ajustes oportunos y mantener la calidad en cada entrega parcial.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Contribuí en la creación de los modelos de arquitectura del sistema, así como en el Context Mapping, asegurando que cada nivel de arquitectura estuviera alineado con los objetivos estratégicos y técnicos. Además, en equipo, establecimos metas claras, organizamos las tareas de manera estratégica y aseguramos el cumplimiento de los objetivos del proyecto. <br><br> **TP1**<br>**Camila Elena Amaro Villanueva**<br>Participé activamente en las reuniones de planificación del proyecto y en su desarrollo. Además, coordine al grupo en la creación de la aplicación web, guiándolos con base en los mockups previamente diseñados.<br><br>**Sharon Antuanet Ivet Barrial Marin**<br>Desarrollé el Sprint Backlog 1 identificando y priorizando las tareas clave (core) de nuestro sistema, enfocándome en aquellas funcionalidades esenciales que debían estar presentes en esta primera entrega del prototipo. Esta planificación permitió establecer una hoja de ruta clara para el equipo y asegurar que el prototipado inicial reflejara de manera efectiva los pilares fundamentales de nuestra solución.<br><br>**Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo y corrección de los documentos Tactical-Level Software Design, General Style Guidelines y Web, Mobile and IoT Style Guide. Para ello, coordiné con el equipo la definición de metas claras relacionadas con la mejora de la consistencia, calidad del diseño, revisión en función de los tiempos establecidos, y aseguré el cumplimiento de los objetivos propuestos.<br><br>**Fabrizzio Hernan Laguerre Challco**<br>En esta primera entrega se consolidó el diseño de la landing page desarrollado en Figma. A partir de los wireframes y propuestas previas, se logró una versión pulida y funcional que cumple con los objetivos de comunicación del proyecto. El trabajo en Figma permitió una colaboración fluida entre los integrantes del equipo, permitiendo iteraciones rápidas y comentarios en tiempo real. Este diseño no solo representa visualmente el producto, sino que también guió el desarrollo del prototipo inicial. El despliegue de la landing page refleja el compromiso del equipo con la calidad visual y la experiencia del usuario desde las primeras fases del proyecto.<br><br>**Josue Omar Hidalgo Bustamante**<br>Durante el desarrollo del proyecto, asumí un rol activo tanto en la etapa de planificación como en la ejecución. Me encargué de coordinar al equipo, brindando orientación basada en los mockups definidos con anterioridad para asegurar la coherencia en el diseño de la aplicación web.<br><br>**Niurka Lucero Huarcaya Quispe**<br>Se realizó la recolección y elaboración de las evidencias requeridas para la Sprint Review. Se promovió un entorno donde todos los miembros participaron aportando resultados del desarrollo, pruebas, ejecución, documentación de servicios y despliegue del software.<br><br>**TB2**<br> **Andrea Joselyn Garcia Moscoso**<br>Contribuí activamente a la creación de un entorno colaborativo y corrección de los documentos en el Sprint Planning. Además, coordiné con el equipo la definición de metas claras relacionadas con la mejora de la consistencia,revisión en función de los tiempos establecidos, y aseguré el cumplimiento de los objetivos propuestos.<br><br>| **TB1:** El equipo demostró una sólida capacidad para colaborar de forma inclusiva, planificando estratégicamente las tareas y cumpliendo los objetivos del proyecto. A través de reuniones constantes, el uso de metodologías ágiles y una distribución clara de responsabilidades, logramos mantener una comunicación efectiva, anticipar desafíos y avanzar de manera organizada. Esto nos permitió construir una base sólida para el desarrollo de Chemtrack, alineando tanto los aspectos técnicos como los objetivos del negocio. <br><br> **TP1:** Nuevamente se evidenció una sólida capacidad de trabajo en equipo, reflejada en la distribución equitativa de las tareas y el compromiso de cada integrante para cumplir con los objetivos dentro del tiempo estimado. Esta coordinación eficiente nos permitió avanzar con fluidez en el desarrollo del prototipo, fortaleciendo tanto la dinámica grupal como el progreso del proyecto. Logrando tener el despliegue de landing page y de la web. Además de las correcciones levantadas. |
 
 # Capítulo I: Introducción
 
@@ -3182,7 +3182,657 @@ Link de frontend: https://chemtrack-app.netlify.app/services
 **Pulse**
 ![image](https://github.com/user-attachments/assets/39d31df0-be02-4f36-ab3e-7dbabce2ea2e)
 
-***Network**
+**Network**
+![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
+
+**Contributors**
+![image](https://github.com/user-attachments/assets/06d7cf2c-585b-4801-ac55-a7509aa09928)
+
+### 6.2.2. Sprint 2
+#### 6.2.2.1. Sprint Planning 2
+
+| Sprint #                         | 2                                                                                                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                                             |
+| Date                             | 2025 - 06 - 03                                                                                                                                                               |
+| Time                             | 10:00 PM                                                                                                                                                                     |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                          |
+| Attendees (to planning meeting)  | Camila Amaro, Sharon Barrial, Andrea García, Fabrizzio Laguerre, Josue Bustamante, Niurka Huarcaya, Josue Hidalgo                                                            |
+| Sprint 2 - Review Summary        | Durante el Sprint 1, el equipo completó con éxito todas las tareas planificadas. Las principales funcionalidades implementadas incluyen el registro e inicio de sesión de usuarios, visualización y edición de perfil, y la gestión de cultivos en el landing page y la aplicación web.<br>                                                                                                                                        |
+| Sprint 2 - Retrospective Summary | **Aspectos positivos** <br> - El equipo logró completar la mayoría de tareas conforme a los tiempos estimados, manteniendo una buena organización del trabajo.<br> - La distribución de tareas entre plataformas (Web, Mobile, IoT y Backend) permitió avanzar en paralelo y cumplir con funcionalidades clave del sistema.<br>**Áreas de mejora**<br> - La integración entre frontend y backend evidenció algunos retrasos por falta de endpoints definidos previamente..<br>**Acciones a implementar**<br> - Definir endpoints con mayor anticipación en el backlog técnico antes de asignar tareas dependientes.<br> - Establecer una checklist de documentación por módulo (mockup, API, lógica de validación) para agilizar el entendimiento del equipo.                                                                                                                                            |
+| **Sprint Goal & User Stories**   |                                                                                                                                                                              |
+| Sprint 2 Goal                    | El objetivo de este Sprint fue implementar funcionalidades claves del sistema relacionadas con la visualización de notificaciones, rutas seguras, historial de transporte, publicaciones de solicitud de transporte y control de tiempos, tanto en la versión web como móvil, backend e IoT.<br>**Logros del sprint** <br> - Implementación de interfaces de notificaciones de mantenimiento y solicitudes de transporte. <br> - Implementación del historial de transportes e incidentes para usuarios y transportistas. <br> - Publicación y filtrado de solicitudes de transporte desde la web y app móvil.<br> - Control y alertas por exceso de tiempo de conducción integrados en sensores IoT, backend y UI.           |
+| Sprint 2 - Velocity              | El equipo puede aceptar 53 Story Points                                                                                                                                      |
+| Sprint 2 - Story Points          | La suma de los Story Points de los User Stories que se atenderá es 31 Story Points                                                                                           |
+
+#### 6.2.2.2. Aspect Leaders and Collaborators
+| Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Web - Mobile <br> Features Leader (L)/Collaborator (C)  | Backend <br> Features Leader (L)/Collaborator (C) | IoT <br> Features Leader (L)/Collaborator (C) |
+|----|-----|-----|----|----|----|
+|Camila Amaro | CamiAm404 | L | C | C | C |
+|Sharon Barrial | SharonBarrial | C | C | C | L |
+|Andrea García | Armix18 | C | C | C | C |
+|Fabrizzio Laguerre | UwUInspector | C | C | C | C |
+|Josue Hidalgo | Kabudence | C | L | C | C |
+|Niurka Huarcaya| NLH18 | C | C | L | C |
+
+#### 6.2.2.3. Sprint Backlog 2
+
+Mejora del Landing Page, Frontend(Web y Mobile) e implementación del Backend y IoT acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 2</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el landing page y frontend acorde a las historias redactadas. Posteriormente realizar el despliegue  </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="4" valign="top">TS01</td>
+        <td rowspan="4" valign="top"> Implementación de Monitoreo del Vehículo</td>
+        <td valign="top">T01</td>
+        <td valign="top">Diseño de interfaz de monitoreo</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán los sensores activos al usuario.</td>
+        <td valign="top">4</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T02</td>
+    <td valign="top">Implementación de interfaz</td>
+    <td valign="top">Desarrollar la vista web para mostrar sensores activos a tiempo real.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T03</td>
+    <td valign="top">Configuración del backend</td>
+    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos sensores desde el backend.</td>
+    <td valign="top">6</td>
+    <td valign="top">Niurka Huarcaya</td>
+    <td valign="top">In Progress</td>
+</tr>
+<tr>
+    <td valign="top">T04</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de sensores desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In Progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US03</td>
+        <td rowspan="4" valign="top"> Verificación de Rutas Seguras</td>
+        <td valign="top">T05</td>
+    <td valign="top">Vista de rutas seguras (Web)</td>
+    <td valign="top">Implementar la interfaz que muestre rutas actuales y alertas en el mapa.</td>
+    <td valign="top">5</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T06</td>
+    <td valign="top">Mapa interactivo de rutas (Mobile)</td>
+    <td valign="top">Mostrar al conductor rutas seguras y alertas en la aplicación móvil.</td>
+    <td valign="top">5</td>
+    <td valign="top">Andrea Garcia</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T07</td>
+    <td valign="top">Sensor GPS para rutas (IoT)</td>
+    <td valign="top">Configurar dispositivos IoT para detectar ubicación y posibles desvíos de ruta.</td>
+    <td valign="top">6</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T08</td>
+    <td valign="top">API de rutas y alertas (Backend)</td>
+    <td valign="top">Desarrollar endpoints para consultar rutas seguras y enviar alertas.</td>
+    <td valign="top">6</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US12</td>
+        <td rowspan="4" valign="top"> Visualización de Transportistas Disponibles</td>
+        <td valign="top">T09</td>
+        <td valign="top">Diseño de interfaz de transportistas disponibles</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán los transportistas disponibles.</td>
+        <td valign="top">4</td>
+        <td valign="top">Fabrizzio Laguerre	</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T10</td>
+    <td valign="top">Implementación de interfaz</td>
+    <td valign="top">Desarrollar la vista web para mostrar los transportistas disponibles.</td>
+    <td valign="top">5</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T11</td>
+    <td valign="top">Configuración del backend</td>
+    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos de los transportistas disponibles desde el backend.</td>
+    <td valign="top">6</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In Progress</td>
+</tr>
+<tr>
+    <td valign="top">T12</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de los transportistas disponibles desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US10</td>
+        <td rowspan="4" valign="top">Actualización de Estado del Transporte</td>
+        <td valign="top">T13</td>
+    <td valign="top">Vista de reportes por vehículo (Web)</td>
+    <td valign="top">Mostrar historial de reportes recibidos por cada transporte en la plataforma web.</td>
+    <td valign="top">3</td>
+    <td valign="top">Josue Hidalgo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T14</td>
+    <td valign="top">Visualización de actualización de estado (Mobile)</td>
+    <td valign="top">Permitir la visualización del estado del transporte a los empresarios.</td>
+    <td valign="top">4</td>
+    <td valign="top">Andrea Garcia</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T15</td>
+    <td valign="top">Sensor de estado del vehículo (IoT)</td>
+    <td valign="top">Capturar el estado del transporte (alerta de anomalías) mediante sensores.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T16</td>
+    <td valign="top">API de estados del transporte (Backend)</td>
+    <td valign="top">Gestionar actualización, almacenamiento y consulta de estados del transporte.</td>
+    <td valign="top">5</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US11</td>
+        <td rowspan="4" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td>
+        <td valign="top">T17</td>
+    <td valign="top">Búsqueda de transportistas (Web)</td>
+    <td valign="top">Navbar para filtrar transportistas según parámetros específicos.</td>
+    <td valign="top">5</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T18</td>
+    <td valign="top">Formulario de solicitud (Mobile)</td>
+    <td valign="top">Permitir al usuario registrar una solicitud de transporte desde su dispositivo.</td>
+    <td valign="top">4</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T19</td>
+    <td valign="top">Validación de condiciones (IoT)</td>
+    <td valign="top">Verificar si el contenedor cumple con las condiciones necesarias mediante sensores.</td>
+    <td valign="top">6</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T20</td>
+    <td valign="top">API de publicación de solicitudes (Backend)</td>
+    <td valign="top">Crear endpoints para registrar, listar y gestionar solicitudes.</td>
+    <td valign="top">5</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+        <tr>
+        <td rowspan="4" valign="top">US13</td>
+        <td rowspan="4" valign="top">Acceso a Reporte de Incidentes</td>
+        <td valign="top">T21</td>
+    <td valign="top">Vista de historial e incidentes (Web)</td>
+    <td valign="top">Mostrar en la plataforma web el historial de viajes e incidentes asociados.</td>
+    <td valign="top">5</td>
+    <td valign="top">Niurka Huarcaya</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T22</td>
+    <td valign="top">Historial del transportista (Mobile)</td>
+    <td valign="top">Permitir al transportista ver su historial de viajes desde la app.</td>
+    <td valign="top">4</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T23</td>
+    <td valign="top">Sincronización de logs (IoT)</td>
+    <td valign="top">Enviar datos desde sensores al backend para guardar en historial.</td>
+    <td valign="top">5</td>
+    <td valign="top">Andrea Garcia</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T24</td>
+    <td valign="top">API de historial (Backend)</td>
+    <td valign="top">Crear endpoints para consultar historial de transportes con filtros.</td>
+    <td valign="top">4</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In progress</td>
+</tr>
+  <tr>
+        <td rowspan="4" valign="top">US14</td>
+        <td rowspan="4" valign="top">Control de tiempos de conducción de transporte</td>
+        <td valign="top">T25</td>
+    <td valign="top">Dashboard de tiempos (Web)</td>
+    <td valign="top">Visualizar en la web los tiempos de conducción total.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T26</td>
+    <td valign="top">Alertas de conducción (Mobile)</td>
+    <td valign="top">Notificar al transportista si excede el tiempo máximo permitido.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T27</td>
+    <td valign="top">Sensor de tiempo de conducción (IoT)</td>
+    <td valign="top">Medir tiempo de conducción desde el encendido del vehículo.</td>
+    <td valign="top">5</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T28</td>
+    <td valign="top">Control y lógica de alertas (Backend)</td>
+    <td valign="top">Procesar y emitir alertas desde backend cuando se exceda tiempo permitido.</td>
+    <td valign="top">6</td>
+    <td valign="top">Camila Amaro	</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US15</td>
+        <td rowspan="4" valign="top">Notificación de tiempo de conducción de transporte en exceso</td>
+        <td valign="top">T29</td>
+        <td valign="top">Diseño de interfaz de notificaciones</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán las notificaciones al usuario.</td>
+        <td valign="top">4</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T30</td>
+    <td valign="top">Implementación de interfaz</td>
+    <td valign="top">Desarrollar la vista web para mostrar notificaciones del tiempo de conducción de transporte.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T31</td>
+    <td valign="top">Configuración del backend de notificaciones</td>
+    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar notificaciones desde el backend.</td>
+    <td valign="top">6</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T32</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de notificaciones desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In progress</td>
+</tr>
+  <tr>
+        <td rowspan="3" valign="top">US16</td>
+        <td rowspan="3" valign="top">Landing Page responsive</td>
+        <td valign="top">T33</td>
+        <td valign="top">Mejora del diseño responsive en dispositivos reales</td>
+    <td valign="top">Realizar pruebas de la landing en diferentes tamaños de pantalla y navegadores, corrigiendo errores de diseño y visualización.</td>
+    <td valign="top">2</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top"> In progress</td>
+</tr>
+</tbody>
+</table>
+
+![trello](https://media.discordapp.net/attachments/1364445917452697683/1385084426479992943/image.png?ex=6854c7e4&is=68537664&hm=0802818dae50a071bbf74022b58b98d6aa9a9123a216e00329e78e07652f7551&=&format=webp&quality=lossless&width=919&height=714)
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+- Repositorio Landing Page: https://github.com/Chemtrack-Grupo4/Landing-Page
+  
+<br>
+
+- Repositorio Frontend: https://github.com/Chemtrack-Grupo4/chemtrack-webapp
+
+<br>
+
+- Repositorio Backend: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+  
+<br>
+
+- Repositorio Mobile: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+  
+<br>
+
+- Repositorio IoT: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+  
+<br>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td>Landing Page</td>
+        <td>develop</td>
+        <td>c833922</td>
+        <td>feat: add responsive design</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    </tr>
+    <tr>
+        <td rowspan=6>Web app</td>
+        <td>feature/shared</td>
+        <td>bdf1ab6</td>
+        <td>fix: fix problem with data call</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    </tr>
+    <tr>
+        <td>feature/shared</td>
+        <td>6a79b66</td>
+        <td>feat: Update toolbar</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    <tr>
+        <td>feature/management</td>
+        <td>ecd4f10</td>
+        <td>feat: update components</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    <tr>
+        <td>feature/incidents</td>
+        <td>c16eebb</td>
+        <td>feat: update components</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    <tr>
+        <td>feature/profile</td>
+        <td>778693e</td>
+        <td>feat: update component</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    <tr>
+        <td>feature/management</td>
+        <td>a7380b9</td>
+        <td>feat: update component</td>
+        <td>-</td>
+        <td>30/05/25</td>
+    <tr>
+        <td rowspan=5>Mobile</td>
+        <td>feature/fix-data-call</td>
+    <td>bdf1ab6</td>
+    <td>fix(shared): resolve issue in data fetch call</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/toolbar-update</td>
+    <td>6a79b66</td>
+    <td>feat(shared): update toolbar UI and logic</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/management-ui</td>
+    <td>ecd4f10</td>
+    <td>feat(management): improve management screen components</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/incidents</td>
+    <td>c16eebb</td>
+    <td>feat(incidents): enhance incident reporting UI</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/profile-view</td>
+    <td>778693e</td>
+    <td>feat(profile): update profile view layout</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+        <td rowspan=5>Backend</td>
+        <td>feature/fix-data-call</td>
+    <td>bdf1ab6</td>
+    <td>fix(api): resolve issue in data fetch logic</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/toolbar-update</td>
+    <td>6a79b66</td>
+    <td>feat(utils): update toolbar response metadata</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/management-module</td>
+    <td>ecd4f10</td>
+    <td>feat(management): update transport management APIs</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/incidents-endpoint</td>
+    <td>c16eebb</td>
+    <td>feat(incidents): enhance endpoint for real-time data</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/profile-update</td>
+    <td>778693e</td>
+    <td>feat(profile): add endpoint to update user profile</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+        <td rowspan=5>IoT</td>
+        <td>feature/fix-data-call</td>
+    <td>bdf1ab6</td>
+    <td>fix(device-comm): correct error in MQTT data retrieval</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/update-toolbar</td>
+    <td>6a79b66</td>
+    <td>feat(dashboard): sync toolbar with sensor status</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/management-sync</td>
+    <td>ecd4f10</td>
+    <td>feat(management): update sync logic for connected devices</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/incidents-stream</td>
+    <td>c16eebb</td>
+    <td>feat(incidents): add stream support for incident alerts</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+<tr>
+    <td>feature/profile-config</td>
+    <td>778693e</td>
+    <td>feat(profile): allow configuration of IoT device profile</td>
+    <td>-</td>
+    <td>30/05/25</td>
+</tr>
+</table>
+
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+#12- 15 total
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-1.feature  | - | 14/05/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-2.feature  | - | 14/05/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-3.feature  | - | 14/05/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-4.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-5.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-6.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-7.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-8.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-9.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-10.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-11.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-12.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-13.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-14.feature  | - | 14/06/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-15.feature  | - | 14/06/2025 |
+
+
+Link de repositorio: https://github.com/Chemtrack-Grupo4/chemtrack-testing
+
+#### 6.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
+
+**1. Landing page**
+
+<a href="https://chemtrack-grupo4.github.io/Landing-Page/"><img src="https://i.ibb.co/zVDsx58N/Captura-de-pantalla-2025-05-14-003027.png" alt="Landing page" border="0"></a>
+
+**2. Frontend**
+
+<a href="https://chemtrack-app.netlify.app/services"><img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340435678756884/image.png?ex=684f1207&is=684dc087&hm=508def2c66d8a21b8231f5c7e80d4f1a2f919f230b4be498f0a91c5e09ecfb3f&" alt="Frontend" border="0"></a>
+
+<a href="https://chemtrack-app.netlify.app/services"><img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340817515614288/image.png?ex=684f1262&is=684dc0e2&hm=e4b69730080c249ec070915ba8a097158cf313753391330777e16ba4ecfb0379&" alt="Frontend" border="0"></a>
+
+**3. Backend**
+
+![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383594040125161572/386876214-9bfc93c7-3ca0-45ff-843e-380cb8e6dc2e.png?ex=684f5bdd&is=684e0a5d&hm=5aad71f40065eb5f1abdde8e23bc021b881d0731f775fd05484e587fa5243d33&)
+
+![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383594108190326895/386876223-3b7fed49-cb43-497e-b90d-6df6a33d0773.png?ex=684f5bed&is=684e0a6d&hm=5c61f45b3bd5bad8f2103d8d2cfdb85de669b739fd2410f0187371ba589ac996&)
+
+**4. Mobile**
+
+**5. IoT**
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
+
+| Endpoint | Detalles |
+| - | - | 
+| /user-controller| En este endpoint se almacenan la información de los usuarios, tales como username, email, password, role, photo y token | 
+| /deliveries | En este endpoint se almacenan las entregas que aun no tienen ligadas un incidente | 
+| /services  | En este endpoint se almacenan los servicios realizados por parte de las empresas | 
+| /incidents | En este endpoint se almacenan los incidentes registrados manualmente | 
+| /notifications	 | 	Este endpoint gestiona la creación, consulta y envío de notificaciones de mantenimiento, nuevas solicitudes y alertas por tiempo de conducción. | 
+| /requests | En este endpoint se publican, actualizan y consultan solicitudes de transporte (incluyendo productos peligrosos). | 
+| /history | Permite acceder al historial de transportes realizados, incidentes asociados y registros sincronizados desde sensores.| 
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+### Despliegue del Frontend (Web application y Landing Page)
+
+Para el despliegue de landing page se usó GitHub Pages y para la web app  se usó Netlify, a continuación se detallará paso a paso para este Sprint 2:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+Se genera la carpeta dist, luego, se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración.
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto. Y se obtiene el registro del despliegue dentro de Netlify
+
+
+De esta manera el avance del Sprint 2 queda desplegado.
+
+<img src="https://cdn.discordapp.com/attachments/1364445917452697683/1381340517480136865/image.png?ex=684f121b&is=684dc09b&hm=08c285ede3a685d73f0ede2747e6f407db4c1a9d2b0ca567fde02d1e2e72afc7&" alt="frontend" border="0">
+
+<br>
+
+<img src="https://media.discordapp.net/attachments/1364445917452697683/1383595112302645359/image.png?ex=684f5cdc&is=684e0b5c&hm=95e9543459e5dab2fc8db5a428db79009d7dfad9d8cdfa08edab4851d592c9ae&=&format=webp&quality=lossless&width=1286&height=610" alt="Landing page" border="0">
+<br>
+
+## Despliegue del Backend
+
+**Cambiarlo a Azure**
+
+Por otro lado, vamos a explicar los pasos a despliegue de los web services:
+
+Se utilizó Zeabur debido a su gran utilidad en el plan gratuito, permitiendo depslegar 3 servicios, primero se crea un espacio de trabajo.
+
+Se añade un nuevo servicio y luego de escoger el repositorio, se empieza a hacer el build del despliegue:
+
+![backend](https://cdn.discordapp.com/attachments/1364445917452697683/1383603340507746324/386878114-65104678-b3e3-4b24-bb4c-f901aa5e2c76.png?ex=684f6486&is=684e1306&hm=6f332d0d0f784f2c1a1e5c969b1bd4f7d1424ff3f249b2999e9fc521554fbbcf&)
+
+### Despliegue del IoT
+
+### Despliegue del Mobile
+
+Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
+
+Link del web application: https://chemtrack-app.netlify.app/services
+
+Link del mobile application: https://chemtrack-app.netlify.app/services
+
+Link de backend: #link
+
+Link de IoT: #link
+
+#### 6.2.1.8. Team Collaboration Insights during Sprint
+
+**Pulse**
+![image](https://github.com/user-attachments/assets/39d31df0-be02-4f36-ab3e-7dbabce2ea2e)
+
+**Network**
 ![image](https://github.com/user-attachments/assets/81f0c621-67a9-4a43-9a99-d68c658aea6e)
 
 **Contributors**
