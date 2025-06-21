@@ -61,6 +61,7 @@ Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
 Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
 
 *Registro de commits*
+
 ![image](https://github.com/user-attachments/assets/c7a9982a-f550-487f-ba34-fcc6bd2b2879)
 
 
