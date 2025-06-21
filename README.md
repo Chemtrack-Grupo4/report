@@ -4627,6 +4627,16 @@ Por otro lado recomendaríamos que:
 - Dado que la solución involucra múltiples tecnologías (web, mobile, IoT, edge), se recomienda mantener un enfoque DevOps para estandarizar los flujos de integración y despliegue continuo.
 - Fortalecer las métricas de monitoreo y rendimiento de los módulos desplegados será clave para garantizar escalabilidad y confiabilidad de la solución en producción.
 
+
+## Video About-the-Team
+
+En el presente video hablamos de nuestras experiencias en el equipo cumpliendo con las competencias del presente student outcome y presentando las actas de participación de los integrantes.
+
+![Imagen de WhatsApp 2025-06-20 a las 23 36 44_9c3d8588](https://github.com/user-attachments/assets/e2da59f9-e5ff-4689-a3e4-f27233aec618)
+
+[Enlace del video](https://youtu.be/P6Nz4u_BHZ4)
+
+
 # Bibliografía
 
 Aguilar-Velázquez, J. A., & Salazar-González, M. (2018). Evaluación del riesgo en el transporte terrestre de sustancias peligrosas mediante sistemas de información geográfica. Revista Internacional de Contaminación Ambiental, 34(1), 131-141.
