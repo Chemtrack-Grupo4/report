@@ -3976,21 +3976,19 @@ De esta manera, el avance del **Sprint 2** quedó funcional y disponible públic
    - Se aseguró que el repositorio de backend estuviera limpio y contuviera todos los archivos necesarios para el build.
    - Se definieron variables de entorno desde Railway para la conexión a servicios externos como la base de datos y MQTT.
 
-     ![image](https://github.com/user-attachments/assets/9d70a731-bc48-45e4-ad61-caa4367909dc)
-
-**Integración con Railway**
-   - Se accedió a [Railway.app](https://railway.app) y se creó un nuevo proyecto.
+**Integración con Azure**
+   - Se accedió a **Portal Azure** y se creó un nuevo proyecto.
    - Se conectó el proyecto directamente al repositorio en GitHub, seleccionando la rama principal para el despliegue.
-   - Railway detectó automáticamente el stack del proyecto e inició el proceso de construcción (**build**).
+   - Azure detectó automáticamente el stack del proyecto e inició el proceso de construcción (**build**).
 
-![image](https://github.com/user-attachments/assets/71b089f1-bce8-41f6-ad9d-6a1fae77a03d)
+![image](https://github.com/user-attachments/assets/d97cd947-f44f-4dc6-a285-1579a49b85ac)
 
 **Despliegue automático**
-   - Una vez completado el build, Railway desplegó el backend y proporcionó una URL pública accesible.
+   - Una vez completado el build, Azure desplegó el backend y proporcionó una URL pública accesible.
    - Se habilitó el monitoreo en tiempo real para verificar el estado del servicio.
    - En caso de errores o necesidad de debugging, Railway ofrece visualización de logs directamente desde el panel.
 
-![image](https://github.com/user-attachments/assets/407b7033-cbdc-41fd-92b2-5caad7576368)
+![image](https://github.com/user-attachments/assets/6c857f5a-dfec-4720-8997-26c3be44dfa4)
 
 Aquí se hace presente el video demostrando el funcionamiento del despliegue del backend haciendo uso de POSTMAN.
 
@@ -4069,7 +4067,7 @@ Link de web application: https://chemtrack-app.netlify.app/services
 
 Link del mobile application: https://drive.google.com/file/d/1Zb7HNpkLBJKW9ON0I5ydz33bGrYA59-D/view?usp=drive_link
 
-Link de backend: https://chemtrack-backend-production.up.railway.app/swagger-ui/index.html#/Sensors/getAllSensors
+Link de backend: https://chemtrack-b4dybhf0g7asevgk.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
 
 Link de IoT: https://wokwi.com/projects/434116969269344257
 
