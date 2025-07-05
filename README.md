@@ -4179,9 +4179,8 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 <table>
 <tbody>
     <tr>
-        <th valign="top">Sprint 2</th>
-        <th colspan="7" valign="top">
-        Sprint: Implementar el landing page y frontend acorde a las historias redactadas. Posteriormente realizar el despliegue  </th>
+        <th valign="top">Sprint 3</th>
+        <th colspan="7" valign="top"> Sprint: Implementar mejoras del backend, edge e IoT para el prototipo final </th>
     </tr>
     <tr>
         <td colspan="2" valign="top">User Story</td>
@@ -4197,21 +4196,21 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
     </tr>
     <tr>
-        <td rowspan="4" valign="top">TS01</td>
-        <td rowspan="4" valign="top"> Implementación de Monitoreo del Vehículo</td>
+        <td rowspan="4" valign="top">US03</td>
+        <td rowspan="4" valign="top"> Verificación de Seguimiento de transporte a tiempo real</td>
         <td valign="top">T01</td>
-        <td valign="top">Diseño de interfaz de monitoreo</td>
-        <td valign="top">Diseñar la vista web donde se mostrarán los sensores activos al usuario.</td>
-        <td valign="top">4</td>
-        <td valign="top">Camila Amaro</td>
+        <td valign="top">Configuración del backend</td>
+        <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos del sensor GPS</td>
+        <td valign="top">6</td>
+        <td valign="top">Niurka Huarcaya</td>
         <td valign="top">Done</td>
 </tr>
 <tr>
     <td valign="top">T02</td>
-    <td valign="top">Implementación de interfaz</td>
-    <td valign="top">Desarrollar la vista web para mostrar sensores activos a tiempo real.</td>
-    <td valign="top">5</td>
-    <td valign="top">Sharon Barrial</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de sensor de GPS desde para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre</td>
     <td valign="top">Done</td>
 </tr>
 <tr>
