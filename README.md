@@ -1,4 +1,3 @@
-# Grupo 4 Report
 ![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
@@ -13,14 +12,14 @@ NRC 2939
 
 Profesor: León Baca, Marco Antonio
 
-***INFORME DE TRABAJO - TB2***
+***INFORME DE TRABAJO - TF***
 
 **Startup: TrackTox**
 
 **Producto: Chemtrack**
 
-**Integrantes:**
-| Nombre completo                               | Código        |
+**Integrantes**
+| Nombre completo | Código        |
 |----------------------------------------------|---------------|
 | Amaro Villanueva, Camila Elena               | U202114248    |
 | Barrial Marín, Sharon Antuanet Ivet          | U202114900    |
@@ -30,7 +29,7 @@ Profesor: León Baca, Marco Antonio
 | Huarcaya Quispe, Niurka Lucero               | U20221B226    |
 
 
-20 de Junio del 2025
+Lima, 06 de Julio del 2025
 
 ---
 # Registro de Versiones del Informe
@@ -40,7 +39,10 @@ Profesor: León Baca, Marco Antonio
 | 1.00 | 24/04/2025 | Todos los integrantes del equipo  | Se desarrolló la descripción del startup Chemtrack, presentando a los integrantes del equipo, la problemática a resolver y el análisis del mercado, incluyendo a la competencia y el valor agregado que ofrece nuestra solución dentro del nicho. Además, se definieron la visión y objetivos del proyecto, el segmento objetivo y se propuso una solución tecnológica basada en IoT para el monitoreo seguro del transporte de materiales peligrosos, sentando así las bases para el desarrollo futuro del sistema. Luego se implementó los demás artefactos necesarios para realizar una base sólida para la arquitectura, implementación, validación y desarrollo de ChemTrack.   |
 | 2.00 | 14/05/2025 | Todos los integrantes del equipo  | Se levantaron las correcciones de la entrega pasada, se realizaron y definieron los style guideline, las cualidades core de nuestro sistema para garantizar una interfaz interactiva y limpia, se realizaron los mockups, wireframes junto con los wireflows y userflows. Finalmente se obtuvo el prototipo de mobile, landing y desktop con el cual se planificó el sprint 1  y su respectivo desarrollo junto con el sprint backlog 1, development, execution, testing y los demás artefactos disponibles en el presente proyecto. Se desarrolló e implementó la landing page como el primer prototipo web de Chemtrack y se prosiguió con su despliegue.   |
 | 3.00 | 20/06/2025 | Todos los integrantes del equipo | Se levantaron las observaciones de la entrega anterior y se desarrolló la versión final del landing page y del frontend de la página web. Además, se implementaron las funcionalidades core del sistema para asegurar una interfaz interactiva y limpia en esta primera versión de backend, edge, mobile y embebido. Finalmente, se realizó el despliegue de cada uno de los artefactos, documentándolo como parte del desarrollo del Sprint 2. También se llevaron a cabo las entrevistas de validación con Chemtrack, se aplicaron las heurísticas de evaluación, se elaboró el video "About the Product" y se actualizaron las conclusiones y recomendaciones. |
+| 4.00 | 06/07/2025 | Todos los integrantes del equipo | Se levantaron las observaciones de la entrega anterior y se desarrolló la versión final del landing page y del frontend de la página web. Además, se implementaron las funcionalidades core del sistema para asegurar una interfaz interactiva y limpia en esta primera versión de backend, edge, mobile y embebido. Finalmente, se realizó el despliegue de cada uno de los artefactos, documentándolo como parte del desarrollo del Sprint 2. También se llevaron a cabo las entrevistas de validación con Chemtrack, se aplicaron las heurísticas de evaluación, se elaboró el video "About the Product" y se actualizaron las conclusiones y recomendaciones. |
+
 ---
+
 # Project Report Collaboration Insights
 
 **TB1:** Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
@@ -63,6 +65,15 @@ Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
 *Registro de commits*
 
 ![image](https://github.com/user-attachments/assets/c7a9982a-f550-487f-ba34-fcc6bd2b2879)
+
+**TF:** Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de GitHub dentro de la organización del equipo:
+
+Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
+
+*Registro de commits*
+
+![image]()
+
 
 
 ---
@@ -103,7 +114,7 @@ Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-## [Capítulo IV: Strategic-Level Software Design](#capítulo-iv-strategic-level-software-design)
+## [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
   - [4.1 Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
     - [4.1.1. EventStorming](#411-eventstorming)
       - [4.1.1.1 Candidate Context Discovery](#4111-candidate-context-discovery)
@@ -175,21 +186,31 @@ Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
     - [6.2.1.2. Aspect Leaders and Collaborators](#6212-aspect-leaders-and-collaborators)
     - [6.2.1.3. Sprint Backlog 1](#6213-sprint-backlog-1)
     - [6.2.1.4. Development Evidence for Sprint Review](#6214-development-evidence-for-sprint-review)
-    - [6.2.1.5. Testing Suite Evidence](#6215-testing-suite-evidence)
-    - [6.2.1.6. Execution Evidence](#6216-execution-evidence)
-    - [6.2.1.7. Services Documentation](#6217-services-documentation)
-    - [6.2.1.8. Software Deployment Evidence](#6218-software-deployment-evidence)
-    - [6.2.1.9. Team Collaboration Insights](#6219-team-collaboration-insights)
+    - [6.2.1.5. Testing Suite Evidence for Sprint Review](#6215-testing-suite-evidence-for-sprint-review)
+    - [6.2.1.6. Execution Evidence for Sprint Review](#6216-execution-evidence-for-sprint-review)
+    - [6.2.1.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
+    - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
+    - [6.2.1.9. Team Collaboration Insights During Sprint](#6219-team-collaboration-insights-during-sprint)
   - [6.2.2. Sprint 2](#622-sprint-2)
     - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
     - [6.2.2.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)
     - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)
     - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
-    - [6.2.2.5. Testing Suite Evidence](#6225-testing-suite-evidence)
-    - [6.2.2.6. Execution Evidence](#6226-execution-evidence)
-    - [6.2.2.7. Services Documentation](#6227-services-documentation)
-    - [6.2.2.8. Software Deployment Evidence](#6228-software-deployment-evidence)
-    - [6.2.2.9. Team Collaboration Insights](#6229-team-collaboration-insights)
+    - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6215-testing-suite-evidence-for-sprint-review)
+    - [6.2.2.6. Execution Evidence for Sprint Review](#6216-execution-evidence-for-sprint-review)
+    - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
+    - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
+    - [6.2.2.9. Team Collaboration Insights During Sprint](#6219-team-collaboration-insights-during-sprint)
+  - [6.2.3. Sprint 3](#622-sprint-3)
+    - [6.2.3.1. Sprint Planning 3](#6221-sprint-planning-3)
+    - [6.2.3.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)
+    - [6.2.3.3. Sprint Backlog 3](#6223-sprint-backlog-3)
+    - [6.2.3.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
+    - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6215-testing-suite-evidence-for-sprint-review)
+    - [6.2.3.6. Execution Evidence for Sprint Review](#6216-execution-evidence-for-sprint-review)
+    - [6.2.3.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
+    - [6.2.3.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
+    - [6.2.3.9. Team Collaboration Insights During Sprint](#6219-team-collaboration-insights-during-sprint)
 - [6.3. Validation Interviews](#63-validation-interviews)
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
@@ -1103,7 +1124,7 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 |17|US04|Reporte de Estado del Vehículo|Como transportista, quiero generar y enviar un reporte sobre el estado del vehículo, para mantener un registro actualizado.|3|
 |18|US02|Notificaciones de Mantenimiento Preventivo|Como transportista, quiero recibir notificaciones para realizar el mantenimiento preventivo del vehículo, para evitar problemas inesperados.|3|
 
-# Capítulo IV: Strategic-Level Software Design
+# Capítulo IV: Solution Software Design
 
 ## 4.1 Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
@@ -3554,7 +3575,7 @@ Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y
 
 [Enlace de Trello](https://trello.com/invite/b/681fc71a5692939678facc66/ATTIc15614080cece153cca3c2bae0cd3505CFC7F6B0/chemtrack)
 
-#### 6.2.2.3. Development Evidence for Sprint Review
+#### 6.2.2.4. Development Evidence for Sprint Review
 
 Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
@@ -3770,7 +3791,7 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
 </table>
 
 
-#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+#### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -3794,7 +3815,7 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
 
 Link de repositorio: https://github.com/Chemtrack-Grupo4/chemtrack-testing
 
-#### 6.2.2.5. Execution Evidence for Sprint Review
+#### 6.2.2.6. Execution Evidence for Sprint Review
 
 En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
 
@@ -3864,7 +3885,7 @@ Demostración de funcionamiento de edge y su comunicación con el embedded.
 [Enlace del video](https://youtu.be/mHsDo7mMxjk)
 
 
-#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+#### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
 Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
 
@@ -3938,7 +3959,7 @@ Muestra de los empleados de acuerdo al usuario autenticado
 
 
 
-#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review
 
 >**Despliegue de Landing Page** 
 
@@ -4073,7 +4094,7 @@ Link de IoT: https://wokwi.com/projects/434116969269344257
 
 Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amazonaws.com:8162/admin/topics.jsp
 
-#### 6.2.1.8. Team Collaboration Insights during Sprint
+#### 6.2.1.9. Team Collaboration Insights during Sprint
 
 >**Pulse**
 
@@ -4121,6 +4142,351 @@ Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amaz
 ![image](https://github.com/user-attachments/assets/c335ebe4-27c9-47d2-b7e6-e36ab04ad0f3)
 
 
+### 6.2.3. Sprint 3
+#### 6.2.3.1. Sprint Planning 3
+
+
+| Sprint #                         | 3                                                                                                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                                                             |
+| Date                             | 2025 - 04 - 06                                                                                                                                                     |
+| Time                             | 06:00 AM                                                                                                                                                                     |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                          |
+| Attendees (to planning meeting)  | Camila Amaro, Sharon Barrial, Andrea García, Fabrizzio Laguerre, Josue Bustamante, Niurka Huarcaya, Josue Hidalgo                                                            |
+| Sprint 3 - Review Summary        | Durante el Sprint 2, el equipo completó con éxito todas las tareas planificadas. Las tareas  implementadas incluyen todas las tareas core del sistema.     |
+| Sprint 3 - Retrospective Summary | **Aspectos positivos** <br> - El equipo logró completar la mayoría de tareas conforme a los tiempos estimados, manteniendo una buena organización del trabajo.<br> - La distribución de tareas entre plataformas (Web, Mobile, IoT, Edge y Backend) permitió avanzar en paralelo y cumplir con funcionalidades clave del sistema.<br>**Áreas de mejora**<br> - La integración entre frontend, mobile y backend evidenció algunos retrasos por falta de endpoints definidos previamente.<br>**Acciones a implementar**<br> - Definir endpoints con mayor anticipación en el backlog técnico antes de asignar tareas dependientes.<br> - Establecer una checklist de documentación por módulo (mockup, API, lógica de validación) para agilizar el entendimiento del equipo.                                                                                                                                            |
+| **Sprint Goal & User Stories**   |                                                                                                                                                                              |
+| Sprint 3 Goal                    | El objetivo de este Sprint fue implementar funcionalidades complementarias para completar las operaciones claves del sistema relacionadas en la versión web como móvil, backend, edge e IoT.<br>**Logros del sprint** <br> - Monitoreo a tiempo real de mitigación de riesgos. <br> - Implementación del historial de incidentes para usuarios y transportistas. <br> - Publicación y filtrado de solicitudes de transporte desde la web y app móvil.<br> - Control y alertas por exceso de tiempo de conducción integrados en sensores IoT.         |
+| Sprint 3 - Velocity              | El equipo puede aceptar 37 Story Points                                                                                                                                      |
+| Sprint 3 - Story Points          | La suma de los Story Points de los User Stories que se atenderá es 37 Story Points                                                                 |
+
+#### 6.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Web - Mobile <br> Features Leader (L)/Collaborator (C)  | Backend <br> Features Leader (L)/Collaborator (C) | IoT <br> Features Leader (L)/Collaborator (C) |
+|----|-----|-----|----|----|----|
+|Camila Amaro | CamiAm404 | L | C | C | C |
+|Sharon Barrial | SharonBarrial | C | C | C | L |
+|Andrea García | Armix18 | C | C | C | C |
+|Fabrizzio Laguerre | UwUInspector | C | C | C | C |
+|Josue Hidalgo | Kabudence | C | L | C | C |
+|Niurka Huarcaya| NLH18 | C | C | L | C |
+
+#### 6.2.3.3. Sprint Backlog 3
+
+Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge acorde con las User Stories para la entrega del producto final.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 2</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el landing page y frontend acorde a las historias redactadas. Posteriormente realizar el despliegue  </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="4" valign="top">TS01</td>
+        <td rowspan="4" valign="top"> Implementación de Monitoreo del Vehículo</td>
+        <td valign="top">T01</td>
+        <td valign="top">Diseño de interfaz de monitoreo</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán los sensores activos al usuario.</td>
+        <td valign="top">4</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T02</td>
+    <td valign="top">Implementación de interfaz</td>
+    <td valign="top">Desarrollar la vista web para mostrar sensores activos a tiempo real.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T03</td>
+    <td valign="top">Configuración del backend</td>
+    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos sensores desde el backend.</td>
+    <td valign="top">6</td>
+    <td valign="top">Niurka Huarcaya</td>
+    <td valign="top">In Progress</td>
+</tr>
+<tr>
+    <td valign="top">T04</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de sensores desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In Progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US03</td>
+        <td rowspan="4" valign="top"> Verificación de Rutas Seguras</td>
+        <td valign="top">T05</td>
+    <td valign="top">Vista de rutas seguras (Web)</td>
+    <td valign="top">Implementar la interfaz que muestre rutas actuales y alertas en el mapa.</td>
+    <td valign="top">5</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T06</td>
+    <td valign="top">Mapa interactivo de rutas (Mobile)</td>
+    <td valign="top">Mostrar al conductor rutas seguras y alertas en la aplicación móvil.</td>
+    <td valign="top">5</td>
+    <td valign="top">Andrea Garcia</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T07</td>
+    <td valign="top">Sensor GPS para rutas (IoT)</td>
+    <td valign="top">Configurar dispositivos IoT para detectar ubicación y posibles desvíos de ruta.</td>
+    <td valign="top">6</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T08</td>
+    <td valign="top">API de rutas y alertas (Backend)</td>
+    <td valign="top">Desarrollar endpoints para consultar rutas seguras y enviar alertas.</td>
+    <td valign="top">6</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US12</td>
+        <td rowspan="4" valign="top"> Visualización de Transportistas Disponibles</td>
+        <td valign="top">T09</td>
+        <td valign="top">Diseño de interfaz de transportistas disponibles</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán los transportistas disponibles.</td>
+        <td valign="top">4</td>
+        <td valign="top">Fabrizzio Laguerre	</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T10</td>
+    <td valign="top">Implementación de interfaz</td>
+    <td valign="top">Desarrollar la vista web para mostrar los transportistas disponibles.</td>
+    <td valign="top">5</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T11</td>
+    <td valign="top">Configuración del backend</td>
+    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos de los transportistas disponibles desde el backend.</td>
+    <td valign="top">6</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In Progress</td>
+</tr>
+<tr>
+    <td valign="top">T12</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de los transportistas disponibles desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US10</td>
+        <td rowspan="4" valign="top">Actualización de Estado del Transporte</td>
+        <td valign="top">T13</td>
+    <td valign="top">Vista de reportes por vehículo (Web)</td>
+    <td valign="top">Mostrar historial de reportes recibidos por cada transporte en la plataforma web.</td>
+    <td valign="top">3</td>
+    <td valign="top">Josue Hidalgo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T14</td>
+    <td valign="top">Visualización de actualización de estado (Mobile)</td>
+    <td valign="top">Permitir la visualización del estado del transporte a los empresarios.</td>
+    <td valign="top">4</td>
+    <td valign="top">Andrea Garcia</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T15</td>
+    <td valign="top">Sensor de estado del vehículo (IoT)</td>
+    <td valign="top">Capturar el estado del transporte (alerta de anomalías) mediante sensores.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T16</td>
+    <td valign="top">API de estados del transporte (Backend)</td>
+    <td valign="top">Gestionar actualización, almacenamiento y consulta de estados del transporte.</td>
+    <td valign="top">5</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US11</td>
+        <td rowspan="4" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td>
+        <td valign="top">T17</td>
+    <td valign="top">Búsqueda de transportistas (Web)</td>
+    <td valign="top">Navbar para filtrar transportistas según parámetros específicos.</td>
+    <td valign="top">5</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T18</td>
+    <td valign="top">Formulario de solicitud (Mobile)</td>
+    <td valign="top">Permitir al usuario registrar una solicitud de transporte desde su dispositivo.</td>
+    <td valign="top">4</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T19</td>
+    <td valign="top">Validación de condiciones (IoT)</td>
+    <td valign="top">Verificar si el contenedor cumple con las condiciones necesarias mediante sensores.</td>
+    <td valign="top">6</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T20</td>
+    <td valign="top">API de publicación de solicitudes (Backend)</td>
+    <td valign="top">Crear endpoints para registrar, listar y gestionar solicitudes.</td>
+    <td valign="top">5</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+        <tr>
+        <td rowspan="4" valign="top">US13</td>
+        <td rowspan="4" valign="top">Acceso a Reporte de Incidentes</td>
+        <td valign="top">T21</td>
+    <td valign="top">Vista de historial e incidentes (Web)</td>
+    <td valign="top">Mostrar en la plataforma web el historial de viajes e incidentes asociados.</td>
+    <td valign="top">5</td>
+    <td valign="top">Niurka Huarcaya</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T22</td>
+    <td valign="top">Historial del transportista (Mobile)</td>
+    <td valign="top">Permitir al transportista ver su historial de viajes desde la app.</td>
+    <td valign="top">4</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T23</td>
+    <td valign="top">Sincronización de logs (IoT)</td>
+    <td valign="top">Enviar datos desde sensores al backend para guardar en historial.</td>
+    <td valign="top">5</td>
+    <td valign="top">Andrea Garcia</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T24</td>
+    <td valign="top">API de historial (Backend)</td>
+    <td valign="top">Crear endpoints para consultar historial de transportes con filtros.</td>
+    <td valign="top">4</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In progress</td>
+</tr>
+  <tr>
+        <td rowspan="4" valign="top">US14</td>
+        <td rowspan="4" valign="top">Control de tiempos de conducción de transporte</td>
+        <td valign="top">T25</td>
+    <td valign="top">Dashboard de tiempos (Web)</td>
+    <td valign="top">Visualizar en la web los tiempos de conducción total.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T26</td>
+    <td valign="top">Alertas de conducción (Mobile)</td>
+    <td valign="top">Notificar al transportista si excede el tiempo máximo permitido.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T27</td>
+    <td valign="top">Sensor de tiempo de conducción (IoT)</td>
+    <td valign="top">Medir tiempo de conducción desde el encendido del vehículo.</td>
+    <td valign="top">5</td>
+    <td valign="top">Josue Hidalgo	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T28</td>
+    <td valign="top">Control y lógica de alertas (Backend)</td>
+    <td valign="top">Procesar y emitir alertas desde backend cuando se exceda tiempo permitido.</td>
+    <td valign="top">6</td>
+    <td valign="top">Camila Amaro	</td>
+    <td valign="top">In progress</td>
+</tr>
+    <tr>
+        <td rowspan="4" valign="top">US15</td>
+        <td rowspan="4" valign="top">Notificación de tiempo de conducción de transporte en exceso</td>
+        <td valign="top">T29</td>
+        <td valign="top">Diseño de interfaz de notificaciones</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán las notificaciones al usuario.</td>
+        <td valign="top">4</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T30</td>
+    <td valign="top">Implementación de interfaz</td>
+    <td valign="top">Desarrollar la vista web para mostrar notificaciones del tiempo de conducción de transporte.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T31</td>
+    <td valign="top">Configuración del backend de notificaciones</td>
+    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar notificaciones desde el backend.</td>
+    <td valign="top">6</td>
+    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">In progress</td>
+</tr>
+<tr>
+    <td valign="top">T32</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Consumir la API de notificaciones desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">4</td>
+    <td valign="top">Niurka Huarcaya	</td>
+    <td valign="top">In progress</td>
+</tr>
+  <tr>
+        <td rowspan="3" valign="top">US16</td>
+        <td rowspan="3" valign="top">Landing Page responsive</td>
+        <td valign="top">T33</td>
+        <td valign="top">Mejora del diseño responsive en dispositivos reales</td>
+    <td valign="top">Realizar pruebas de la landing en diferentes tamaños de pantalla y navegadores, corrigiendo errores de diseño y visualización.</td>
+    <td valign="top">2</td>
+    <td valign="top">Sharon Barrial	</td>
+    <td valign="top"> In progress</td>
+</tr>
+</tbody>
+</table>
+
+#### 6.2.3.4. Development Evidence for Sprint Review
+#### 6.2.3.5. Testing Suite Evidence for Sprint Review
+#### 6.2.3.6. Execution Evidence for Sprint Review
+#### 6.2.3.7. Services Documentation Evidence for Sprint Review
+#### 6.2.3.8. Software Deployment Evidence for Sprint Review
+#### 6.2.3.9. Team Collaboration Insights During Sprint
 
 ## 6.3. Validation Interviews
 ### 6.3.1. Diseño de Entrevistas
