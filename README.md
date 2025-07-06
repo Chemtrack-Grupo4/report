@@ -4044,7 +4044,6 @@ Link de backend: https://chemtrack-b4dybhf0g7asevgk.canadacentral-01.azurewebsit
 
 Link de IoT: https://wokwi.com/projects/434116969269344257
 
-Link de edge: https://b-ce070b7e-380a-45c8-ae3e-47919e453f30-1.mq.us-east-1.amazonaws.com:8162/admin/topics.jsp
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
@@ -4450,7 +4449,135 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 
 #### 6.2.3.4. Development Evidence for Sprint Review
 #### 6.2.3.5. Testing Suite Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-1.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-2.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-3.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-4.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-5.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-6.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-7.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-8.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-9.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-10.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-11.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-12.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2959347 | Acceptance-test-13.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | 2d887b9 | Acceptance-test-14.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-15.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b99 | Acceptance-test-16.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | bfc7b98 | Acceptance-test-17.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | cxy7b63 | Acceptance-test-18.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | ccc7b45 | Acceptance-test-19.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | e3m7b62 | Acceptance-test-20.feature  | - | 06/07/2025 |
+| chemtrack-testing | test/UserStories | jgx7333 | Acceptance-test-21.feature  | - | 06/07/2025 |
+
+
+Link de repositorio: https://github.com/Chemtrack-Grupo4/chemtrack-testing
+
 #### 6.2.3.6. Execution Evidence for Sprint Review
+
+En el Sprint 3 se alcanzó a desarrollar la última versión de la landing page,  Frontend del Web Application, Mobile, Backend e IoT de la aplicación. A continuación se muestra lo realizado:
+
+>**Landing page**
+
+- Versión Final
+- Estado: En producción activa
+- Se accede a la página web - Frontend, desde la opción *Aplicación* cta.
+
+<a href="https://chemtrack-grupo4.github.io/Landing-Page/"><img src="https://i.ibb.co/zVDsx58N/Captura-de-pantalla-2025-05-14-003027.png" alt="Landing page" border="0"></a>
+
+Demostración del contenido de Landing Page y su conexión con la página web desde el botón *Call-To-Action*.
+![image](https://github.com/user-attachments/assets/9e48c805-dd5f-45f9-a23c-fd81e63e2de6)
+
+[Enlace de video](https://youtu.be/iZ1wX6IyvGI)
+
+>**Frontend**
+
+- Versión Final
+- Estado: En producción activa
+
+![image](https://github.com/user-attachments/assets/c81b1bf8-9ce5-450e-bdb9-995c629f16f8)
+![Imagen de WhatsApp 2025-06-06 a las 21 01 36_aca33b7f](https://github.com/user-attachments/assets/cd16edf9-ba5b-48a0-bdd9-cdfc1fab861b)
+![image](https://github.com/user-attachments/assets/4ce06d6c-c59c-4360-91d6-56066d9a9c23)
+![image](https://github.com/user-attachments/assets/ba75656d-0b2b-4138-907f-8fa107e8c399)
+![image](https://github.com/user-attachments/assets/f9631fb8-8240-4173-a67c-2a3e5bd76886)
+
+>**Backend**
+
+- Versión Inicial
+- Estado: En producción activa
+
+Endpoints
+![image](https://github.com/user-attachments/assets/3aa0988d-2054-4960-9db8-e3c62fb7f8ae)
+![image](https://github.com/user-attachments/assets/9811ceeb-bb0d-4c7d-a965-38bc989e95db)
+
+Demostración del funcionamiento de los endpoints a través de postman
+![Imagen de WhatsApp 2025-06-19 a las 22 59 45_7d5ac168](https://github.com/user-attachments/assets/d652b958-1980-42f1-85d8-3d83d9e86d3c)
+
+[Enlace del video](https://youtu.be/UDbjgP1GyrI)
+
+>**Mobile**
+- Versión Inicial
+- Estado: Desplegado en apk
+![image](https://github.com/user-attachments/assets/38aa8b3a-1d0a-4bc6-9b7d-71d6ffb3f390)
+
+[Enlace del video](https://youtu.be/Tnb-feMw1N8)
+
+>**IoT Embedded**
+- Versión Inicial
+- Estado: Simulado en Wokwi e integrado con broker MQTT
+
+![Imagen de WhatsApp 2025-06-18 a las 21 53 50_c4c6f0c1](https://github.com/user-attachments/assets/f3b9f7b5-c4df-4104-903a-b7897d88e73a)
+[Enlace de demostración de su funcionamiento](https://youtu.be/mHsDo7mMxjk?si=jYEzVz3hB8E_QJCo)
+
+>**Edge**
+- Versión Inicial
+- Estado: Pruebas de entorno local
+
+Se trabajó bajo el paradigma de Edge Computing, diseñando su arquitectura y validando su lógica a través de pruebas locales.
+
+Estas pruebas permitieron verificar:
+
+- La correcta suscripción y publicación de mensajes MQTT.
+
+- La recepción y procesamiento de eventos generados por dispositivos simulados.
+
+- La integración con servicios REST para el reenvío de información.
+
+- El comportamiento general del componente ante posibles eventos en tiempo real.
+
+El enfoque se centró en simular el comportamiento de un nodo Edge sin necesidad de realizar un despliegue completo, cumpliendo con los objetivos funcionales del proyecto y las indicaciones académicas.
+
+![image](https://github.com/user-attachments/assets/c715a7e0-b8bf-4fc1-8d42-ae2e549313d5)
+![Imagen de WhatsApp 2025-06-19 a las 08 47 13_da59ddfe](https://github.com/user-attachments/assets/d1d4f105-9631-4dd1-82cc-a4255e09c334)
+![Imagen de WhatsApp 2025-06-19 a las 08 49 45_664c14b8](https://github.com/user-attachments/assets/eae9c537-12bf-4d1e-9665-23f3f560e07b)
+
+Demostración de funcionamiento de edge y su comunicación con el embedded.
+
+![image](https://github.com/user-attachments/assets/87bda626-4f78-4302-a082-356b6325a396)
+[Enlace del video](https://youtu.be/mHsDo7mMxjk)
+
+
+> **Demo de la comunicación y flujo de todos los artefactos requeridos y desarrollados a lo largo de este proyecto**
+
+Esta demo muestra como todos los artefactos de nuestro prototipo final (embedded, edge, backend, frontend y mobile) se comunican mandando y recibiendo los datos de forma correcta.
+
+![image]()
+
+[Enlace de video](https://youtu.be/8AKGtBELu74)
+
+> **Demo de la comunicación del prototipo físico embendded para la recepción de sus datos en edge y backend**
+
+Esta demo muestra como nuestro prototipo físico se comunica con el edge, a través del broker Active MQ y junto con el uso del protocolo MQTT para almacenarse en el backend.
+
+![image]()
+
+[Enlace de video]()
+
+
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 
 Para el Sprint 3, se verificaron que los siguientes endpoints clave permitan gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
@@ -4600,6 +4727,8 @@ Este despliegue permitió a los usuarios evaluar las funcionalidades implementad
 ![Imagen de WhatsApp 2025-06-19 a las 22 38 54_9e29d9ee](https://github.com/user-attachments/assets/25d3c782-9102-47a0-ab15-4aeb012f2281)
 
 ![Imagen de WhatsApp 2025-06-19 a las 22 40 12_6e97f421](https://github.com/user-attachments/assets/0d4b2b4f-aa55-43c9-b206-b451c01e2538)
+
+Es así como se muestra el despligue de cada uno de los artefactos que lo requiere.
 
 Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
 
