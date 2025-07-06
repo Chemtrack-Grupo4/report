@@ -4450,7 +4450,7 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 
 Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como losque vienen en las próximas iteracciones. Como resultado se obtuvo 33 tasks para el presente sprint.
 
-![image]()
+![image](https://github.com/user-attachments/assets/02a33094-d734-4709-804b-2441ea9695d1)
 
 [Enlace del Trello](https://trello.com/invite/b/681fc71a5692939678facc66/ATTIc15614080cece153cca3c2bae0cd3505CFC7F6B0/chemtrack)
 
