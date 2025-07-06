@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-07-06 at 04 33 19_01cd0acc](https://github.com/user-attachments/assets/ccb849c0-b9e7-400c-b823-bc67f7c52676)![image](https://github.com/user-attachments/assets/5861bdf7-af1a-4d7a-98e7-8e673d21f4c3)![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
+![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
 
