@@ -1,4 +1,4 @@
-![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
+![WhatsApp Image 2025-07-06 at 04 33 19_01cd0acc](https://github.com/user-attachments/assets/ccb849c0-b9e7-400c-b823-bc67f7c52676)![image](https://github.com/user-attachments/assets/5861bdf7-af1a-4d7a-98e7-8e673d21f4c3)![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
 
@@ -4800,7 +4800,8 @@ Demostración de funcionamiento de edge y su comunicación con el embedded.
 
 Esta demo muestra como todos los artefactos de nuestro prototipo final (embedded, edge, backend, frontend y mobile) se comunican mandando y recibiendo los datos de forma correcta.
 
-![image]()
+![image](https://github.com/user-attachments/assets/808fe024-a4ef-4702-b84c-5d03abda5031)
+
 [Enlace de video](https://youtu.be/8AKGtBELu74)
 
 <br>
@@ -4809,9 +4810,9 @@ Esta demo muestra como todos los artefactos de nuestro prototipo final (embedded
 
 Esta demo muestra como nuestro prototipo físico se comunica con el edge, a través del broker Active MQ y junto con el uso del protocolo MQTT para almacenarse en el backend.
 
-![image]()
+![image](https://github.com/user-attachments/assets/c285f9d7-04c7-4723-b804-ae1ad8e5af22)
 
-[Enlace de video]()
+[Enlace de video](https://youtu.be/vl2Iv7xnhAs)
 
 
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
@@ -4924,21 +4925,21 @@ De esta manera, el avance del **Sprint 3** quedó funcional y disponible públic
    - Se aseguró que el repositorio de backend estuviera limpio y contuviera todos los archivos necesarios para el build.
    - Se definieron variables de entorno desde Railway para la conexión a servicios externos como la base de datos y MQTT.
   
-![image]()
+![image](https://github.com/user-attachments/assets/fd7eda0a-4a91-4d17-9423-233721ffeaf9)
 
 **Integración con Railway**
    - Se accedió a **Railway** y se creó un nuevo proyecto.
    - Se conectó el proyecto directamente al repositorio en GitHub, seleccionando la rama principal para el despliegue.
    - Azure detectó automáticamente el stack del proyecto e inició el proceso de construcción (**build**).
 
-![image]()
+![image](https://github.com/user-attachments/assets/71854586-de95-47f1-95d6-3d7bbb7d692c)
 
 **Despliegue automático**
    - Una vez completado el build, Azure desplegó el backend y proporcionó una URL pública accesible.
    - Se habilitó el monitoreo en tiempo real para verificar el estado del servicio.
    - En caso de errores o necesidad de debugging, Railway ofrece visualización de logs directamente desde el panel.
 
-![image]()
+![image](https://github.com/user-attachments/assets/c785684f-f244-4fda-ac0d-f2789e486c8e)
 
 Aquí se hace presente el video demostrando el funcionamiento del despliegue del backend haciendo uso de POSTMAN.
 
@@ -4952,11 +4953,6 @@ Para el despliegue de la aplicación móvil, se generó el archivo APK utilizand
 ```bash
 flutter build apk --release
 ```
-Posteriormente, se realizó la carga del APK en una plataforma de distribución para facilitar las pruebas internas. **Firebase App Distribution**
-
-Finalmente, se verificó su correcto funcionamiento en distintos dispositivos Android con el fin de asegurar la **estabilidad**, **compatibilidad** y **usabilidad** del APK generado.
-
-Este despliegue permitió a los usuarios evaluar las funcionalidades implementadas durante el Sprint, facilitando la **retroalimentación temprana** para futuras iteraciones y asegurando una **experiencia fluida** antes de su publicación oficial.
 
 ![Imagen de WhatsApp 2025-06-19 a las 22 38 36_ee83ce24](https://github.com/user-attachments/assets/e102840b-4ae3-47d2-bdc6-74f68dc8febc)
 
@@ -4964,13 +4960,27 @@ Este despliegue permitió a los usuarios evaluar las funcionalidades implementad
 
 ![Imagen de WhatsApp 2025-06-19 a las 22 40 12_6e97f421](https://github.com/user-attachments/assets/0d4b2b4f-aa55-43c9-b206-b451c01e2538)
 
+Posteriormente, se realizó la carga del APK en una plataforma de distribución para facilitar las pruebas internas. **Firebase App Distribution**
+
+![WhatsApp Image 2025-07-06 at 04 33 19_01cd0acc](https://github.com/user-attachments/assets/716deca3-3264-4db3-965f-8f606c24314c)
+
+Finalmente, se verificó su correcto funcionamiento en distintos dispositivos Android con el fin de asegurar la **estabilidad**, **compatibilidad** y **usabilidad** del APK generado.
+
+![WhatsApp Image 2025-07-06 at 04 33 19_454dfcb3](https://github.com/user-attachments/assets/f2dea5fc-af47-4135-a6a9-17a253dd12d4)
+
+Este despliegue permitió a los usuarios evaluar las funcionalidades implementadas durante el Sprint, facilitando la **retroalimentación temprana** para futuras iteraciones y asegurando una **experiencia fluida** antes de su publicación oficial.
+
+![WhatsApp Image 2025-07-06 at 04 33 19_a39014b7](https://github.com/user-attachments/assets/64ca8414-a14c-4bd6-8075-920b4d8c6801)
+
 Es así como se muestra el despligue de cada uno de los artefactos que lo requiere.
+
+![WhatsApp Image 2025-07-06 at 04 35 40_f41ef473](https://github.com/user-attachments/assets/8144f604-38ad-43b0-8a74-a7658a6d78f9)
 
 Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
 
 Link de web application: https://chemtrack-app.netlify.app/services
 
-Link del mobile application: https://drive.google.com/file/d/1Zb7HNpkLBJKW9ON0I5ydz33bGrYA59-D/view?usp=drive_link
+Link del mobile application: https://appdistribution.firebase.google.com/accept/c8ccff066da71ba3db942648
 
 Link de backend: https://chemtrack-backend-production.up.railway.app/api/safeflow/v1/records
 
@@ -4983,46 +4993,44 @@ Link de IoT: https://wokwi.com/projects/434116969269344257
 
 **Frontend**
 
-![image]()
+![image](https://github.com/user-attachments/assets/71fd2db4-855d-4b21-9e5d-951a915ad01a)
 
 **Backend**
 
-![image]()
-
+![image](https://github.com/user-attachments/assets/71fd2db4-855d-4b21-9e5d-951a915ad01a)
 
 **Mobile**
 
-![image]()
-
+![image](https://github.com/user-attachments/assets/b05cce36-20fc-49ab-849a-b029ca136f14)
 
 >**Network**
 
 **Frontend**
 
-![image]()
+![image](https://github.com/user-attachments/assets/4cd541d8-64da-45f6-ab6d-d8bf84d24721)
 
 **Backend**
 
-![image]()
+![image](https://github.com/user-attachments/assets/8f896d13-a0dd-44cf-9d87-02b47cdf26d8)
 
 **Mobile**
 
-![image]()
+![image](https://github.com/user-attachments/assets/b4c6b016-25f8-4fcc-8629-1048329480f1)
 
 
 >**Contributors**
 
 **Frontend**
 
-![image]()
+![image](https://github.com/user-attachments/assets/cbc4b40b-6454-4aa2-8e89-bac5ca5ff19f)
 
 **Backend**
 
-![image]()
+![image](https://github.com/user-attachments/assets/61874ad0-5ba3-43ed-b0d0-5aec0cd745d6)
 
 **Mobile**
 
-![image]()
+![image](https://github.com/user-attachments/assets/fba34660-9cbd-48ed-888c-052a1f16fa3c)
 
 ## 6.3. Validation Interviews
 ### 6.3.1. Diseño de Entrevistas
@@ -5194,7 +5202,29 @@ Resumen:
 
 - Hemos entrevistado a Lisanne, quien mencionó que actualmente solo cuentan con un sistema de GPS para rastrear los vehículos y proporcionan un seguro de vida a los transportistas, pero no implementan medidas adicionales específicas para protegerlos. La capacitación que se ofrece es básica, enfocándose en evitar que la carga esté expuesta a fuentes de calor o movimientos bruscos, y se prefiere contratar conductores con experiencia. Además del GPS y los teléfonos entregados por la empresa, no utilizan tecnologías adicionales para garantizar la seguridad de las cargas.
 
-### 6.3.1. Evaluaciones según heurísticas
+### 6.3.1.1 Análisis de Entrevistas de Validación
+Durante el proceso de validación del sistema, se realizaron entrevistas a cuatro personas con experiencia en el sector transporte. El objetivo fue conocer su percepción sobre el diseño, funcionalidad y utilidad de la plataforma web, aplicación móvil y otros componentes relacionados con el sistema.
+
+1. Landing Page
+- La mayoría de entrevistados coincidió en que la página principal presenta un diseño profesional, claro y genera confianza en el usuario. Sin embargo, se identificaron oportunidades de mejora, tales como el ajuste del tamaño de la barra de navegación, una mejor adaptación para dispositivos móviles y la inclusión de elementos audiovisuales explicativos.
+
+2. Aplicación Móvil
+- Se valoró positivamente la facilidad de uso y la navegación intuitiva de la aplicación. No obstante, se sugirió realizar mejoras en la presentación visual, como el uso de una paleta de colores más adecuada. Asimismo, se recomendó implementar funcionalidades adicionales como filtros, buscadores, visualización más detallada del historial de incidentes y secciones para alertas o notificaciones automáticas.
+
+3. Plataforma Web
+- La interfaz web fue calificada como rápida, estable e intuitiva. Las recomendaciones se centraron en mejorar el sistema de búsqueda, incluir un historial de acciones de los empleados y desarrollar funcionalidades orientadas a la generación de reportes automáticos y control de mantenimiento preventivo.
+
+4. Contexto de Seguridad y Tecnología en Empresas
+- Una de las entrevistadas compartió la experiencia de su empresa, que actualmente solo utiliza herramientas básicas como GPS y teléfonos para el seguimiento de vehículos, sin la implementación de tecnologías complementarias que garanticen mayor seguridad. Esta observación permite evidenciar la necesidad real de soluciones más completas como las que ofrece el sistema desarrollado.
+
+Conclusión y Métrica Final
+- En general, los participantes manifestaron una percepción positiva sobre el sistema, destacando su usabilidad, claridad y potencial para optimizar procesos de monitoreo y prevención de incidentes en el sector transporte. Sin embargo, todos coincidieron en aspectos específicos que podrían ser mejorados, tanto en términos de diseño visual como en funcionalidades adicionales.
+
+- Métrica final: El 75% de los entrevistados calificó el sistema como funcional, intuitivo y útil, pero también identificó al menos una área de mejora concreta relacionada al diseño o a la información disponible. Esta métrica sugiere un alto nivel de aceptación del producto con un margen claro para optimización, lo cual constituye una base sólida para futuras iteraciones.
+
+
+
+### 6.3.2. Evaluaciones según heurísticas
 
 #### <div align="center">UX Heuristics & Principles Evaluation</div>
 
