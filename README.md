@@ -4485,7 +4485,55 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 #### 6.2.3.6. Execution Evidence for Sprint Review
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review
+
+
+
 #### 6.2.3.9. Team Collaboration Insights During Sprint
+
+>**Pulse**
+
+**Frontend**
+
+![image]()
+
+**Backend**
+
+![image]()
+
+
+**Mobile**
+
+![image]()
+
+
+>**Network**
+
+**Frontend**
+
+![image]()
+
+**Backend**
+
+![image]()
+
+**Mobile**
+
+![image]()
+
+
+>**Contributors**
+
+**Frontend**
+
+![image]()
+
+**Backend**
+
+![image]()
+
+**Mobile**
+
+![image]()
 
 ## 6.3. Validation Interviews
 ### 6.3.1. Diseño de Entrevistas
