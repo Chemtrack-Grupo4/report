@@ -5537,6 +5537,10 @@ Añadir filtros o placeholders específicos (ej. “Buscar por nombre o tipo…�
 
 ## 6.4. Video About-the-Product
 
+![image](https://github.com/user-attachments/assets/0ecd0257-3f03-425e-9722-d6b0c539c7dd)
+
+[Enlace del video](https://youtu.be/pxbxr8Wg00w)
+
 # Conclusiones
 ## Conclusiones y Recomendaciones
 
