@@ -4102,7 +4102,7 @@ Link de IoT: https://wokwi.com/projects/434116969269344257
 | Sprint #                         | 3                                                                                                                                                                           |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**   |                                                                                                                                                                             |
-| Date                             | 2025 - 04 - 06                                                                                                                                                     |
+| Date                             | 2025 - 07 - 06                                                                                                                                                     |
 | Time                             | 06:00 AM                                                                                                                                                                     |
 | Location                         | Virtual via Discord                                                                                                                                                          |
 | Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                          |
