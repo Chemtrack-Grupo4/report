@@ -66,13 +66,14 @@ Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
 
 ![image](https://github.com/user-attachments/assets/c7a9982a-f550-487f-ba34-fcc6bd2b2879)
 
-**TF:** Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de GitHub dentro de la organización del equipo:
+**TF1:** Se han desarrollado las actividades correspondientes para la entrega TF1 en el siguiente repositorio de GitHub dentro de la organización del equipo:
 
 Link de repositorio GitHub: https://github.com/Chemtrack-Grupo4/report
 
 *Registro de commits*
 
-![image]()
+![image](https://github.com/user-attachments/assets/45377e9d-842d-4fa5-9c84-8babf030be20)
+
 
 
 
