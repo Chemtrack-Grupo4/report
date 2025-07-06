@@ -3952,6 +3952,7 @@ Más detalle del deliveries vistos en mobile
 
 
 >Auth controller & User controller
+
 ![image](https://github.com/user-attachments/assets/4c2e8574-5027-4a7e-8fb3-73cdbfbf6dfd)
 
 Muestra de los empleados de acuerdo al usuario autenticado
