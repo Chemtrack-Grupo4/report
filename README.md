@@ -4131,7 +4131,7 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 <tbody>
     <tr>
         <th valign="top">Sprint 3</th>
-        <th colspan="7" valign="top"> Sprint: Implementar mejoras del backend, edge e IoT para el prototipo final </th>
+        <th colspan="7" valign="top"> Sprint: Implementar mejoras de la web, backend, edge e IoT para el prototipo final </th>
     </tr>
     <tr>
         <td colspan="2" valign="top">User Story</td>
@@ -4447,7 +4447,231 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 </tbody>
 </table>
 
+Se hizo uso de la herramienta Trello para gestionar las tareas de manera ágil y colaborativa tanto para este sprint como losque vienen en las próximas iteracciones. Como resultado se obtuvo 33 tasks para el presente sprint.
+
+![image]()
+
+[Enlace del Trello](https://trello.com/invite/b/681fc71a5692939678facc66/ATTIc15614080cece153cca3c2bae0cd3505CFC7F6B0/chemtrack)
+
 #### 6.2.3.4. Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+- Repositorio Landing Page: https://github.com/Chemtrack-Grupo4/Landing-Page 
+
+<br>
+
+- Repositorio Frontend: https://github.com/Chemtrack-Grupo4/chemtrack-webapp
+
+<br>
+
+- Repositorio Backend: https://github.com/Chemtrack-Grupo4/chemtrack-backend
+  
+<br>
+
+- Repositorio Mobile: https://github.com/Chemtrack-Grupo4/chemtrack-mobileapp
+  
+<br>
+
+- Repositorio IoT: https://github.com/Chemtrack-Grupo4/chemtrack-embedded
+  
+<br>
+
+- Repositorio Edge: https://github.com/Chemtrack-Grupo4/chemtrack-edge
+  
+<br>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td>Landing Page</td>
+        <td>develop</td>
+        <td>c833922</td>
+        <td>docs: update documentation</td>
+        <td>-</td>
+        <td>06/07/25</td>
+    </tr>
+    <tr>
+    <td rowspan=5>Web app</td>
+    <td>feature/alerts</td>
+    <td>eaf23bc</td>
+    <td>feat(alerts): add real-time alert system</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/dashboard-visuals</td>
+    <td>f0c1239</td>
+    <td>feat(dashboard): enhance UI with charts and graphs</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/language-support</td>
+    <td>c3a789d</td>
+    <td>feat(i18n): add multi-language support</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/login-oauth</td>
+    <td>ab19f88</td>
+    <td>feat(auth): integrate OAuth login (Google, GitHub)</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/theme-switch</td>
+    <td>d47cfa2</td>
+    <td>feat(ui): implement light/dark theme toggle</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+
+<tr>
+    <td rowspan=5>Mobile</td>
+    <td>feature/alerts-ui</td>
+    <td>9dcab01</td>
+    <td>feat(alerts): create alerts modal for notifications</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/dashboard-viz</td>
+    <td>fd23b76</td>
+    <td>feat(dashboard): display sensor data in charts</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/i18n-support</td>
+    <td>a1cc229</td>
+    <td>feat(i18n): implement multilingual support</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/social-login</td>
+    <td>4fe9b3c</td>
+    <td>feat(auth): enable social media authentication</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/theme-toggle</td>
+    <td>c0d88a1</td>
+    <td>feat(ui): switch between dark/light themes</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+
+<tr>
+    <td rowspan=5>Backend</td>
+    <td>feature/alerts-api</td>
+    <td>5e1c788</td>
+    <td>feat(alerts): implement real-time alert endpoint</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/dashboard-data</td>
+    <td>b2d9231</td>
+    <td>feat(dashboard): expose analytics data via API</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/i18n-config</td>
+    <td>ac7d23b</td>
+    <td>feat(i18n): serve translated content via API</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/oauth-login</td>
+    <td>d913fad</td>
+    <td>feat(auth): support OAuth token handling</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/user-preferences</td>
+    <td>33fc812</td>
+    <td>feat(user): add theme and language preferences</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+
+<tr>
+    <td rowspan=5>IoT</td>
+    <td>feature/alert-led</td>
+    <td>e1caa12</td>
+    <td>feat(hardware): trigger LED on alert events</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/sensor-stats</td>
+    <td>b30afcc</td>
+    <td>feat(sensors): send statistical summaries</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/lang-commands</td>
+    <td>9ae77b4</td>
+    <td>feat(i18n): support multilingual voice commands</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/auth-module</td>
+    <td>4c3f8c9</td>
+    <td>feat(auth): device authentication with token</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/display-mode</td>
+    <td>a9b0233</td>
+    <td>feat(ui): toggle LCD theme based on time</td>
+    <td>-</td>
+    <td>06/07/25</td>
+</tr>
+
+<tr>
+    <td rowspan=3>Edge</td>
+    <td>feature/alert-processing</td>
+    <td>bdc1342</td>
+    <td>feat(edge): handle critical alerts locally</td>
+    <td>Added logic to detect thresholds and trigger buzzer without backend.</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/local-dashboard</td>
+    <td>d41c99e</td>
+    <td>feat(ui): serve local dashboard on port 8080</td>
+    <td>Lightweight web server to display local sensor data.</td>
+    <td>06/07/25</td>
+</tr>
+<tr>
+    <td>feature/offline-mode</td>
+    <td>fa9231b</td>
+    <td>feat(edge): queue data during network outages</td>
+    <td>Buffers MQTT messages and sends when connection is restored.</td>
+    <td>06/07/25</td>
+</tr>
+
+
+</table>
+
 #### 6.2.3.5. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -4494,6 +4718,8 @@ Demostración del contenido de Landing Page y su conexión con la página web de
 
 [Enlace de video](https://youtu.be/iZ1wX6IyvGI)
 
+<br>
+
 >**Frontend**
 
 - Versión Final
@@ -4504,6 +4730,8 @@ Demostración del contenido de Landing Page y su conexión con la página web de
 ![image](https://github.com/user-attachments/assets/4ce06d6c-c59c-4360-91d6-56066d9a9c23)
 ![image](https://github.com/user-attachments/assets/ba75656d-0b2b-4138-907f-8fa107e8c399)
 ![image](https://github.com/user-attachments/assets/f9631fb8-8240-4173-a67c-2a3e5bd76886)
+
+<br>
 
 >**Backend**
 
@@ -4519,22 +4747,26 @@ Demostración del funcionamiento de los endpoints a través de postman
 
 [Enlace del video](https://youtu.be/UDbjgP1GyrI)
 
+<br>
+
 >**Mobile**
-- Versión Inicial
+- Versión Final
 - Estado: Desplegado en apk
 ![image](https://github.com/user-attachments/assets/38aa8b3a-1d0a-4bc6-9b7d-71d6ffb3f390)
 
 [Enlace del video](https://youtu.be/Tnb-feMw1N8)
 
+<br>
+
 >**IoT Embedded**
-- Versión Inicial
+- Versión Final
 - Estado: Simulado en Wokwi e integrado con broker MQTT
 
 ![Imagen de WhatsApp 2025-06-18 a las 21 53 50_c4c6f0c1](https://github.com/user-attachments/assets/f3b9f7b5-c4df-4104-903a-b7897d88e73a)
 [Enlace de demostración de su funcionamiento](https://youtu.be/mHsDo7mMxjk?si=jYEzVz3hB8E_QJCo)
 
 >**Edge**
-- Versión Inicial
+- Versión Final
 - Estado: Pruebas de entorno local
 
 Se trabajó bajo el paradigma de Edge Computing, diseñando su arquitectura y validando su lógica a través de pruebas locales.
@@ -4560,14 +4792,16 @@ Demostración de funcionamiento de edge y su comunicación con el embedded.
 ![image](https://github.com/user-attachments/assets/87bda626-4f78-4302-a082-356b6325a396)
 [Enlace del video](https://youtu.be/mHsDo7mMxjk)
 
+<br>
 
 > **Demo de la comunicación y flujo de todos los artefactos requeridos y desarrollados a lo largo de este proyecto**
 
 Esta demo muestra como todos los artefactos de nuestro prototipo final (embedded, edge, backend, frontend y mobile) se comunican mandando y recibiendo los datos de forma correcta.
 
 ![image]()
-
 [Enlace de video](https://youtu.be/8AKGtBELu74)
+
+<br>
 
 > **Demo de la comunicación del prototipo físico embendded para la recepción de sus datos en edge y backend**
 
