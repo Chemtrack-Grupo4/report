@@ -4881,6 +4881,7 @@ Más detalle del deliveries vistos en mobile
 
 
 >Auth controller & User controller
+
 ![image](https://github.com/user-attachments/assets/4c2e8574-5027-4a7e-8fb3-73cdbfbf6dfd)
 
 Muestra de los empleados de acuerdo al usuario autenticado
@@ -4943,6 +4944,9 @@ De esta manera, el avance del **Sprint 3** quedó funcional y disponible públic
 
 Aquí se hace presente el video demostrando el funcionamiento del despliegue del backend haciendo uso de POSTMAN.
 
+![image](https://github.com/user-attachments/assets/fc05e8af-9983-4ac9-a668-b7a00e4ddb01)
+
+
 [Enlace del video](https://youtu.be/UDbjgP1GyrI)
 
 
@@ -4972,9 +4976,9 @@ Este despliegue permitió a los usuarios evaluar las funcionalidades implementad
 
 ![WhatsApp Image 2025-07-06 at 04 33 19_a39014b7](https://github.com/user-attachments/assets/64ca8414-a14c-4bd6-8075-920b4d8c6801)
 
-Es así como se muestra el despligue de cada uno de los artefactos que lo requiere.
-
 ![WhatsApp Image 2025-07-06 at 04 35 40_f41ef473](https://github.com/user-attachments/assets/8144f604-38ad-43b0-8a74-a7658a6d78f9)
+
+Es así como se muestra el despligue de cada uno de los artefactos que lo requiere.
 
 Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
 
@@ -5132,9 +5136,9 @@ Fin: 7:37
 
 Duración: 7:37
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+Link: https://youtu.be/DdtaxQZaJT0
 
-<img src="https://i.ibb.co/Fb0J1fZS/Captura-de-pantalla-2025-06-20-124726.png" alt="entrevista1e" border="0">
+![Imagen de WhatsApp 2025-07-06 a las 04 31 04_a191dfc4](https://github.com/user-attachments/assets/cc4485d2-ae16-4164-93a8-2e1765bd6de4)
 
 Resumen:
 
@@ -5152,9 +5156,9 @@ Fin: 13:41
 
 Duración: 06:04
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+Link: https://youtu.be/DyXvV2IVVvA
 
-<img src="https://i.ibb.co/Xfqyw0MR/Captura-de-pantalla-2025-06-20-125309.png" alt="entrevista2e" border="0"></a>
+![Imagen de WhatsApp 2025-07-06 a las 04 30 46_01447af4](https://github.com/user-attachments/assets/abee3d30-75d3-494d-bd5d-5ab9237947bd)
 
 Resumen:
 
@@ -5174,9 +5178,9 @@ Fin: 18:29
 
 Duración: 5:48
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+Link: https://youtu.be/wAN-fKC7AGQ
 
-<img src="https://i.ibb.co/v6byZZnk/Captura-de-pantalla-2025-06-20-124124.png" alt="entrevista1t" border="0">
+![Imagen de WhatsApp 2025-07-06 a las 04 45 14_575ffb12](https://github.com/user-attachments/assets/46cbcc9a-d028-4b1e-b282-ffe357372b76)
 
 Resumen:
 
@@ -5194,9 +5198,9 @@ Fin: 23:59
 
 Duración: 5:29
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EbLpAaTrvy5NvHU5SdKVf1kBKb3ghRQ20a18FTW3biSvDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fNKWO8
+Link: https://youtu.be/N6JERwsmU-o
 
-<img src="https://i.ibb.co/VW4Q5rsP/Captura-de-pantalla-2025-06-20-132414.png" alt="entrevista2t" border="0">
+![Imagen de WhatsApp 2025-07-06 a las 04 55 46_fc463411](https://github.com/user-attachments/assets/68080a56-1cc5-4b55-be52-3972a984505d)
 
 Resumen:
 
@@ -5540,24 +5544,31 @@ En las presentes entregas, se llevaron a cabo actividades orientadas a la captur
 
 Como equipo llegamos a las siguientes conclusiones:
 
-- La primera fase del proyecto permitió comprender a profundidad el dominio del negocio y delimitar claramente la problemática relacionada con la seguridad en el transporte de materiales peligrosos.
-- El realizar todas las secciones previstas en este sistema se brindó una visión compartida del problema y sus posibles soluciones, además de  un avance clave que facilitará futuras iteraciones de diseño, implementación y validación de ChemTrack.
-- La planificación y ejecución del Sprint 1 permitió establecer una base sólida para el desarrollo del proyecto, facilitando la identificación temprana de los elementos faltantes y el enfoque necesario para avanzar de forma estructurada.
-- El desarrollo del Sprint Backlog fue clave para priorizar las tareas más relevantes, lo que permitió entregar una primera versión funcional del prototipo, centrada en los pilares del sistema.
-- Durante el srpint 2, se logró desplegar la versión final del frontend (web app y landing page), así como la primera versión funcional de los módulos Mobile, IoT y Edge, permitiendo validar integralmente los principales componentes del sistema ChemTrack.
-- Se completaron tareas clave como el despliegue de servicios web en entornos reales, la generación de artefactos móviles (APK), la implementación del canal de comunicación mediante MQTT entre dispositivos IoT y el backend, y la configuración del entorno de edge computing sobre AWS. Estas entregas representan una base operativa robusta sobre la cual se continuará construyendo en sprints futuros.
+En la primera fase del proyecto permitió comprender a profundidad el dominio del negocio y delimitar claramente la problemática relacionada con la seguridad en el transporte de materiales peligrosos. El realizar todas las secciones previstas en este sistema se brindó una visión compartida del problema y sus posibles soluciones, además de  un avance clave que facilitará futuras iteraciones de diseño, implementación y validación de ChemTrack. La planificación y ejecución del Sprint 1 permitió establecer una base sólida para el desarrollo del proyecto, facilitando la identificación temprana de los elementos faltantes y el enfoque necesario para avanzar de forma estructurada. El desarrollo del Sprint Backlog fue clave para priorizar las tareas más relevantes, lo que permitió entregar una primera versión funcional del prototipo, centrada en los pilares del sistema.
 
-Por otro lado recomendaríamos que: 
+Durante el srpint 2, se logró desplegar la versión final del frontend (web app y landing page), así como la primera versión funcional de los módulos Mobile, IoT y Edge, permitiendo validar integralmente los principales componentes del sistema ChemTrack. Se completaron tareas clave como el despliegue de servicios web en entornos reales, la generación de artefactos móviles (APK), la implementación del canal de comunicación mediante MQTT entre dispositivos IoT y el backend, y la configuración del entorno de edge computing sobre AWS. Estas entregas representan una base operativa robusta sobre la cual se continuará construyendo en sprints futuros.
 
-- Lo ideal para planificar y desarrollar un proyecto tan grande como este, se hicieran reuniones consecutivas para tener en cuenta que alineación del objetivo del proyecto sean de la misma forma para todos los involucrados.
-- Por último, documentar de forma continua cada iteración del proceso sería preciso para facilitar la trazabilidad del diseño y las decisiones tomadas en fases futuras.
-- El trabajo en equipo fue uno de los factores más importantes en esta etapa. La distribución equitativa de tareas y el cumplimiento de los plazos demostraron una coordinación efectiva y compromiso por parte de todos los integrantes.
-- La entrega de la landing page y del primer prototipo web permitió visualizar el rumbo del proyecto y validar aspectos clave de la propuesta inicial, sirviendo como punto de partida para las siguientes iteraciones.
-- Esta primera fase también sirvió para fortalecer la comunicación, organización y adaptabilidad del equipo, competencias esenciales para los próximos sprints.
-- En esta segunda entrega se sugiere realizar ciclos de prueba más frecuentes con usuarios finales que permitan validar la experiencia de uso en cada módulo entregado.
-- Es importante documentar no solo los entregables técnicos, sino también los aprendizajes obtenidos y desafíos superados, con el fin de capitalizar este conocimiento en siguientes iteraciones.
-- Dado que la solución involucra múltiples tecnologías (web, mobile, IoT, edge), se recomienda mantener un enfoque DevOps para estandarizar los flujos de integración y despliegue continuo.
-- Fortalecer las métricas de monitoreo y rendimiento de los módulos desplegados será clave para garantizar escalabilidad y confiabilidad de la solución en producción.
+En el sprint 3 se logró consolidar la versión final e integrada de las plataformas Mobile, IoT y Edge, asegurando una comunicación fluida y estable entre todos los componentes del sistema. La validación con usuarios reales permitió confirmar que la solución cumple con los requerimientos funcionales y de experiencia definidos al inicio del proyecto. Se completó exitosamente el prototipo físico del dispositivo IoT, el cual demostró su funcionalidad tanto en la recolección como en la transmisión de datos en tiempo real. La interoperabilidad entre artefactos (móvil ↔ IoT ↔ Edge) fue validada, confirmando que los flujos de datos y la arquitectura de comunicación diseñada son robustos y escalables. Se realizó el cierre del proyecto con todos los entregables principales completados, incluyendo documentación técnica, prototipos funcionales y resultados de validación.
+
+Por otro lado recomendaríamos que en base en los aprendizajes obtenidos a lo largo del desarrollo del proyecto ChemTrack, se proponen las siguientes recomendaciones para optimizar futuras fases del sistema y mejorar la gestión de proyectos similares: 
+
+- Es fundamental establecer reuniones periódicas entre todos los actores del proyecto para asegurar la alineación de objetivos, evitar ambigüedades y garantizar una toma de decisiones coherente desde el inicio hasta el cierre.
+
+- Se recomienda documentar de forma sistemática cada sprint, incluyendo avances, decisiones clave, problemas encontrados y soluciones implementadas. Esto facilitará la trazabilidad del proceso y agilizará futuras iteraciones o fases de mantenimiento.
+
+- El desempeño del equipo durante el proyecto demostró que la colaboración efectiva, la distribución equilibrada de tareas y el cumplimiento de plazos son factores críticos de éxito. Se sugiere continuar reforzando prácticas de trabajo en equipo y herramientas de gestión colaborativa.
+
+- Incluir pruebas frecuentes con usuarios reales en cada entrega incrementa la posibilidad de detectar y corregir errores o aspectos de usabilidad antes de etapas finales. Esta validación temprana mejora la calidad del producto y su adecuación a las necesidades del usuario.
+
+- Considerando la naturaleza distribuida y multitecnológica del sistema (web, móvil, IoT, edge), es recomendable adoptar prácticas DevOps para automatizar procesos de integración, pruebas y despliegue continuo, lo que garantiza entregas más seguras y eficientes.
+
+- La validación de la interoperabilidad entre los componentes es un paso clave; se sugiere mantener y evolucionar la arquitectura modular y escalable que fue planteada, especialmente en lo relacionado a microservicios, comunicación MQTT y procesamiento en el borde (edge computing).
+
+- Incorporar herramientas de monitoreo en tiempo real y sistemas de alerta para evaluar el desempeño de los distintos módulos (mobile, IoT y edge) permitirá identificar cuellos de botella y anticipar problemas en entornos de producción.
+
+- Con el proyecto finalizado, se recomienda diseñar una hoja de ruta que contemple mantenimiento, soporte técnico, actualización de tecnologías clave, y posibles mejoras futuras, especialmente si se planea escalar el sistema a nuevos contextos o usuarios.
+
+Más allá de los resultados técnicos, es esencial registrar y compartir los desafíos superados, decisiones clave, y buenas prácticas adquiridas, como parte del conocimiento colectivo del equipo. Esto enriquecerá futuros desarrollos y contribuirá a una cultura de mejora continua.
 
 
 ## Video About-the-Team
@@ -5566,7 +5577,7 @@ En el presente video hablamos de nuestras experiencias en el equipo cumpliendo c
 
 ![Imagen de WhatsApp 2025-06-20 a las 23 36 44_9c3d8588](https://github.com/user-attachments/assets/e2da59f9-e5ff-4689-a3e4-f27233aec618)
 
-[Enlace del video](https://youtu.be/P6Nz4u_BHZ4)
+[Enlace del video](https://youtu.be/HpFXHfODu2s)
 
 
 # Bibliografía
@@ -5595,7 +5606,6 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 ![image](https://github.com/user-attachments/assets/0ba27eb9-5cc4-468f-b3a3-f3ab755b4e94)
 
 
-
 **Anexo C.** Diagrama de Base de Datos de Chemtrack.
 
 ![image](https://github.com/user-attachments/assets/8891c6d6-734c-46f2-9289-fd25f42f66af)
@@ -5605,11 +5615,11 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 
 [Video de exposición TB1](https://youtu.be/n4_SKmnvCeU)
 
-[Video de exposición TP](https://youtu.be/Y9wkGYbHHYE)
+[Video de exposición TP1](https://youtu.be/Y9wkGYbHHYE)
 
 [Video de exposición TB2](https://youtu.be/Yd74MizvXWY)
 
-[Video de exposición TF]()
+[Video de exposición TF1](https://youtu.be/F0Hp7YIlBoA)
 
 
 
