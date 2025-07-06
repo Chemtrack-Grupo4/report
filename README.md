@@ -3873,7 +3873,7 @@ Demostración del funcionamiento de los endpoints a través de postman
 
 >**Edge**
 - Versión Inicial
-- Estado: Desplegado en AWS
+- Estado: Pruebas de entorno local
 
 ![image](https://github.com/user-attachments/assets/c715a7e0-b8bf-4fc1-8d42-ae2e549313d5)
 ![Imagen de WhatsApp 2025-06-19 a las 08 47 13_da59ddfe](https://github.com/user-attachments/assets/d1d4f105-9631-4dd1-82cc-a4255e09c334)
@@ -4015,54 +4015,6 @@ Aquí se hace presente el video demostrando el funcionamiento del despliegue del
 
 [Enlace del video](https://youtu.be/UDbjgP1GyrI)
 
->**Despliegue de Edge**
-
-El sistema **Edge** fue desplegado en **Amazon Web Services (AWS)** para interactuar con dispositivos **IoT** y gestionar mensajes mediante el protocolo **MQTT**.
-
-**Configuración de Red**
-
-- **VPC:** `proyecto-iot-vpc` (`10.0.0.0/16`)
-- **Subred pública:** `proyecto-iot-subnet-public1-us-east-1a`
-- **Gateway de Internet:** `proyecto-iot-igw`
-- **Tabla de enrutamiento:** `proyecto-iot-rtb-public` con acceso a Internet
-- **DNS:** Habilitado para resolución de nombres
-
-![image](https://github.com/user-attachments/assets/84af1e4c-1fe4-4b40-ba15-da66c5db737c)
-
-**Grupo de Seguridad (`proyecto-mqtt`)**
-
-Permite tráfico TCP desde `0.0.0.0/0` a:
-- `1883`: MQTT
-- `8883`: MQTT TLS
-- `8161` y `8162`: Dashboard u otros servicios
-
-![image](https://github.com/user-attachments/assets/efcaf931-11f5-4181-a2a7-1dea9fbbb35b)
-
-**Instancia EC2 (Edge)**
-
-- Ubuntu 22.04 en subred pública
-- Acceso SSH habilitado
-- Asociada al grupo de seguridad `proyecto-mqtt`
-
-![image](https://github.com/user-attachments/assets/abdc83ff-b4d8-4bc1-9289-e610995dd444)
-
-
-**Instalación y Ejecución**
-
-- Instalación de Python, `pip`, `paho-mqtt`, `requests`, etc.
-- Configuración de entorno virtual (`venv`)
-- Transferencia del código (via `scp` o `git clone`)
-- Configuración del cliente MQTT
-- Registro como servicio (`systemd`) para ejecución persistente
-
-![image](https://github.com/user-attachments/assets/a007d3f0-5390-44d0-b21f-d37162bf3afb)
-
-**Etapa final**
-![image](https://github.com/user-attachments/assets/639f0eb9-9f87-42a9-87ce-91e176b9f913)
-
-[Enlace del video](https://youtu.be/mHsDo7mMxjk)
-
-
 >**Despliegue del Mobile**
 
 Para el despliegue de la aplicación móvil, se generó el archivo APK utilizando Flutter. Esto se logró mediante el siguiente comando:
@@ -4195,288 +4147,304 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
         <td valign="top">Estimation (Hours)</td>
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
     </tr>
-    <tr>
-        <td rowspan="4" valign="top">US03</td>
-        <td rowspan="4" valign="top"> Verificación de Seguimiento de transporte a tiempo real</td>
+    <tr>    
+        <td rowspan="5" valign="top">US03</td>
+        <td rowspan="5" valign="top"> Verificación de Seguimiento de transporte a tiempo real</td>
         <td valign="top">T01</td>
         <td valign="top">Configuración del backend</td>
         <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos del sensor GPS</td>
-        <td valign="top">6</td>
-        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">4</td>
+        <td valign="top">Josue Hidalgo</td>
         <td valign="top">Done</td>
 </tr>
 <tr>
     <td valign="top">T02</td>
     <td valign="top">Integración backend-frontend</td>
     <td valign="top">Consumir la API de sensor de GPS desde para mostrar los datos al usuario.</td>
-    <td valign="top">4</td>
+    <td valign="top">5</td>
     <td valign="top">Fabrizzio Laguerre</td>
     <td valign="top">Done</td>
 </tr>
 <tr>
     <td valign="top">T03</td>
-    <td valign="top">Configuración del backend</td>
-    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos sensores desde el backend.</td>
+    <td valign="top">Vista de mapa con el seguimiento de transporte</td>
+    <td valign="top">Desarrollar la visualización de mapa que refleje en tiempo real el movimiento del transporte.</td>
     <td valign="top">6</td>
     <td valign="top">Niurka Huarcaya</td>
     <td valign="top">In Progress</td>
 </tr>
 <tr>
     <td valign="top">T04</td>
-    <td valign="top">Integración backend-frontend</td>
-    <td valign="top">Consumir la API de sensores desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">Sensor GPS para el seguimiento del transporte IoT </td>
+    <td valign="top">Consumir y mostrar los datos generados por el sensor GPS en el frontend para seguimiento IoT.</td>
     <td valign="top">4</td>
-    <td valign="top">Fabrizzio Laguerre	</td>
+    <td valign="top">Fabrizzio Laguerre </td>
+    <td valign="top">In Progress</td>
+</tr>
+<tr>
+    <td valign="top">T05</td>
+    <td valign="top">API de gps para el seguimiento a tiempo real del transporte</td>
+    <td valign="top">Desplegar una API que permita consultar la ubicación actual del transporte en tiempo real.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial</td>
     <td valign="top">In Progress</td>
 </tr>
     <tr>
-        <td rowspan="4" valign="top">US03</td>
-        <td rowspan="4" valign="top"> Verificación de Rutas Seguras</td>
-        <td valign="top">T05</td>
-    <td valign="top">Vista de rutas seguras (Web)</td>
-    <td valign="top">Implementar la interfaz que muestre rutas actuales y alertas en el mapa.</td>
-    <td valign="top">5</td>
-    <td valign="top">Josue Hidalgo	</td>
-    <td valign="top">Done</td>
-</tr>
-<tr>
-    <td valign="top">T06</td>
-    <td valign="top">Mapa interactivo de rutas (Mobile)</td>
-    <td valign="top">Mostrar al conductor rutas seguras y alertas en la aplicación móvil.</td>
-    <td valign="top">5</td>
-    <td valign="top">Andrea Garcia</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T07</td>
-    <td valign="top">Sensor GPS para rutas (IoT)</td>
-    <td valign="top">Configurar dispositivos IoT para detectar ubicación y posibles desvíos de ruta.</td>
-    <td valign="top">6</td>
-    <td valign="top">Camila Amaro</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T08</td>
-    <td valign="top">API de rutas y alertas (Backend)</td>
-    <td valign="top">Desarrollar endpoints para consultar rutas seguras y enviar alertas.</td>
-    <td valign="top">6</td>
-    <td valign="top">Sharon Barrial	</td>
-    <td valign="top">In progress</td>
-</tr>
-    <tr>
-        <td rowspan="4" valign="top">US12</td>
-        <td rowspan="4" valign="top"> Visualización de Transportistas Disponibles</td>
-        <td valign="top">T09</td>
-        <td valign="top">Diseño de interfaz de transportistas disponibles</td>
-        <td valign="top">Diseñar la vista web donde se mostrarán los transportistas disponibles.</td>
-        <td valign="top">4</td>
-        <td valign="top">Fabrizzio Laguerre	</td>
-        <td valign="top">Done</td>
-</tr>
-<tr>
-    <td valign="top">T10</td>
-    <td valign="top">Implementación de interfaz</td>
-    <td valign="top">Desarrollar la vista web para mostrar los transportistas disponibles.</td>
-    <td valign="top">5</td>
-    <td valign="top">Josue Hidalgo	</td>
-    <td valign="top">Done</td>
-</tr>
-<tr>
-    <td valign="top">T11</td>
+        <td rowspan="2" valign="top">US12</td>
+        <td rowspan="2" valign="top"> Visualizaciónde transportistas disponibles</td>
+        <td valign="top">T11</td>
     <td valign="top">Configuración del backend</td>
-    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar los datos de los transportistas disponibles desde el backend.</td>
+    <td valign="top">Crear la lógica necesaria para mostrar rutas activas y alertas en el mapa desde el backend.</td>
     <td valign="top">6</td>
-    <td valign="top">Niurka Huarcaya	</td>
-    <td valign="top">In Progress</td>
+    <td valign="top">Josue Hidalgo  </td>
+    <td valign="top">Done</td>
 </tr>
 <tr>
     <td valign="top">T12</td>
     <td valign="top">Integración backend-frontend</td>
-    <td valign="top">Consumir la API de los transportistas disponibles desde el frontend para mostrar los datos al usuario.</td>
+    <td valign="top">Integrar la funcionalidad para mostrar rutas seguras.</td>
     <td valign="top">4</td>
-    <td valign="top">Camila Amaro</td>
+    <td valign="top">Andrea Garcia</td>
     <td valign="top">In progress</td>
 </tr>
     <tr>
-        <td rowspan="4" valign="top">US10</td>
-        <td rowspan="4" valign="top">Actualización de Estado del Transporte</td>
+        <td rowspan="1" valign="top">US10</td>
+        <td rowspan="1" valign="top"> Actualización de Estado del Transporte    </td>
         <td valign="top">T13</td>
-    <td valign="top">Vista de reportes por vehículo (Web)</td>
-    <td valign="top">Mostrar historial de reportes recibidos por cada transporte en la plataforma web.</td>
-    <td valign="top">3</td>
-    <td valign="top">Josue Hidalgo</td>
-    <td valign="top">Done</td>
-</tr>
-<tr>
-    <td valign="top">T14</td>
-    <td valign="top">Visualización de actualización de estado (Mobile)</td>
-    <td valign="top">Permitir la visualización del estado del transporte a los empresarios.</td>
-    <td valign="top">4</td>
-    <td valign="top">Andrea Garcia</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T15</td>
-    <td valign="top">Sensor de estado del vehículo (IoT)</td>
-    <td valign="top">Capturar el estado del transporte (alerta de anomalías) mediante sensores.</td>
-    <td valign="top">5</td>
-    <td valign="top">Sharon Barrial	</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T16</td>
-    <td valign="top">API de estados del transporte (Backend)</td>
-    <td valign="top">Gestionar actualización, almacenamiento y consulta de estados del transporte.</td>
-    <td valign="top">5</td>
-    <td valign="top">Fabrizzio Laguerre	</td>
-    <td valign="top">In progress</td>
+        <td valign="top">Visualización de actualización del estado</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán el estado de actualizado de cada transporte.</td>
+        <td valign="top">3</td>
+        <td valign="top">Fabrizzio Laguerre </td>
+        <td valign="top">Done</td>
 </tr>
     <tr>
-        <td rowspan="4" valign="top">US11</td>
-        <td rowspan="4" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td>
-        <td valign="top">T17</td>
-    <td valign="top">Búsqueda de transportistas (Web)</td>
-    <td valign="top">Navbar para filtrar transportistas según parámetros específicos.</td>
-    <td valign="top">5</td>
-    <td valign="top">Niurka Huarcaya	</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T18</td>
-    <td valign="top">Formulario de solicitud (Mobile)</td>
-    <td valign="top">Permitir al usuario registrar una solicitud de transporte desde su dispositivo.</td>
-    <td valign="top">4</td>
-    <td valign="top">Camila Amaro</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T19</td>
-    <td valign="top">Validación de condiciones (IoT)</td>
-    <td valign="top">Verificar si el contenedor cumple con las condiciones necesarias mediante sensores.</td>
-    <td valign="top">6</td>
-    <td valign="top">Sharon Barrial	</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T20</td>
-    <td valign="top">API de publicación de solicitudes (Backend)</td>
-    <td valign="top">Crear endpoints para registrar, listar y gestionar solicitudes.</td>
-    <td valign="top">5</td>
-    <td valign="top">Fabrizzio Laguerre	</td>
-    <td valign="top">In progress</td>
-</tr>
-        <tr>
-        <td rowspan="4" valign="top">US13</td>
-        <td rowspan="4" valign="top">Acceso a Reporte de Incidentes</td>
-        <td valign="top">T21</td>
-    <td valign="top">Vista de historial e incidentes (Web)</td>
-    <td valign="top">Mostrar en la plataforma web el historial de viajes e incidentes asociados.</td>
-    <td valign="top">5</td>
-    <td valign="top">Niurka Huarcaya</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T22</td>
-    <td valign="top">Historial del transportista (Mobile)</td>
-    <td valign="top">Permitir al transportista ver su historial de viajes desde la app.</td>
-    <td valign="top">4</td>
-    <td valign="top">Josue Hidalgo	</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T23</td>
-    <td valign="top">Sincronización de logs (IoT)</td>
-    <td valign="top">Enviar datos desde sensores al backend para guardar en historial.</td>
-    <td valign="top">5</td>
-    <td valign="top">Andrea Garcia</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T24</td>
-    <td valign="top">API de historial (Backend)</td>
-    <td valign="top">Crear endpoints para consultar historial de transportes con filtros.</td>
-    <td valign="top">4</td>
-    <td valign="top">Niurka Huarcaya	</td>
-    <td valign="top">In progress</td>
-</tr>
-  <tr>
-        <td rowspan="4" valign="top">US14</td>
-        <td rowspan="4" valign="top">Control de tiempos de conducción de transporte</td>
-        <td valign="top">T25</td>
-    <td valign="top">Dashboard de tiempos (Web)</td>
-    <td valign="top">Visualizar en la web los tiempos de conducción total.</td>
-    <td valign="top">5</td>
-    <td valign="top">Sharon Barrial</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T26</td>
-    <td valign="top">Alertas de conducción (Mobile)</td>
-    <td valign="top">Notificar al transportista si excede el tiempo máximo permitido.</td>
-    <td valign="top">4</td>
-    <td valign="top">Fabrizzio Laguerre	</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T27</td>
-    <td valign="top">Sensor de tiempo de conducción (IoT)</td>
-    <td valign="top">Medir tiempo de conducción desde el encendido del vehículo.</td>
-    <td valign="top">5</td>
-    <td valign="top">Josue Hidalgo	</td>
-    <td valign="top">In progress</td>
-</tr>
-<tr>
-    <td valign="top">T28</td>
-    <td valign="top">Control y lógica de alertas (Backend)</td>
-    <td valign="top">Procesar y emitir alertas desde backend cuando se exceda tiempo permitido.</td>
-    <td valign="top">6</td>
-    <td valign="top">Camila Amaro	</td>
-    <td valign="top">In progress</td>
-</tr>
-    <tr>
-        <td rowspan="4" valign="top">US15</td>
-        <td rowspan="4" valign="top">Notificación de tiempo de conducción de transporte en exceso</td>
-        <td valign="top">T29</td>
-        <td valign="top">Diseño de interfaz de notificaciones</td>
-        <td valign="top">Diseñar la vista web donde se mostrarán las notificaciones al usuario.</td>
+        <td rowspan="1" valign="top">US08</td>
+        <td rowspan="1" valign="top"> Registro de Transportista de Combustibles Peligrosos  </td>
+        <td valign="top">T09</td>
+        <td valign="top">Implementar un botón que permita modificar el estado de habilitación de transportistas.</td>
+        <td valign="top">Diseñar la vista web donde se mostrarán los transportistas disponibles.</td>
         <td valign="top">4</td>
         <td valign="top">Camila Amaro</td>
         <td valign="top">Done</td>
 </tr>
 <tr>
-    <td valign="top">T30</td>
-    <td valign="top">Implementación de interfaz</td>
-    <td valign="top">Desarrollar la vista web para mostrar notificaciones del tiempo de conducción de transporte.</td>
-    <td valign="top">5</td>
-    <td valign="top">Sharon Barrial	</td>
+        <td rowspan="2" valign="top">TS01</td>
+        <td rowspan="2" valign="top">Implementación de Monitoreo del Vehículo</td>
+        <td valign="top">T03</td>
+        <td valign="top">Configuración del backend</td>
+        <td valign="top">Crear endpoints para recibir y procesar datos del GPS del vehículo en tiempo real.</td>
+        <td valign="top">6</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T04</td>
+    <td valign="top">Integración backend-frontend</td>
+    <td valign="top">Mostrar al usuario la ubicación del vehículo consumiendo datos GPS desde el backend.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre</td>
+    <td valign="top">Done</td>
+</tr>   
+<tr>
+        <td rowspan="3" valign="top">US03</td>
+        <td rowspan="3" valign="top">Implementación de Monitoreo del Vehículo</td>
+        <td valign="top">T06</td>
+        <td valign="top">Mapa interactivo de rutas(Mobile)</td>
+        <td valign="top">Desarrollar visualización de rutas en dispositivos móviles con datos GPS en tiempo real.</td>
+        <td valign="top">5</td>
+        <td valign="top">Andrea Garcia</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T07</td>
+    <td valign="top">Sensor GPS por rutas(IoT)</td>
+    <td valign="top">Integrar sensor GPS IoT que recoja la ubicación según rutas definidas</td>
+    <td valign="top">6</td>
+    <td valign="top">Camila Amaro</td>
     <td valign="top">Done</td>
 </tr>
 <tr>
-    <td valign="top">T31</td>
-    <td valign="top">Configuración del backend de notificaciones</td>
-    <td valign="top">Crear endpoints y lógica para generar, almacenar y enviar notificaciones desde el backend.</td>
+    <td valign="top">T08</td>
+    <td valign="top">API de rutas y alertas</td>
+    <td valign="top">Crear API para enviar rutas y alertas capturadas desde sensores GPS al frontend.</td>
     <td valign="top">6</td>
-    <td valign="top">Fabrizzio Laguerre	</td>
-    <td valign="top">In progress</td>
+    <td valign="top">Fabrizzio Laguerre</td>
+    <td valign="top">Done</td>
 </tr>
 <tr>
-    <td valign="top">T32</td>
-    <td valign="top">Integración backend-frontend</td>
-    <td valign="top">Consumir la API de notificaciones desde el frontend para mostrar los datos al usuario.</td>
+        <td rowspan="2" valign="top">US12</td>
+        <td rowspan="2" valign="top">Visualización de Transportitas disponibles</td>
+        <td valign="top">T11</td>
+        <td valign="top">Configuración del Backend</td>
+        <td valign="top">Configurar lógica y endpoints para consultar transportistas disponibles según posición GPS.</td>
+        <td valign="top">6</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T12</td>
+    <td valign="top">Integración frontend-backend</td>
+    <td valign="top">Mostrar transportistas disponibles en la interfaz usando datos GPS desde el backend.</td>
     <td valign="top">4</td>
-    <td valign="top">Niurka Huarcaya	</td>
-    <td valign="top">In progress</td>
+    <td valign="top">Fabrizzio Laguerre</td>
+    <td valign="top">Done</td>
 </tr>
-  <tr>
-        <td rowspan="3" valign="top">US16</td>
-        <td rowspan="3" valign="top">Landing Page responsive</td>
-        <td valign="top">T33</td>
-        <td valign="top">Mejora del diseño responsive en dispositivos reales</td>
-    <td valign="top">Realizar pruebas de la landing en diferentes tamaños de pantalla y navegadores, corrigiendo errores de diseño y visualización.</td>
-    <td valign="top">2</td>
-    <td valign="top">Sharon Barrial	</td>
-    <td valign="top"> In progress</td>
+<tr>
+        <td rowspan="3" valign="top">US10</td>
+        <td rowspan="3" valign="top">Actualización del estado del transporte</td>
+        <td valign="top">T14</td>
+        <td valign="top">Visualización de actualización del estado</td>
+        <td valign="top">Implementar vista para mostrar los cambios en el estado del transporte desde el backend.</td>
+        <td valign="top">4</td>
+        <td valign="top">Andrea Garcia</td>
+        <td valign="top">Done</td>
 </tr>
+<tr>
+    <td valign="top">T15</td>
+    <td valign="top">Sensor de estado del vehiculo</td>
+    <td valign="top">Integrar sensor que detecte y envíe actualizaciones del estado del vehículo.</td>
+    <td valign="top">4</td>
+    <td valign="top">Fabrizzio Laguerre</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T16</td>
+    <td valign="top">API de estados del transporte</td>
+    <td valign="top">Desarrollar API para consultar y visualizar el estado actual de cada unidad de transporte.</td>
+    <td valign="top">5</td>
+    <td valign="top">Sharon Barrial</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+        <td rowspan="4" valign="top">US11</td>
+        <td rowspan="4" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td>
+        <td valign="top">T17</td>
+        <td valign="top">Búsqueda de transportistas</td>
+        <td valign="top">Implementar lógica para filtrar y buscar transportistas disponibles para productos peligrosos.</td>
+        <td valign="top">5</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T18</td>
+    <td valign="top">Formulario de solicitud</td>
+    <td valign="top">Crear formulario interactivo que registre solicitudes de transporte en el frontend.</td>
+    <td valign="top">4</td>
+    <td valign="top">Camila Amaro</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T19</td>
+    <td valign="top">Validación de condiciones</td>
+    <td valign="top">Validar los requisitos y condiciones de seguridad en la solicitud de transporte.</td>
+    <td valign="top">6</td>
+    <td valign="top">Sharon Barrial</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+    <td valign="top">T20</td>
+    <td valign="top">API de publicación de solicitudes</td>
+    <td valign="top">Crear API que registre y publique las solicitudes en tiempo real en el sistema.</td>
+    <td valign="top">5</td>
+    <td valign="top">Fabrizzio Laguerre</td>
+    <td valign="top">Done</td>
+</tr>
+<tr>
+        <td rowspan="4" valign="top">US13</td>
+        <td rowspan="4" valign="top">Acceso a reporte de incidentes</td>
+        <td valign="top">T21</td>
+        <td valign="top">Vista de historial e incidentes</td>
+        <td valign="top">Diseñar vista que muestre historial de viajes e incidentes</td>
+        <td valign="top">5</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+</tr>
+    <tr>
+        <td valign="top">T22</td>
+        <td valign="top">Historial del transportista</td>
+        <td valign="top">Mostrar información histórica sobre rutas, incidentes y desempeño del conductor.</td>
+        <td valign="top">4</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">T23</td>
+        <td valign="top">Sincronización de logs</td>
+        <td valign="top">Integrar la lógica para sincronizar registros del sistema con los eventos GPS..</td>
+        <td valign="top">5</td>
+        <td valign="top">Andrea Garcia</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">T24</td>
+        <td valign="top">API del historial</td>
+        <td valign="top">Crear API que permita consultar datos históricos y eventos del transportista.</td>
+        <td valign="top">4</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+            <td rowspan="4" valign="top">US14</td>
+            <td rowspan="4" valign="top">Control de tiempos de conducción de transporte</td>
+            <td valign="top">T25</td>
+            <td valign="top">Dashboard de tiempos</td>
+            <td valign="top">Mostrar tiempos de conducción acumulados por viaje en un panel de control visual.</td>
+            <td valign="top">5</td>
+            <td valign="top">Sharon Barrial</td>
+            <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">T26</td>
+        <td valign="top">Alertas de conducción</td>
+        <td valign="top">Generar alertas si el conductor excede límites de tiempo establecidos.</td>
+        <td valign="top">4</td>
+        <td valign="top">Fabrizzio Laguerre</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">T27</td>
+        <td valign="top">Sensor de tiempo de conducción</td>
+        <td valign="top">Registrar la duración de los trayectos usando sensores GPS.</td>
+        <td valign="top">5</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">T28</td>
+        <td valign="top">Control y lógica de alertas</td>
+        <td valign="top">Desarrollar lógica para determinar cuándo emitir alertas de conducción excesiva.</td>
+        <td valign="top">6</td>
+        <td valign="top">Camila Amaro</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+            <td rowspan="2" valign="top">US15</td>
+            <td rowspan="2" valign="top">Notificación de tiempo de conducción de transporte en exceso</td>
+            <td valign="top">T31</td>
+            <td valign="top">Configuración del backend de notificaciones</td>
+            <td valign="top">Desarrollar backend que detecte exceso de tiempo y envíe alertas automáticas.</td>
+            <td valign="top">6</td>
+            <td valign="top">Fabrizio Laguerre</td>
+            <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">T32</td>
+        <td valign="top">Integracion backend frontend</td>
+        <td valign="top">Mostrar notificaciones al usuario en la aplicación cuando haya conducción en exceso.</td>
+        <td valign="top">4</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+            <td rowspan="1" valign="top">US16</td>
+            <td rowspan="1" valign="top">Landing Page responsive</td>
+            <td valign="top">T33</td>
+            <td valign="top">Mejora del diseño responsive en dispositivos reales</td>
+            <td valign="top">Probar y ajustar el diseño web para garantizar correcta visualización en múltiples dispositivos.</td>
+            <td valign="top">2</td>
+            <td valign="top">Sharon Barrial</td>
+            <td valign="top">Done</td>
+    </tr>
 </tbody>
 </table>
 
@@ -4486,6 +4454,91 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review
 
+>**Despliegue de Landing Page** 
+
+La Landing Page fue desplegada utilizando **GitHub Pages**, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (`main` o `gh-pages`) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
+
+![github](https://github.com/user-attachments/assets/73bd7cc4-21c8-4b74-8825-5187511ba209)
+[Enlace de video](https://youtu.be/iZ1wX6IyvGI)
+
+>**Despliegue del Frontend**
+
+Para la aplicación principal desarrollada en Angular, se utilizó **Netlify** como plataforma de despliegue debido a su integración continua y facilidad de configuración.
+
+El proceso consistió en:
+
+**Compilación del proyecto Angular**  
+Se ejecutó el comando `ng build` desde la raíz del proyecto, generando los archivos estáticos dentro del directorio `dist/`.
+
+**Configuración del archivo `netlify.toml`**  
+Se creó el archivo de configuración `netlify.toml` con el objetivo de gestionar correctamente las rutas internas de Angular. Esto garantiza que las solicitudes de navegación directa a rutas definidas por Angular sean correctamente redirigidas.
+
+**Carga del contenido en Netlify**  
+Se seleccionó el subdirectorio correspondiente dentro de `dist/` (específicamente el que representa el nombre del proyecto) como carpeta de despliegue en Netlify.  
+Al finalizar el proceso, se obtuvo el registro exitoso del despliegue.
+
+![Imagen de WhatsApp 2025-06-20 a las 17 25 55_64fe3bb9](https://github.com/user-attachments/assets/0bd7cdc5-cf6d-459a-8fbc-b6a5c4c09c24)
+
+
+De esta manera, el avance del **Sprint 2** quedó funcional y disponible públicamente para su evaluación.
+
+![image](https://github.com/user-attachments/assets/a1e99f7f-b64f-43fc-9b08-a09f93a62f4d)
+
+>**Despliegue del Backend**
+
+**Configuración del repositorio**
+   - Se aseguró que el repositorio de backend estuviera limpio y contuviera todos los archivos necesarios para el build.
+   - Se definieron variables de entorno desde Railway para la conexión a servicios externos como la base de datos y MQTT.
+  
+![image]()
+
+**Integración con Railway**
+   - Se accedió a **Railway** y se creó un nuevo proyecto.
+   - Se conectó el proyecto directamente al repositorio en GitHub, seleccionando la rama principal para el despliegue.
+   - Azure detectó automáticamente el stack del proyecto e inició el proceso de construcción (**build**).
+
+![image]()
+
+**Despliegue automático**
+   - Una vez completado el build, Azure desplegó el backend y proporcionó una URL pública accesible.
+   - Se habilitó el monitoreo en tiempo real para verificar el estado del servicio.
+   - En caso de errores o necesidad de debugging, Railway ofrece visualización de logs directamente desde el panel.
+
+![image]()
+
+Aquí se hace presente el video demostrando el funcionamiento del despliegue del backend haciendo uso de POSTMAN.
+
+[Enlace del video](https://youtu.be/UDbjgP1GyrI)
+
+
+>**Despliegue del Mobile**
+
+Para el despliegue de la aplicación móvil, se generó el archivo APK utilizando Flutter. Esto se logró mediante el siguiente comando:
+
+```bash
+flutter build apk --release
+```
+Posteriormente, se realizó la carga del APK en una plataforma de distribución para facilitar las pruebas internas. **Firebase App Distribution**
+
+Finalmente, se verificó su correcto funcionamiento en distintos dispositivos Android con el fin de asegurar la **estabilidad**, **compatibilidad** y **usabilidad** del APK generado.
+
+Este despliegue permitió a los usuarios evaluar las funcionalidades implementadas durante el Sprint, facilitando la **retroalimentación temprana** para futuras iteraciones y asegurando una **experiencia fluida** antes de su publicación oficial.
+
+![Imagen de WhatsApp 2025-06-19 a las 22 38 36_ee83ce24](https://github.com/user-attachments/assets/e102840b-4ae3-47d2-bdc6-74f68dc8febc)
+
+![Imagen de WhatsApp 2025-06-19 a las 22 38 54_9e29d9ee](https://github.com/user-attachments/assets/25d3c782-9102-47a0-ab15-4aeb012f2281)
+
+![Imagen de WhatsApp 2025-06-19 a las 22 40 12_6e97f421](https://github.com/user-attachments/assets/0d4b2b4f-aa55-43c9-b206-b451c01e2538)
+
+Link de landing page: https://chemtrack-grupo4.github.io/Landing-Page/
+
+Link de web application: https://chemtrack-app.netlify.app/services
+
+Link del mobile application: https://drive.google.com/file/d/1Zb7HNpkLBJKW9ON0I5ydz33bGrYA59-D/view?usp=drive_link
+
+Link de backend: https://chemtrack-backend-production.up.railway.app/api/safeflow/v1/records
+
+Link de IoT: https://wokwi.com/projects/434116969269344257
 
 
 #### 6.2.3.9. Team Collaboration Insights During Sprint
