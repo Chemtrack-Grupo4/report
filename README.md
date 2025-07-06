@@ -4452,6 +4452,77 @@ Mejoras de Frontend (web y mobile) e implementación del Backend, IoT y Edge aco
 #### 6.2.3.5. Testing Suite Evidence for Sprint Review
 #### 6.2.3.6. Execution Evidence for Sprint Review
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
+
+Para el Sprint 3, se verificaron que los siguientes endpoints clave permitan gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
+
+| Endpoint | Detalles |
+| - | - | 
+| /user-controller| En este endpoint se almacenan la información de los usuarios, tales como username, email, password, role, photo y token | 
+| /deliveries | En este endpoint se almacenan las entregas que aun no tienen ligadas un incidente | 
+| /services  | En este endpoint se almacenan los servicios realizados por parte de las empresas | 
+| /incidents | En este endpoint se almacenan los incidentes registrados manualmente | 
+| /sensors	 | 	Este endpoint gestiona la creación, consulta y envío de notificaciones de mantenimiento, nuevas solicitudes y alertas por tiempo de conducción. | 
+
+>Sensors
+
+![image](https://github.com/user-attachments/assets/91290394-3803-49fd-99da-e2f50a973e65)
+
+Al hacer un post se muestra en la página web los sensores que están activados
+
+![image](https://github.com/user-attachments/assets/7909b9a7-90f7-48d3-81c1-d98aec20efcc)
+
+>Incidents
+
+![image](https://github.com/user-attachments/assets/d39b9b08-f3ef-481e-a115-97c23c922255)
+
+Visualización de Incidents en el mobile 
+
+![Imagen de WhatsApp 2025-06-20 a las 18 04 12_de39af0b](https://github.com/user-attachments/assets/ebe1eac1-8a60-4cef-b6af-e62908f5baf4)
+
+
+>Services
+
+![image](https://github.com/user-attachments/assets/a4296f9c-cb99-47aa-802c-1feb6683278b)
+
+Se muestra los servicios On-Going en la página web
+
+![image](https://github.com/user-attachments/assets/a673b2f7-2695-42e3-a299-006171176a46)
+
+Se muetsra los servicios On-Going en la app mobile
+
+![Imagen de WhatsApp 2025-06-20 a las 18 02 37_6554115d](https://github.com/user-attachments/assets/1abd3326-5818-4282-b652-b5f4e27a5f74)
+
+
+>Deliveries
+
+![image](https://github.com/user-attachments/assets/6fbaa0b1-9c2a-4a5d-b07a-690c7f6f30a6)
+
+Los servicios monitoreados en tiempo real
+
+![image](https://github.com/user-attachments/assets/0c116d69-0ae2-4e24-bdcf-740b5789c602)
+
+Los servicios a tiempo real visualizados en mobile
+
+![Imagen de WhatsApp 2025-06-20 a las 18 03 01_abdef808](https://github.com/user-attachments/assets/109230bf-d1dd-4054-a871-3b0255c6c201)
+
+
+Más detalles de los servicios en tiempo real
+
+![image](https://github.com/user-attachments/assets/2a765605-1ee4-4e46-aa97-aaa23c643381)
+
+
+Más detalle del deliveries vistos en mobile
+
+![Imagen de WhatsApp 2025-06-20 a las 18 03 47_ccd2b56e](https://github.com/user-attachments/assets/f7427e13-3f42-4ca4-a89d-64b01afcde64)
+
+
+>Auth controller & User controller
+![image](https://github.com/user-attachments/assets/4c2e8574-5027-4a7e-8fb3-73cdbfbf6dfd)
+
+Muestra de los empleados de acuerdo al usuario autenticado
+
+![image](https://github.com/user-attachments/assets/9ae48dec-c055-4fc8-a08a-66b70bf44254)
+
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review
 
 >**Despliegue de Landing Page** 
@@ -4480,7 +4551,7 @@ Al finalizar el proceso, se obtuvo el registro exitoso del despliegue.
 ![Imagen de WhatsApp 2025-06-20 a las 17 25 55_64fe3bb9](https://github.com/user-attachments/assets/0bd7cdc5-cf6d-459a-8fbc-b6a5c4c09c24)
 
 
-De esta manera, el avance del **Sprint 2** quedó funcional y disponible públicamente para su evaluación.
+De esta manera, el avance del **Sprint 3** quedó funcional y disponible públicamente para su evaluación.
 
 ![image](https://github.com/user-attachments/assets/a1e99f7f-b64f-43fc-9b08-a09f93a62f4d)
 
