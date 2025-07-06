@@ -5451,7 +5451,8 @@ Una vez que la información del empleado ha sido añadida, no se ofrece una opci
 <b>Recomendación:</b>  
 Permitir la edición de la información del empleado desde la interfaz de usuario. <br>
 
-<img src="https://media.discordapp.net/attachments/1364445917452697683/1381341024118378506/image.png?ex=6855aa14&is=68545894&hm=60762ed73edb340afc554907d9bbe50c5d55aacef4ead0f9c40ca87ab3435c11&=&format=webp&quality=lossless&width=1236&height=823" alt="web-problem4" border="0"><br>
+![image](https://github.com/user-attachments/assets/082cf5ff-eb2e-47f5-b327-71c82ff4e9e3)
+
 
 **PROBLEMA #5:** Falta de indicadores de estado de entrega<br>
 <b>Severidad:</b> 3  
@@ -5461,7 +5462,8 @@ No se proporcionan indicadores claros del estado de cada entrega (por ejemplo, "
 <b>Recomendación:</b>  
 Incluir indicadores visuales del estado de cada entrega en la pantalla principal. <br>
 
-<img src="https://media.discordapp.net/attachments/1364445917452697683/1381340703304716418/image.png?ex=6855a9c7&is=68545847&hm=583c8c650bb070c8173569b8a60d16bfe171d556f5ef435897c0be244133bc24&=&format=webp&quality=lossless&width=1238&height=823" alt="web-problem5" border="0"><br>
+![image](https://github.com/user-attachments/assets/369e3de8-23c4-474a-bd2d-41c607f0abc9)
+
 
 **PROBLEMA #6:** No se muestran las imágenes de los empleados en el listado  
 <b>Severidad:</b> 2 <br>
@@ -5471,7 +5473,8 @@ La sección de empleados muestra solo nombres y datos básicos sin incluir la im
 <b>Recomendación:</b>  
 Incorporar imágenes o avatares de los empleados junto a sus nombres. Si por razones de privacidad no se puede mostrar la foto real, usar avatares personalizados o íconos que ayuden a la diferenciación visual. <br>
 
-<img src="https://media.discordapp.net/attachments/1364445917452697683/1381341024118378506/image.png?ex=6855aa14&is=68545894&hm=60762ed73edb340afc554907d9bbe50c5d55aacef4ead0f9c40ca87ab3435c11&=&format=webp&quality=lossless&width=1236&height=823" alt="web-problem6" border="0"><br>
+![image](https://github.com/user-attachments/assets/6c9c6f18-fdd9-40a5-8ab5-a64f9ed922ce)
+
 
 **- Mobile Application**
 
